@@ -1,1 +1,1 @@
-# animal-adoption-mids-captsone
+# animal-adoption-mids-capstone
