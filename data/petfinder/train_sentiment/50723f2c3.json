@@ -1,0 +1,91 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "stray dog puppy about 3mths+.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "friendly, healthy&amp;active.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "adopter need to vaccine+deworm once adopted.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog puppy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.85643256,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "healthy&active",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0kt51",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Health"
+      },
+      "salience": 0.094439656,
+      "mentions": [
+        {
+          "text": {
+            "content": "healthy&amp;active",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "vaccine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04912781,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

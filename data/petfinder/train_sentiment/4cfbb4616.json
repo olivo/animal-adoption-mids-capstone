@@ -1,0 +1,110 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Oren is Bobo's kitten.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Very friendly and love to lick people that he knows.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Already can eat commercial kitten food",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Oren",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6752756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oren",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bobo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.24302173,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bobo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.053298,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02840465,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

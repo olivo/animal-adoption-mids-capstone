@@ -1,0 +1,158 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Jack is a Jack Russell crossed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He is very friendly, active, playful, and joyful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He has four short legs and a stubby tail.Still it will wags vigourously atwhat delights him.You should see how he &amp; his age gang troop around our garden &amp; terrace.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Jack Russell",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01d7fl",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jack_Russell_Terrier"
+      },
+      "salience": 0.8892156,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jack",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jack Russell",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "legs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028456176,
+      "mentions": [
+        {
+          "text": {
+            "content": "legs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tail.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026137548,
+      "mentions": [
+        {
+          "text": {
+            "content": "tail.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "age gang troop",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019755783,
+      "mentions": [
+        {
+          "text": {
+            "content": "age gang troop",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "garden",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013864621,
+      "mentions": [
+        {
+          "text": {
+            "content": "garden",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terrace",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013864621,
+      "mentions": [
+        {
+          "text": {
+            "content": "terrace",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "delights",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008705682,
+      "mentions": [
+        {
+          "text": {
+            "content": "delights",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

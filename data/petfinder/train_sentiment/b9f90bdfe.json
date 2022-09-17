@@ -1,0 +1,405 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Maxx and Daxx, both brothers adopted from SPCA when they were 6mths old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Affectionate, Lovable yet Playful and warm up to people easily even kids.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Both healthy and regularly groomed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Due to a recent unfortunate incident, we had to move.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "It's been more than 1 month, Maxx &amp; Daxx could not adjust.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "They had been barking especially at nights when security guards make their rounds.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "The light from torchlight somehow triggered the barks.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "This has resulted in complaints from neighbors and the property management.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Hence, desperately seeking a good home for them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "brothers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.44996125,
+      "mentions": [
+        {
+          "text": {
+            "content": "brothers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SPCA",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0117qddf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Society_for_the_Prevention_of_Cruelty_to_Animals"
+      },
+      "salience": 0.1165293,
+      "mentions": [
+        {
+          "text": {
+            "content": "SPCA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Maxx",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1065047,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maxx",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Maxx",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Daxx",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07436177,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daxx",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Daxx",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.036657408,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kids",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024807869,
+      "mentions": [
+        {
+          "text": {
+            "content": "kids",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "incident",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.02459857,
+      "mentions": [
+        {
+          "text": {
+            "content": "incident",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lovable",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02175538,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lovable",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Playful",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02175538,
+      "mentions": [
+        {
+          "text": {
+            "content": "Playful",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "security guards",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019209052,
+      "mentions": [
+        {
+          "text": {
+            "content": "security guards",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "barks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017131347,
+      "mentions": [
+        {
+          "text": {
+            "content": "barks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbors",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017103342,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbors",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "complaints",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017103342,
+      "mentions": [
+        {
+          "text": {
+            "content": "complaints",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "property management",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011984928,
+      "mentions": [
+        {
+          "text": {
+            "content": "property management",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011967616,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nights",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0075420444,
+      "mentions": [
+        {
+          "text": {
+            "content": "nights",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "torchlight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0075277705,
+      "mentions": [
+        {
+          "text": {
+            "content": "torchlight",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "light",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0075277705,
+      "mentions": [
+        {
+          "text": {
+            "content": "light",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rounds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0059711505,
+      "mentions": [
+        {
+          "text": {
+            "content": "rounds",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 4.2,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,280 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hermione is named after Hermione Granger of Harry Potter books because she's got brown hair, gutsy and smart.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She is a perfect healthy kitten that loves to play.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She's got a loud purr and loves to run and investigate everything.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Hermione is comfortable with young children because she is looked after by 2 young kids.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She is now looking for a loving forever home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Basic facts: Estimated date of birth: 6 Jan De-wormed on 20 Feb Litter box expert user",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Hermione Granger",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0c8kc",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Hermione_Granger"
+      },
+      "salience": 0.7671676,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hermione",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Hermione Granger",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Hermione",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "books",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.07638364,
+      "mentions": [
+        {
+          "text": {
+            "content": "books",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Harry Potter",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Harry_Potter",
+        "mid": "/m/078ffw"
+      },
+      "salience": 0.046640974,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harry Potter",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "everything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04617217,
+      "mentions": [
+        {
+          "text": {
+            "content": "everything",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brown hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019245682,
+      "mentions": [
+        {
+          "text": {
+            "content": "brown hair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009244513,
+      "mentions": [
+        {
+          "text": {
+            "content": "children",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0069613038,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "facts",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0069458005,
+      "mentions": [
+        {
+          "text": {
+            "content": "facts",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "birth",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0069458005,
+      "mentions": [
+        {
+          "text": {
+            "content": "birth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "purr",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0063519026,
+      "mentions": [
+        {
+          "text": {
+            "content": "purr",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Litter box expert user",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.004869985,
+      "mentions": [
+        {
+          "text": {
+            "content": "Litter box expert user",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kids",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030706285,
+      "mentions": [
+        {
+          "text": {
+            "content": "kids",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.6,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

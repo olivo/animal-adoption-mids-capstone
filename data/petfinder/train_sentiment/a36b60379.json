@@ -1,0 +1,226 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Owner had a fall &amp; has spinal cord injury.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Unable to take care.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Golden Retriever pure large breed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Has birth cert &amp; MKA cert.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Attended basic Obedient Class.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Loving and clean dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4808526,
+      "mentions": [
+        {
+          "text": {
+            "content": "Owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spinal cord injury",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18739925,
+      "mentions": [
+        {
+          "text": {
+            "content": "spinal cord injury",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07235919,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "birth cert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.066400364,
+      "mentions": [
+        {
+          "text": {
+            "content": "birth cert",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06384972,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Golden Retriever",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/01t032",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Golden_Retriever"
+      },
+      "salience": 0.038066193,
+      "mentions": [
+        {
+          "text": {
+            "content": "Golden Retriever",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030968877,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Obedient Class",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.02625071,
+      "mentions": [
+        {
+          "text": {
+            "content": "Obedient Class",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cert",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022261053,
+      "mentions": [
+        {
+          "text": {
+            "content": "cert",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "MKA",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0115920305,
+      "mentions": [
+        {
+          "text": {
+            "content": "MKA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

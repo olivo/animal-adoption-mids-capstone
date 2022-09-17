@@ -1,0 +1,133 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "V cute and intelligent puppies looking for a home sweet home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Commitment to spay upon maturity is compulsory.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Interested to adopt pls contact Amy @",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "V",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.35923976,
+      "mentions": [
+        {
+          "text": {
+            "content": "V",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.24331518,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home sweet home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.19143634,
+      "mentions": [
+        {
+          "text": {
+            "content": "home sweet home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Commitment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1022357,
+      "mentions": [
+        {
+          "text": {
+            "content": "Commitment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "maturity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07878621,
+      "mentions": [
+        {
+          "text": {
+            "content": "maturity",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Amy @",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02498682,
+      "mentions": [
+        {
+          "text": {
+            "content": "Amy @",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

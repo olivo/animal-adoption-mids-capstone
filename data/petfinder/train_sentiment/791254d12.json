@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "SHE IS FRIENDLY, INDEPENDENT, CALM AND QUIET CAT.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "SHE COULD GETTING ALONG WITH OTHER PETS TOO.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "CAT",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.50449044,
+      "mentions": [
+        {
+          "text": {
+            "content": "CAT",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "INDEPENDENT",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.35356188,
+      "mentions": [
+        {
+          "text": {
+            "content": "INDEPENDENT",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "PETS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14194772,
+      "mentions": [
+        {
+          "text": {
+            "content": "PETS",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

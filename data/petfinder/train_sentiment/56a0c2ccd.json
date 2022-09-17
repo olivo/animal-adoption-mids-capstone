@@ -1,0 +1,168 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Whisky is a boisterous happy puppy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Great for owners with an active lifestyle looking for a canine companion.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He is also alert and a good watchdog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Please call if you can give him a good home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Whisky",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/082bv",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Whisky"
+      },
+      "salience": 0.7020428,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whisky",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "alert",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13754988,
+      "mentions": [
+        {
+          "text": {
+            "content": "alert",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owners",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.056565292,
+      "mentions": [
+        {
+          "text": {
+            "content": "owners",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "canine companion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038979437,
+      "mentions": [
+        {
+          "text": {
+            "content": "canine companion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lifestyle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03851191,
+      "mentions": [
+        {
+          "text": {
+            "content": "lifestyle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014437639,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "watchdog",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.011913016,
+      "mentions": [
+        {
+          "text": {
+            "content": "watchdog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.8,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,66 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Baby was the youngest among the kittens and is very cuddly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He's quiet and pampered.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Baby",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0jnvp",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Infant"
+      },
+      "salience": 0.8135854,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baby",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1864146,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

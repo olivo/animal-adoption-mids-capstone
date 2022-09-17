@@ -1,0 +1,99 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "SHIRO - 2 year old male Labrador cross breed urgently looking for a new home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "To adopt, kindly contact Maggie .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cross breed",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.3698098,
+      "mentions": [
+        {
+          "text": {
+            "content": "cross breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.34598526,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Labrador",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0km3f",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Labrador_Retriever"
+      },
+      "salience": 0.22799684,
+      "mentions": [
+        {
+          "text": {
+            "content": "Labrador",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Maggie",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0h36rz5",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Maggie_Greene"
+      },
+      "salience": 0.056208085,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maggie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

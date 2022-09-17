@@ -1,0 +1,292 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "He is a stray dog found wandering around University Putra Malaysia (UPM), Serdang main campus.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I have been told that a security guard saw a group of Malay boys used a stick to hit him and shoo him away.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He does not show any physical injuries but have weak hind legs only.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I hope a family can adopt him and give him a forever loving home which he deserves.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Otherwise, I do not know what will happen to him due to UPM's no dog policy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5318761,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "security guard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17273602,
+      "mentions": [
+        {
+          "text": {
+            "content": "security guard",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "University Putra Malaysia",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Universiti_Putra_Malaysia",
+        "mid": "/m/05w7ln"
+      },
+      "salience": 0.08108387,
+      "mentions": [
+        {
+          "text": {
+            "content": "University Putra Malaysia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "UPM",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "UPM",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "campus",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.052047756,
+      "mentions": [
+        {
+          "text": {
+            "content": "campus",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.031619783,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Serdang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1q679c138"
+      },
+      "salience": 0.031032842,
+      "mentions": [
+        {
+          "text": {
+            "content": "Serdang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "stick",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.01794,
+      "mentions": [
+        {
+          "text": {
+            "content": "stick",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "group",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.017083894,
+      "mentions": [
+        {
+          "text": {
+            "content": "group",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boys",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017083894,
+      "mentions": [
+        {
+          "text": {
+            "content": "boys",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hind legs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01560457,
+      "mentions": [
+        {
+          "text": {
+            "content": "hind legs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Malay",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010122392,
+      "mentions": [
+        {
+          "text": {
+            "content": "Malay",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog policy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008299924,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog policy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "injuries",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008250241,
+      "mentions": [
+        {
+          "text": {
+            "content": "injuries",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005218727,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

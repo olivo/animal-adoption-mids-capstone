@@ -1,0 +1,66 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "letting go my kitten for free.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "persian",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.8192426,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "persian",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0j46v",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Persian_cat"
+      },
+      "salience": 0.18075739,
+      "mentions": [
+        {
+          "text": {
+            "content": "persian",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

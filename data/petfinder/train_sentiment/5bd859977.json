@@ -1,0 +1,156 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Found at Coffee Shop.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Not allowed into coffee shop Happy bouncy girl Bathed daily by cleaner lady Bathed with waterless bath after that Dewormed 20 Aug @ 4 months of age To be vaccinated 2-3x, then neutered before adoption which is estimated around Oct-Nov Whatsapp if u want to donate to her or other stray rescue costs.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3687885,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Coffee Shop",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/020fb2",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Coffeehouse"
+      },
+      "salience": 0.2904786,
+      "mentions": [
+        {
+          "text": {
+            "content": "Coffee Shop",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "coffee shop",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.09532262,
+      "mentions": [
+        {
+          "text": {
+            "content": "coffee shop",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057860877,
+      "mentions": [
+        {
+          "text": {
+            "content": "age",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lady",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.057165682,
+      "mentions": [
+        {
+          "text": {
+            "content": "lady",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bath",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057165682,
+      "mentions": [
+        {
+          "text": {
+            "content": "bath",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.044969544,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rescue costs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028248508,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescue costs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

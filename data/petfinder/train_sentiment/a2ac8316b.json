@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Call or whatsapp Jocelyn to adopt if decide to care for it for life.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Dogs are not garbage to be thrown away.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Jocelyn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5672194,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jocelyn",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.25429347,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12419368,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "garbage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05429348,
+      "mentions": [
+        {
+          "text": {
+            "content": "garbage",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,66 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Looking for a home for Tom Tom.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Please whatsapp",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.6000496,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tom Tom",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/03p3m2y",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/TomTom"
+      },
+      "salience": 0.39995039,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom Tom",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,210 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Princess Leia was abandoned on the street with her bother Darth Vader.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "According to Vet they are small breed to max of 10kg.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Princess Leia is very affectionate and she must get the first pat on the head!!!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Definitely playful and lovely small breed dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Very playful too.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Leia",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Princess_Leia",
+        "mid": "/m/0ddqw"
+      },
+      "salience": 0.7661373,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Princess",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Leia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Princess",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "street",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.13453646,
+      "mentions": [
+        {
+          "text": {
+            "content": "street",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Darth Vader",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0f2y0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Darth_Vader"
+      },
+      "salience": 0.033030782,
+      "mentions": [
+        {
+          "text": {
+            "content": "Darth Vader",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "breed",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026164806,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "max",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018310424,
+      "mentions": [
+        {
+          "text": {
+            "content": "max",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breed dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008959402,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007214179,
+      "mentions": [
+        {
+          "text": {
+            "content": "pat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0056466134,
+      "mentions": [
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.9,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

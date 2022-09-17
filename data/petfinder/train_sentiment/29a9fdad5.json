@@ -1,0 +1,143 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Duke is a cool cat in every sense.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "If he were human he would be probably wear a leather jacket and sunglasses.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He is friendly and non-destructive and would make a good family dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "He is also very alert.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.42849344,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Duke",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.26030132,
+      "mentions": [
+        {
+          "text": {
+            "content": "Duke",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "sense",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14646079,
+      "mentions": [
+        {
+          "text": {
+            "content": "sense",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "leather jacket",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.09108682,
+      "mentions": [
+        {
+          "text": {
+            "content": "leather jacket",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sunglasses",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.04608877,
+      "mentions": [
+        {
+          "text": {
+            "content": "sunglasses",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02756885,
+      "mentions": [
+        {
+          "text": {
+            "content": "family dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

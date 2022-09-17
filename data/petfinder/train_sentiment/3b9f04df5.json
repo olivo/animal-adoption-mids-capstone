@@ -1,0 +1,91 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Jack was rescued off a busy street near Damansara Perdana.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He is adorable, sweet and friendly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Please adopt him, you will love him!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Jack",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.8370242,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jack",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "street",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.114657916,
+      "mentions": [
+        {
+          "text": {
+            "content": "street",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Damansara Perdana",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0db4vp",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Damansara_Perdana"
+      },
+      "salience": 0.04831786,
+      "mentions": [
+        {
+          "text": {
+            "content": "Damansara Perdana",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

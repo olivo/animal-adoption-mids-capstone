@@ -1,0 +1,107 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Location: IIUM GOMBAK Contact no: (whatsapp/weechat available)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.50665104,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "GOMBAK",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/09l6w0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Gombak_District"
+      },
+      "salience": 0.14278322,
+      "mentions": [
+        {
+          "text": {
+            "content": "GOMBAK",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "IIUM",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/046khf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/International_Islamic_University_Malaysia"
+      },
+      "salience": 0.14278322,
+      "mentions": [
+        {
+          "text": {
+            "content": "IIUM",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "weechat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.115777716,
+      "mentions": [
+        {
+          "text": {
+            "content": "weechat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "whatsapp",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/0gwzvs1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/WhatsApp"
+      },
+      "salience": 0.09200477,
+      "mentions": [
+        {
+          "text": {
+            "content": "whatsapp",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

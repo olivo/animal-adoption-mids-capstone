@@ -1,0 +1,211 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "found in Bukit Tinggi Near Jusco Klang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "He has an injury to the neck that needed stitching.Rescuer has spent rm On medical and boarding at the vet.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "If you are the owner, please contact us on facebook : (P/s:this dog was found with the blue collar)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "neck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.27387837,
+      "mentions": [
+        {
+          "text": {
+            "content": "neck",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bukit Tinggi Near Jusco Klang",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.24642634,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bukit Tinggi Near Jusco Klang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15251765,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "injury",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.079300165,
+      "mentions": [
+        {
+          "text": {
+            "content": "injury",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boarding",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.05450719,
+      "mentions": [
+        {
+          "text": {
+            "content": "boarding",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.05450719,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "P/s",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037656058,
+      "mentions": [
+        {
+          "text": {
+            "content": "P/s",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037656058,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stitching.Rescuer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027303575,
+      "mentions": [
+        {
+          "text": {
+            "content": "stitching.Rescuer",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "blue collar",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026427044,
+      "mentions": [
+        {
+          "text": {
+            "content": "blue collar",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "facebook",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/02y1vz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Facebook"
+      },
+      "salience": 0.009820374,
+      "mentions": [
+        {
+          "text": {
+            "content": "facebook",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

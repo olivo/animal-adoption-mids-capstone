@@ -1,0 +1,273 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Forrest was rescued from the road, he has cerebellar hypoplasia but it doesnt affect his sweet personality.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He doesnt require any special treatment.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Jenny survived a fall from a 11-floor building, she has a slight crack in the upper palate but does not require any special treatment.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Both cats are bonded and are sweetest couple, much like Forrest Gump and his Jenny.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Forrest",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6209272,
+      "mentions": [
+        {
+          "text": {
+            "content": "Forrest",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Jenny",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13246934,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jenny",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jenny",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.09398592,
+      "mentions": [
+        {
+          "text": {
+            "content": "road",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hypoplasia",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037368983,
+      "mentions": [
+        {
+          "text": {
+            "content": "hypoplasia",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "personality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037368983,
+      "mentions": [
+        {
+          "text": {
+            "content": "personality",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "couple",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01662856,
+      "mentions": [
+        {
+          "text": {
+            "content": "couple",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fall",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012431977,
+      "mentions": [
+        {
+          "text": {
+            "content": "fall",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "building",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012431977,
+      "mentions": [
+        {
+          "text": {
+            "content": "building",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "crack",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011414861,
+      "mentions": [
+        {
+          "text": {
+            "content": "crack",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008588912,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "treatment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006910734,
+      "mentions": [
+        {
+          "text": {
+            "content": "treatment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "palate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037916114,
+      "mentions": [
+        {
+          "text": {
+            "content": "palate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Forrest Gump",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "mid": "/m/0bdjd",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Forrest_Gump"
+      },
+      "salience": 0.0035647429,
+      "mentions": [
+        {
+          "text": {
+            "content": "Forrest Gump",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "treatment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002116204,
+      "mentions": [
+        {
+          "text": {
+            "content": "treatment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.8,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,256 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Johor BAHRU Stray Mama Abour 6 months old Litter trained Extremely lovable 4 babies Born 31 May Healthy, cute A family of bobtails, except one orange baby is long-tailed Fostered since 25 May Next week I will be going back to hometown Hopefully can get an adopter Transport can be arranged in JB TQ ...............................................",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "JOHOR BAHRU Mama Stray Umur anggaran 6 bulan Pandai guna litter box Amat manja Anak kucing 4 ekor Lahir 31 Mei Sihat dan comel Sekeluarga ni semua ekor bobtail, kecuali seekor anak oren ekor panjang Saya dah foster sejak 25 Mei, minggu depan nak balik kampung dah Moga dapat adopter Area JB boleh hantarkan TQ ...............................................",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "JOHOR BAHRU 浪浪妈妈 大概6个月大 会用猫盆大便 爱撒娇 孩子4个 出生于年5月31日 健康可爱 全家都短尾巴，除了一只橙色孩子是长尾巴 我从5月25号收留着忙着找领养人 下个礼拜要回乡了 希望有愿意收留的 载送可以安排 谢谢大家",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Johor BAHRU Stray Mama Abour 6 months old Litter trained Extremely lovable 4 babies Born 31 May Healthy",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.26259515,
+      "mentions": [
+        {
+          "text": {
+            "content": "Johor BAHRU Stray Mama Abour 6 months old Litter trained Extremely lovable 4 babies Born 31 May Healthy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "except one orange baby is long-tailed Fostered since 25",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.19812505,
+      "mentions": [
+        {
+          "text": {
+            "content": "except one orange baby is long-tailed Fostered since 25",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cute A family of bobtails",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.15159754,
+      "mentions": [
+        {
+          "text": {
+            "content": "cute A family of bobtails",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kucing 4 ekor Lahir 31",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.056688067,
+      "mentions": [
+        {
+          "text": {
+            "content": "kucing 4 ekor Lahir 31",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "JOHOR BAHRU",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0207sh",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Johor_Bahru"
+      },
+      "salience": 0.055972863,
+      "mentions": [
+        {
+          "text": {
+            "content": "JOHOR BAHRU",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "sejak 25 Mei",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0493228,
+      "mentions": [
+        {
+          "text": {
+            "content": "sejak 25 Mei",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "anggaran 6",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.04162085,
+      "mentions": [
+        {
+          "text": {
+            "content": "anggaran 6",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "大会",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.037193403,
+      "mentions": [
+        {
+          "text": {
+            "content": "大 会",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "孩子",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037193403,
+      "mentions": [
+        {
+          "text": {
+            "content": "孩子",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "妈妈",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026543625,
+      "mentions": [
+        {
+          "text": {
+            "content": "妈妈",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "猫盆",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026543625,
+      "mentions": [
+        {
+          "text": {
+            "content": "猫盆",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "全家",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024634784,
+      "mentions": [
+        {
+          "text": {
+            "content": "全家",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "橙色孩子",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019244071,
+      "mentions": [
+        {
+          "text": {
+            "content": "橙色孩子",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "领养人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012724756,
+      "mentions": [
+        {
+          "text": {
+            "content": "领养人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": 0.6
+  },
+  "language": "zh",
+  "categories": []
+}

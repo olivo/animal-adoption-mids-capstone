@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "-A sweet loving puppy -very intelligent -Manja -Knows simple commands like &quot;Come&quot; &amp; &quot;Sit&quot; -Semi toilet trained will poo &amp; pee on newspapers and will let you know when she needs to go potty",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Sit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3095232,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "commands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.30600962,
+      "mentions": [
+        {
+          "text": {
+            "content": "commands",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toilet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.28568974,
+      "mentions": [
+        {
+          "text": {
+            "content": "toilet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "newspapers",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.09877743,
+      "mentions": [
+        {
+          "text": {
+            "content": "newspapers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

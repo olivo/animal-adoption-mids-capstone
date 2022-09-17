@@ -1,0 +1,188 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Breed: Husky Shepherd Colour: Black &amp; Tan Gender: Female Age: 4 months (/) Lei Lei is a mixed breed of Husky and Shepherd.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She looks more to Shepherd, an adorable, loving and friendly puppy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She is waiting for the right owner to take her home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Lei Lei",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3863922,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lei Lei",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3344967,
+      "mentions": [
+        {
+          "text": {
+            "content": "Breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Husky Shepherd Colour: Black & Tan Gender: Female Age",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.07388624,
+      "mentions": [
+        {
+          "text": {
+            "content": "Husky Shepherd Colour: Black &amp; Tan Gender: Female Age",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Shepherd",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.063258946,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shepherd",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Husky",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/071jj",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Siberian_Husky"
+      },
+      "salience": 0.05782563,
+      "mentions": [
+        {
+          "text": {
+            "content": "Husky",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Shepherd",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.028237153,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shepherd",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.023040209,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020145155,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012717755,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

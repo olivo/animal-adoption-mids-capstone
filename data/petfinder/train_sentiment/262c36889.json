@@ -1,0 +1,116 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "The cats are active, Toliet trained (Sand), able to eat themselaves, like to drink milk, free of charge.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.46522593,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "themselaves",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13677977,
+      "mentions": [
+        {
+          "text": {
+            "content": "themselaves",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Toliet",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/09g1w",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Toilet"
+      },
+      "salience": 0.12952608,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toliet",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "milk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10479031,
+      "mentions": [
+        {
+          "text": {
+            "content": "milk",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sand",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.089200474,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sand",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "charge",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07447746,
+      "mentions": [
+        {
+          "text": {
+            "content": "charge",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

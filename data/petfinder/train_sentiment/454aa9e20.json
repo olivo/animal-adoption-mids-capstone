@@ -1,0 +1,113 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Please call for appointment at.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Location at No. 3 Jln Sentul, Melodies Garden, JB.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "appointment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5545214,
+      "mentions": [
+        {
+          "text": {
+            "content": "appointment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.19525754,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jln Sentul",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1tcw_0_q"
+      },
+      "salience": 0.10922944,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jln Sentul",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Melodies Garden",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08276865,
+      "mentions": [
+        {
+          "text": {
+            "content": "Melodies Garden",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "JB",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0207sh",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Johor_Bahru"
+      },
+      "salience": 0.058222998,
+      "mentions": [
+        {
+          "text": {
+            "content": "JB",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

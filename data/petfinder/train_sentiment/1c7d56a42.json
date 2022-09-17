@@ -1,0 +1,117 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "好美的猫，母的，大概6,7个月，蒲种区，有兴趣领养可以whatsapp 。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "蒲中，雪兰莪。.......",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "猫",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.37663993,
+      "mentions": [
+        {
+          "text": {
+            "content": "猫",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "蒲种区",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0cxff7",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Puchong"
+      },
+      "salience": 0.20197396,
+      "mentions": [
+        {
+          "text": {
+            "content": "蒲种区",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "whatsapp",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/WhatsApp",
+        "mid": "/m/0gwzvs1"
+      },
+      "salience": 0.19743468,
+      "mentions": [
+        {
+          "text": {
+            "content": "whatsapp",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "兴趣",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.16859724,
+      "mentions": [
+        {
+          "text": {
+            "content": "兴趣",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "雪兰",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01jc9d",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Selangor"
+      },
+      "salience": 0.05535422,
+      "mentions": [
+        {
+          "text": {
+            "content": "雪兰",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.5
+  },
+  "language": "zh",
+  "categories": []
+}

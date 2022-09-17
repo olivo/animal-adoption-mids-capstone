@@ -1,0 +1,328 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "三只可爱狗狗待领养（吉隆坡）狗妈妈 生下8只小宝贝后离奇死亡（口吐白沫） 卖菜阿姨见他们年纪小小失去妈妈好可怜 只能继续照顾他们 可是实在无法带回家 目前3只小狗都住在菜市场里,另外5只已被人‘拿去’～祝福他们都遇到好家庭～剩下3个小女生 还在笼子里默默等待她们的好主人出现 !!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "found this 3 puppies in morning market (KUALA LUMPUR)was told their mama dog died food poisoning after give birth 8 puppies :(5 had adopted &amp; 3 FEMALE left,lucky they were quite 'safe' at the moment coz one of the hawker lady feeds them &amp; car park guard will take care of them during the night,Appreciate if u could share this with yr friends HOPING SOMEONE are willing to adopt or fostering.do contact me for further details,ManyThanks!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "妈妈",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.123780206,
+      "mentions": [
+        {
+          "text": {
+            "content": "妈妈",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "吉隆坡",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/049d1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur"
+      },
+      "salience": 0.10510566,
+      "mentions": [
+        {
+          "text": {
+            "content": "吉隆坡",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "KUALA LUMPUR",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "妈妈",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.09229578,
+      "mentions": [
+        {
+          "text": {
+            "content": "妈妈",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "宝贝",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08877729,
+      "mentions": [
+        {
+          "text": {
+            "content": "宝贝",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "白沫",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08877729,
+      "mentions": [
+        {
+          "text": {
+            "content": "白沫",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "阿姨见",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0782868,
+      "mentions": [
+        {
+          "text": {
+            "content": "阿姨见",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "狗狗",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07565918,
+      "mentions": [
+        {
+          "text": {
+            "content": "狗狗",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "birth 8 puppies :(5 had adopted & 3 FEMALE left",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.03728697,
+      "mentions": [
+        {
+          "text": {
+            "content": "birth 8 puppies :(5 had adopted &amp; 3 FEMALE left",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "家庭",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033412866,
+      "mentions": [
+        {
+          "text": {
+            "content": "家庭",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "女生",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033412866,
+      "mentions": [
+        {
+          "text": {
+            "content": "女生",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "笼子",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.033412866,
+      "mentions": [
+        {
+          "text": {
+            "content": "笼子",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "主人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033412866,
+      "mentions": [
+        {
+          "text": {
+            "content": "主人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lucky they were quite 'safe",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.026595118,
+      "mentions": [
+        {
+          "text": {
+            "content": "lucky they were quite 'safe",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "小狗",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024784667,
+      "mentions": [
+        {
+          "text": {
+            "content": "小狗",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02447781,
+      "mentions": [
+        {
+          "text": {
+            "content": "人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "菜市场",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02447781,
+      "mentions": [
+        {
+          "text": {
+            "content": "菜市场",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "found this 3 puppies in morning market",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.021788284,
+      "mentions": [
+        {
+          "text": {
+            "content": "found this 3 puppies in morning market",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "at the moment coz one of the hawker lady feeds them",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.017443066,
+      "mentions": [
+        {
+          "text": {
+            "content": "at the moment coz one of the hawker lady feeds them",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ManyThanks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012739948,
+      "mentions": [
+        {
+          "text": {
+            "content": "ManyThanks",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": -0.3
+  },
+  "language": "zh",
+  "categories": []
+}

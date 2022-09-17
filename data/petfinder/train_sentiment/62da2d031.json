@@ -1,0 +1,229 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Very soft coat, just like teddy bear!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Good guard dog too Please visit her at PAWS, PJ if you are interested to adopt.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "More info @ Fb page : Adoption Page - PAWS PJ There are a lot more at the shelter, do drop by to visit / volunteer/donate.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "coat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.28832173,
+      "mentions": [
+        {
+          "text": {
+            "content": "coat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "teddy bear",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.28832173,
+      "mentions": [
+        {
+          "text": {
+            "content": "teddy bear",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "@ Fb",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08992922,
+      "mentions": [
+        {
+          "text": {
+            "content": "page",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "@ Fb",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "guard dog",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08181506,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adoption Page",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07079023,
+      "mentions": [
+        {
+          "text": {
+            "content": "PAWS",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Adoption Page",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "PAWS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044011626,
+      "mentions": [
+        {
+          "text": {
+            "content": "PAWS",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "info",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03807062,
+      "mentions": [
+        {
+          "text": {
+            "content": "info",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "PJ There",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028117053,
+      "mentions": [
+        {
+          "text": {
+            "content": "PJ",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "PJ There",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "shelter",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.027072622,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "donate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024554346,
+      "mentions": [
+        {
+          "text": {
+            "content": "donate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "volunteer",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018995764,
+      "mentions": [
+        {
+          "text": {
+            "content": "volunteer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

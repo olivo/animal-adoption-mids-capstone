@@ -1,0 +1,108 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "6 weeks old (DOB /) mongrel puppy looking for good home.It started to eat puppy pellets and some canned food now.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "It is vaccinated on 29/9/10.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "DOB",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.31654865,
+      "mentions": [
+        {
+          "text": {
+            "content": "DOB",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mongrel puppy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.30128536,
+      "mentions": [
+        {
+          "text": {
+            "content": "mongrel puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy pellets",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15135704,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy pellets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13970245,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home.It",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0911065,
+      "mentions": [
+        {
+          "text": {
+            "content": "home.It",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

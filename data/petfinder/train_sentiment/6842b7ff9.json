@@ -1,0 +1,144 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Lolly is a female kitten with blue eyes.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Anyone interested, can collect at my hometown, Kuala Pilah, Negeri Sembilan.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Lolly",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.39963675,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lolly",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2848443,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15766965,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07785317,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kuala Pilah",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0crljq",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Pilah_District"
+      },
+      "salience": 0.032705482,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kuala Pilah",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "hometown",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.024329165,
+      "mentions": [
+        {
+          "text": {
+            "content": "hometown",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Negeri Sembilan",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0211kz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Negeri_Sembilan"
+      },
+      "salience": 0.022961479,
+      "mentions": [
+        {
+          "text": {
+            "content": "Negeri Sembilan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

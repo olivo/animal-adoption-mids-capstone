@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Soori is family dog who gets along with kids n adult",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Soori",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0hn9fq0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Soori_(actor)"
+      },
+      "salience": 0.89389616,
+      "mentions": [
+        {
+          "text": {
+            "content": "Soori",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "family dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adult",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06483301,
+      "mentions": [
+        {
+          "text": {
+            "content": "adult",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kids",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.041270826,
+      "mentions": [
+        {
+          "text": {
+            "content": "kids",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

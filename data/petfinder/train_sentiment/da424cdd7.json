@@ -1,0 +1,141 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Adoption is FREE!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I will give her dry food as well EVO (chicken &amp; turkey) 3kg plus her Multi-vitamin (Nutri Plus Gel)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.6540277,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "EVO",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08046441,
+      "mentions": [
+        {
+          "text": {
+            "content": "EVO",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chicken",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07395477,
+      "mentions": [
+        {
+          "text": {
+            "content": "chicken",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "turkey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07395477,
+      "mentions": [
+        {
+          "text": {
+            "content": "turkey",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.060951587,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Multi-vitamin",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/01182wxs",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Multivitamin"
+      },
+      "salience": 0.03329063,
+      "mentions": [
+        {
+          "text": {
+            "content": "Multi-vitamin",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Nutri Plus Gel",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.023356112,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nutri Plus Gel",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

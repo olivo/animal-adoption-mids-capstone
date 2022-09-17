@@ -1,0 +1,192 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Luna and Pluto are puppies of Rambo.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Luna is female while Pluto is male.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Adoption status: Luna found her loving new home on 18 August .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Pluto found his loving new home on 25 August .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Luna",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.52944356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Luna",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Luna",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Luna",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Pluto",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0c3qy",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Pluto"
+      },
+      "salience": 0.20887972,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pluto",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Pluto",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Pluto",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.166764,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Rambo",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "mid": "/m/021kkd",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Rambo_(franchise)"
+      },
+      "salience": 0.033701416,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rambo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Adoption status",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026725505,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adoption status",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.019661143,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014824642,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,75 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Tne pupies are belongs to Mr. Wong, who interested can call him, his contact No: or",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Wong",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.63045216,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wong",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mr.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pupies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.30299333,
+      "mentions": [
+        {
+          "text": {
+            "content": "pupies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "contact No",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.066554524,
+      "mentions": [
+        {
+          "text": {
+            "content": "contact No",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": -0.4
+  },
+  "language": "en",
+  "categories": []
+}

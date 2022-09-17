@@ -1,0 +1,191 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "My friend, Jinn, and I actually saw a woman literally throwing these kittens to the ground at a garbage dump.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I gave her a good scolding and we rescued the kittens, now they are lodged at Mayo Clinic Taipan waiting for you to take them home to love.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact me at if interested to adopt.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.23416294,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "woman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22687784,
+      "mentions": [
+        {
+          "text": {
+            "content": "woman",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jinn",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jinn",
+        "mid": "/m/03dr7"
+      },
+      "salience": 0.14347494,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jinn",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12471522,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1060631,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ground",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.063837595,
+      "mentions": [
+        {
+          "text": {
+            "content": "ground",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "garbage dump",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.063837595,
+      "mentions": [
+        {
+          "text": {
+            "content": "garbage dump",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "scolding",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031366643,
+      "mentions": [
+        {
+          "text": {
+            "content": "scolding",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mayo Clinic Taipan",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.005664136,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mayo Clinic Taipan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

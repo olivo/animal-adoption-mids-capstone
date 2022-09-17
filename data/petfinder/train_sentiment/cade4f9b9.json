@@ -1,0 +1,729 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hi there.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "My name is Prince, and I am the sweetest kitten ever, with a gentle disposition.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I also have very unique colouring - I'm totally white except for 4 black patches; my ears, a patch on my left elbow, and my bushy mid-length tail.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "My best asset is my eyes -- black corneas set against sky blue.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I was found in a drain, and my vet said I have a bad case of conjunctivitis.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Apparently, the virus is very strong as it's the rainy season now.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I'm on medication, am getting much better, although I am really bad with taking my pills.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": ":P I like to eat but I am more of a gourmet kitty rather than a gourmand as I will firstly, take a deep breath (hmmm...there's just something about the smell of sardines and mackerel fish), gently nibble and then, slowly savour my food till I clean my plate.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I love strings, strings, strings...did I tell you, I love strings?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "If you are up for a sweet and gentle kitten (yes, that's me, of course), just contact my agent!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Lots of licks, Prince",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.73720497,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "season",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041710924,
+      "mentions": [
+        {
+          "text": {
+            "content": "virus",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "season",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021325858,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "strings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019310147,
+      "mentions": [
+        {
+          "text": {
+            "content": "strings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "strings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "strings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "disposition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017766548,
+      "mentions": [
+        {
+          "text": {
+            "content": "disposition",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "colouring",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017464817,
+      "mentions": [
+        {
+          "text": {
+            "content": "colouring",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Prince",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015311358,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prince",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "asset",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008055168,
+      "mentions": [
+        {
+          "text": {
+            "content": "asset",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "patches",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0076536876,
+      "mentions": [
+        {
+          "text": {
+            "content": "patches",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "patch",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0076536876,
+      "mentions": [
+        {
+          "text": {
+            "content": "patch",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "elbow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0067253932,
+      "mentions": [
+        {
+          "text": {
+            "content": "elbow",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0067253932,
+      "mentions": [
+        {
+          "text": {
+            "content": "tail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006643387,
+      "mentions": [
+        {
+          "text": {
+            "content": "ears",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0057840175,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gourmet kitty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005199889,
+      "mentions": [
+        {
+          "text": {
+            "content": "gourmet kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pills",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004837141,
+      "mentions": [
+        {
+          "text": {
+            "content": "pills",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gourmand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0047435076,
+      "mentions": [
+        {
+          "text": {
+            "content": "gourmand",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "medication",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0045489995,
+      "mentions": [
+        {
+          "text": {
+            "content": "medication",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sky blue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0045244563,
+      "mentions": [
+        {
+          "text": {
+            "content": "sky blue",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "corneas",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0045244563,
+      "mentions": [
+        {
+          "text": {
+            "content": "corneas",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0045120707,
+      "mentions": [
+        {
+          "text": {
+            "content": "drain",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "conjunctivitis",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0045120707,
+      "mentions": [
+        {
+          "text": {
+            "content": "conjunctivitis",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "strings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0044699083,
+      "mentions": [
+        {
+          "text": {
+            "content": "strings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "case",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0044569797,
+      "mentions": [
+        {
+          "text": {
+            "content": "case",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004191427,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plate",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0031410884,
+      "mentions": [
+        {
+          "text": {
+            "content": "plate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0031410884,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "PI",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027776568,
+      "mentions": [
+        {
+          "text": {
+            "content": "P I",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002736923,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Prince",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024934593,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prince",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "course",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002192775,
+      "mentions": [
+        {
+          "text": {
+            "content": "course",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "agent",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002192775,
+      "mentions": [
+        {
+          "text": {
+            "content": "agent",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lots",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021902055,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lots",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "licks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021902055,
+      "mentions": [
+        {
+          "text": {
+            "content": "licks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breath",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015772758,
+      "mentions": [
+        {
+          "text": {
+            "content": "breath",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mackerel fish",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013775693,
+      "mentions": [
+        {
+          "text": {
+            "content": "mackerel fish",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sardines",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013775693,
+      "mentions": [
+        {
+          "text": {
+            "content": "sardines",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "smell",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013775693,
+      "mentions": [
+        {
+          "text": {
+            "content": "smell",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "something",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013775693,
+      "mentions": [
+        {
+          "text": {
+            "content": "something",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 6.3,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

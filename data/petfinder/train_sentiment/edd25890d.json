@@ -1,0 +1,74 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Rooney is a pure bred Golden Retriever. he's 8 years old, a friendly and playful k9 companion.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Rooney",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01c9z7",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Wayne_Rooney"
+      },
+      "salience": 0.6460524,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rooney",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Golden Retriever.",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/01t032",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Golden_Retriever"
+      },
+      "salience": 0.21241707,
+      "mentions": [
+        {
+          "text": {
+            "content": "Golden Retriever.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "k9 companion",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.14153051,
+      "mentions": [
+        {
+          "text": {
+            "content": "k9 companion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,86 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Sally is a cheerful and smart dog that looks like St Bernard's puppy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.4488909,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sally",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4001957,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sally",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11872882,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "St Bernard",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/02p1d4",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/St._Bernard_(dog)"
+      },
+      "salience": 0.032184593,
+      "mentions": [
+        {
+          "text": {
+            "content": "St Bernard",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

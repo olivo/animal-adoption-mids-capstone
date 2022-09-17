@@ -1,0 +1,513 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "We are lovable, smart, adorable &amp; affectionate furkiddos. 5 of us are male &amp; 3 of us are female.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Our Mama Dog is a Labrador, German Shepherd mixed &amp; our Papa Dog is a Labrador mixed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Our Temporary Mama who has been taking care of us says :- We are a joy to have as we are smart, loving, affectionate, good watch dogs &amp; protectors &amp; we bring her laughter.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "We can't stay here with her anymore as the law says 2 dogs per home &amp; she needs to rehome us URGENTLY as the authoroties want to take us to the pound.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "We are looking for a Forever Mama &amp; Papa who will love us &amp; care for us for life.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Will you be our Forever Mama &amp; Papa?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Please say 'Yes' &amp; take us home with you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Please call our Temporary Mama soonest &amp; take us home with you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you for saving us.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Much love from all of us.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Temporary Mama",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.59409374,
+      "mentions": [
+        {
+          "text": {
+            "content": "Temporary Mama",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "furkiddos.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.100498445,
+      "mentions": [
+        {
+          "text": {
+            "content": "furkiddos.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Forever Mama & Papa",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026263462,
+      "mentions": [
+        {
+          "text": {
+            "content": "Forever Mama &amp; Papa",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Labrador",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0km3f",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Labrador_Retriever"
+      },
+      "salience": 0.023697011,
+      "mentions": [
+        {
+          "text": {
+            "content": "Labrador",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Labrador",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Shepherd",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019079024,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shepherd",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "joy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016187524,
+      "mentions": [
+        {
+          "text": {
+            "content": "joy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mama Dog",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01545238,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mama Dog",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Papa Dog",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01545238,
+      "mentions": [
+        {
+          "text": {
+            "content": "Papa Dog",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014855553,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "watch dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014414233,
+      "mentions": [
+        {
+          "text": {
+            "content": "watch dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013508598,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "protectors",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012979627,
+      "mentions": [
+        {
+          "text": {
+            "content": "protectors",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "law",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012776072,
+      "mentions": [
+        {
+          "text": {
+            "content": "law",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011868766,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "authoroties",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011868766,
+      "mentions": [
+        {
+          "text": {
+            "content": "authoroties",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011868766,
+      "mentions": [
+        {
+          "text": {
+            "content": "pound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "German",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0112938145,
+      "mentions": [
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "laughter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011201452,
+      "mentions": [
+        {
+          "text": {
+            "content": "laughter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Papa",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011109481,
+      "mentions": [
+        {
+          "text": {
+            "content": "Papa",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010115127,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Forever Mama",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009217824,
+      "mentions": [
+        {
+          "text": {
+            "content": "Forever Mama",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mama",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008824262,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mama",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0070708655,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00619419,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00619419,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003914456,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 5.2,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

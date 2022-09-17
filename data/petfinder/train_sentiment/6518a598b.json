@@ -1,0 +1,152 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Handsome, friendly and obedient kitten for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Named Kyoto, with local+siamese blood.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Please call.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Residing in Kota Kemuning, Shah Alam.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.35968006,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.35968006,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "blood",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11646552,
+      "mentions": [
+        {
+          "text": {
+            "content": "blood",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kyoto",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/09d4_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kyoto"
+      },
+      "salience": 0.07499592,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kyoto",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kota Kemuning",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0chjz5",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kota_Kemuning"
+      },
+      "salience": 0.05237102,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kota Kemuning",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Shah Alam",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0syrf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Shah_Alam"
+      },
+      "salience": 0.036807436,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shah Alam",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

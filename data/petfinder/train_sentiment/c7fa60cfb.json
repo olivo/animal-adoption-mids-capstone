@@ -1,0 +1,101 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Overly attached cat. :).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Very friendly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Love to be pampered.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Reason to let go because I had to move back to Sarawak.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cat.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.823571,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Reason",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13533789,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reason",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sarawak",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/06_z0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sarawak"
+      },
+      "salience": 0.041091118,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sarawak",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.1,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

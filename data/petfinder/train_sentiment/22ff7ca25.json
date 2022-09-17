@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "These 3 fellas were dumped at the playground, need to be bottle feed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "fellas",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.42520028,
+      "mentions": [
+        {
+          "text": {
+            "content": "fellas",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "playground",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.3076138,
+      "mentions": [
+        {
+          "text": {
+            "content": "playground",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bottle feed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.26718593,
+      "mentions": [
+        {
+          "text": {
+            "content": "bottle feed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": -0.6
+  },
+  "language": "en",
+  "categories": []
+}

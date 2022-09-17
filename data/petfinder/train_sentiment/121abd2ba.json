@@ -1,0 +1,198 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Very intelligent and obedient puppy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Mother caught by MPSJ dog catcher.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "No caging or tying for long hours except for precautionary purposes Commitment to spay her is compulsory Interest to adopt pls call Mayo Clinic @ or Mr Hew @",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.32825625,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22256345,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Interest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20990579,
+      "mentions": [
+        {
+          "text": {
+            "content": "caging",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Interest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hew @",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.050898727,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mr",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Hew @",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog catcher",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.045449063,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog catcher",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Commitment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042060144,
+      "mentions": [
+        {
+          "text": {
+            "content": "Commitment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "purposes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042060144,
+      "mentions": [
+        {
+          "text": {
+            "content": "purposes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "MPSJ",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/03hk9rj",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Subang_Jaya_Municipal_Council"
+      },
+      "salience": 0.039910562,
+      "mentions": [
+        {
+          "text": {
+            "content": "MPSJ",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mayo Clinic",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0158xh",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Mayo_Clinic"
+      },
+      "salience": 0.018895866,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mayo Clinic",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,132 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mother and 3 very small kittens.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Named Maui and Kona, Hilo, Hana.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5878931,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18167432,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Maui",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0jbs5",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Maui"
+      },
+      "salience": 0.1248359,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maui",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kona",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0r_g0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kailua,_Hawaii_County,_Hawaii"
+      },
+      "salience": 0.050485976,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kona",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Hana",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03822087,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hana",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Hilo",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0r_ch",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Hilo,_Hawaii"
+      },
+      "salience": 0.016889805,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hilo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

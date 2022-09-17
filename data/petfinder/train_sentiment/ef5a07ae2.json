@@ -1,0 +1,159 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "The puppy located at kuala lumpur now.The puppy born in March .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I hope animal lovers can help to adopt her.The Puppy (Kimmy) confirmed adopted by Nicole from Seri Kembangan on 15 June .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.48608038,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2106478,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kuala lumpur",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/049d1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur"
+      },
+      "salience": 0.10457136,
+      "mentions": [
+        {
+          "text": {
+            "content": "kuala lumpur",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "animal lovers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.09863652,
+      "mentions": [
+        {
+          "text": {
+            "content": "animal lovers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "The Puppy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040307257,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Puppy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Nicole",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024483783,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nicole",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Seri Kembangan",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/05ztfx",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Seri_Kembangan"
+      },
+      "salience": 0.024483783,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seri Kembangan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kimmy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010789123,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kimmy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

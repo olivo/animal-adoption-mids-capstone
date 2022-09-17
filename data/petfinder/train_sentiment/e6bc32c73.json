@@ -1,0 +1,145 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Lockiey is a male cat that prefer to eat Blackwood.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Very active cat COD at Section 17,Shah Alam RM50 for adoption fees Please SMS Amir at",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Lockiey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.8422755,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lockiey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Blackwood",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.044408787,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blackwood",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cat COD",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036682613,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat COD",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Section",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033721797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Section",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption fees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025546918,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption fees",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Amir",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010666713,
+      "mentions": [
+        {
+          "text": {
+            "content": "Amir",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Shah Alam RM50",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0066976896,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shah Alam RM50",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

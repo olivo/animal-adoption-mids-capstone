@@ -1,0 +1,130 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Healty and active.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I have to let them go coz already have 3 cats.Looking for new owner who is cat lover.Caca, cucu and tompok are female.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Healty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.37539566,
+      "mentions": [
+        {
+          "text": {
+            "content": "Healty",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.23106861,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Caca",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22471644,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caca",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "cucu",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08324626,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tompok",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05934342,
+      "mentions": [
+        {
+          "text": {
+            "content": "tompok",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026229613,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

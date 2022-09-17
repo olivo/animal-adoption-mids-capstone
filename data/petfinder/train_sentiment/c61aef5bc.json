@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Active and cute kitten looking for good home urgently before Chinese New Year",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5267694,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.35336956,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chinese New Year",
+      "type": "EVENT",
+      "metadata": {
+        "mid": "/m/012m47",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Chinese_New_Year"
+      },
+      "salience": 0.11986104,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chinese New Year",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

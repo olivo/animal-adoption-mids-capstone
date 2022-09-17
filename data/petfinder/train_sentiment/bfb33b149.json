@@ -1,0 +1,261 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "A very unexpected guest this morning.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "A very adorable less than a year old male pup for fostering or adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Suspected to be a golden retriever mix.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Area around Seremban.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Please help!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "P/s: he runs behind cars on the road.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He doesn't eat the biscuits i gave him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I think he must be a house dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "house dog",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.40010634,
+      "mentions": [
+        {
+          "text": {
+            "content": "house dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guest",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.29905084,
+      "mentions": [
+        {
+          "text": {
+            "content": "guest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pup",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.058876693,
+      "mentions": [
+        {
+          "text": {
+            "content": "pup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "golden retriever mix",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04945809,
+      "mentions": [
+        {
+          "text": {
+            "content": "golden retriever mix",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.040095907,
+      "mentions": [
+        {
+          "text": {
+            "content": "Area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03994661,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "P/s",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036641967,
+      "mentions": [
+        {
+          "text": {
+            "content": "P/s",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "biscuits",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027631331,
+      "mentions": [
+        {
+          "text": {
+            "content": "biscuits",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Seremban",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0371_6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Seremban"
+      },
+      "salience": 0.023812417,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seremban",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cars",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.012189903,
+      "mentions": [
+        {
+          "text": {
+            "content": "cars",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012189903,
+      "mentions": [
+        {
+          "text": {
+            "content": "road",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.8,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

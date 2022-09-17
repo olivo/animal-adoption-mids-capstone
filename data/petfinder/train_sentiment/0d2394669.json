@@ -1,0 +1,171 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hey there!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I'm a super cute cutie kitty katty!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Very playful and responsive, but I need an owner who seriously will love me and care for me, no matter what happens.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "If you're interested, pls call Myza (speaks Malay and English) or Georgie(speaks only English) .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cutie kitty katty",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.79118395,
+      "mentions": [
+        {
+          "text": {
+            "content": "cutie kitty katty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12425164,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "matter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035164677,
+      "mentions": [
+        {
+          "text": {
+            "content": "matter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/02h40lc",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/English_language"
+      },
+      "salience": 0.015787898,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Malay",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0y1mh",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Malay_language"
+      },
+      "salience": 0.01570401,
+      "mentions": [
+        {
+          "text": {
+            "content": "Malay",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Georgie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011005715,
+      "mentions": [
+        {
+          "text": {
+            "content": "Georgie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Myza",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006902129,
+      "mentions": [
+        {
+          "text": {
+            "content": "Myza",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

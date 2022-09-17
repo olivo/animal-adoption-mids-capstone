@@ -1,0 +1,181 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This 2 month old Baby girl is friendly and playful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "BoomBoom was rescued from being knocked down by moving vehicle.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She is available for viewing in Ampang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Please call if you wish to view her before making a decision Call today.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Dont regret not seeing her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "You will just fall in love with her!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Baby girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.804364,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baby girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vehicle",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.049310885,
+      "mentions": [
+        {
+          "text": {
+            "content": "vehicle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "BoomBoom",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.043294027,
+      "mentions": [
+        {
+          "text": {
+            "content": "BoomBoom",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Dont regret",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034292724,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dont regret",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ampang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0kw581",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ampang,_Selangor"
+      },
+      "salience": 0.029547561,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ampang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024024406,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "decision",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015166349,
+      "mentions": [
+        {
+          "text": {
+            "content": "decision",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

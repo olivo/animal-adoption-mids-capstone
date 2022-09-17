@@ -1,0 +1,128 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Yoyo is a clever and calm puppy , will be a very good partner with some training.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Hope she can meet her whole life owner!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Contact me if you need to pay her a visit.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Yoyo",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0q5js",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Yo-yo"
+      },
+      "salience": 0.7882597,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yoyo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "partner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.098448664,
+      "mentions": [
+        {
+          "text": {
+            "content": "partner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "training",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.081575535,
+      "mentions": [
+        {
+          "text": {
+            "content": "training",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "visit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0194378,
+      "mentions": [
+        {
+          "text": {
+            "content": "visit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012278295,
+      "mentions": [
+        {
+          "text": {
+            "content": "life owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.8,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

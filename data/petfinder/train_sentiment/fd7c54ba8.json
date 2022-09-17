@@ -1,0 +1,305 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This is a stray cat, She's a very very very affectionate kitty.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "She likes to be petted all the time and she follows you around...I'm currently studying in UUM, I can't keep her in my room, so she's loitering around the building, but I feed her everyday...I hope anyone kind enough out there would adopt her, since this semester is my last so I won't be around to be feeding her anymore as my house is in Selangor, can't bring her home either....Anyone around Alor Setar, Jitra, Changlun area or Kedah are welcome!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.44714332,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.41741648,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015525606,
+      "mentions": [
+        {
+          "text": {
+            "content": "anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "building",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01486661,
+      "mentions": [
+        {
+          "text": {
+            "content": "building",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everyday",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01486661,
+      "mentions": [
+        {
+          "text": {
+            "content": "everyday",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "room",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0146856485,
+      "mentions": [
+        {
+          "text": {
+            "content": "room",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012370643,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010292033,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "UUM",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/g/11c1wjxg_0"
+      },
+      "salience": 0.008695318,
+      "mentions": [
+        {
+          "text": {
+            "content": "UUM",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008006577,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.007209167,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Selangor",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Selangor",
+        "mid": "/m/01jc9d"
+      },
+      "salience": 0.006089589,
+      "mentions": [
+        {
+          "text": {
+            "content": "Selangor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "last",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0057787523,
+      "mentions": [
+        {
+          "text": {
+            "content": "last",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Alor Setar",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/04p9tf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Alor_Setar"
+      },
+      "salience": 0.004263415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alor Setar",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Jitra",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0b4xsz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jitra"
+      },
+      "salience": 0.004263415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jitra",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Changlun",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0c3ztn",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Changlun"
+      },
+      "salience": 0.004263415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Changlun",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kedah",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01xl46",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kedah"
+      },
+      "salience": 0.004263415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kedah",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

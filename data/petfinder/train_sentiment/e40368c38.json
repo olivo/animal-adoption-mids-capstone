@@ -1,0 +1,126 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Obedient and lively, this lil pooch comes when calls!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "FREE DOG TRAINING COURSE at IKANO PetSafari is sponsored for anyone who adopts Jedi.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "lil pooch",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4170098,
+      "mentions": [
+        {
+          "text": {
+            "content": "lil pooch",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "calls",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.227263,
+      "mentions": [
+        {
+          "text": {
+            "content": "calls",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19660617,
+      "mentions": [
+        {
+          "text": {
+            "content": "anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "DOG TRAINING COURSE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10486774,
+      "mentions": [
+        {
+          "text": {
+            "content": "DOG TRAINING COURSE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jedi",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/045n4",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jedi"
+      },
+      "salience": 0.03331729,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jedi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "IKANO PetSafari",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.020935982,
+      "mentions": [
+        {
+          "text": {
+            "content": "IKANO PetSafari",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

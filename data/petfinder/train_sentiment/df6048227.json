@@ -1,0 +1,88 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "If you'd like to adopt this cute little fella, please call Dr. Ong at (03) from 9:30am to 7pm Mondays to Saturdays.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She's currently housed in Kepong.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "fella",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.66476655,
+      "mentions": [
+        {
+          "text": {
+            "content": "fella",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ong",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.31741735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ong",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Dr.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kepong",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0d0_lw",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kepong"
+      },
+      "salience": 0.017816074,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kepong",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

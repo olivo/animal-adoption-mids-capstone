@@ -1,0 +1,86 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "6 week old siblings Willow is a female Shadow is a Male",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5449724,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Willow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2416171,
+      "mentions": [
+        {
+          "text": {
+            "content": "Willow",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Male",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/05zppz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Male"
+      },
+      "salience": 0.1304614,
+      "mentions": [
+        {
+          "text": {
+            "content": "Male",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Shadow",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.08294911,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shadow",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

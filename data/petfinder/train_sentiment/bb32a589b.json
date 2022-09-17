@@ -1,0 +1,104 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Ma Black is a jet black dog and at this moment she lives with all her other doggie friends on this construction site.Ma Black is a friendly dog and will follow you around as you're putting out the food.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Ma Black",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.6267678,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ma Black",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "jet black dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "site.Ma Black",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.28334188,
+      "mentions": [
+        {
+          "text": {
+            "content": "construction",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "site.Ma Black",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doggie friends",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.060161058,
+      "mentions": [
+        {
+          "text": {
+            "content": "doggie friends",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02972923,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

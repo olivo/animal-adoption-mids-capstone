@@ -1,0 +1,114 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Kitten is playful and likes to explore places herself.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "mimi is from Subang, Selangor.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7327426,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "places",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.1405003,
+      "mentions": [
+        {
+          "text": {
+            "content": "places",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mimi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07699462,
+      "mentions": [
+        {
+          "text": {
+            "content": "mimi",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Subang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0d24vl",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Subang,_Selangor"
+      },
+      "salience": 0.029223094,
+      "mentions": [
+        {
+          "text": {
+            "content": "Subang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Selangor",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01jc9d",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Selangor"
+      },
+      "salience": 0.02053939,
+      "mentions": [
+        {
+          "text": {
+            "content": "Selangor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

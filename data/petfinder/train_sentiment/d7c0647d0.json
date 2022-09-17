@@ -1,0 +1,149 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This cuddly girl is so adorable.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She is 2 months old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "We called her Polar Bear as she resembles the Polar bears in the Artic .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He hair is as white as snow Please call us immediately or whatsapp us to adopt at",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.9020384,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Polar bears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030745616,
+      "mentions": [
+        {
+          "text": {
+            "content": "Polar bears",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "snow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020393012,
+      "mentions": [
+        {
+          "text": {
+            "content": "snow",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Polar Bear",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0633h",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Polar_bear"
+      },
+      "salience": 0.019925077,
+      "mentions": [
+        {
+          "text": {
+            "content": "Polar Bear",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Artic",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/09738",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Arctic"
+      },
+      "salience": 0.016089505,
+      "mentions": [
+        {
+          "text": {
+            "content": "Artic",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010808403,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,267 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Blondie is one adorable pooch, a bit shy but playful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Her siblings are Tootsie, Goldie and Whiskey.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "All looking for good homes.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "They are cross breed and will be medium sized in adulthood.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Vaccination and neutering are compulsory.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "No tying up or caging unless necessary for short period.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Please call if interested.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Blondie",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/017lb_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Blondie_(band)"
+      },
+      "salience": 0.7060257,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blondie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "pooch",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.051369544,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breed",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04515725,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tootsie",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "mid": "/m/0k4p0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Tootsie"
+      },
+      "salience": 0.039514698,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tootsie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.036009952,
+      "mentions": [
+        {
+          "text": {
+            "content": "homes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adulthood",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03296352,
+      "mentions": [
+        {
+          "text": {
+            "content": "adulthood",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "caging",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024798198,
+      "mentions": [
+        {
+          "text": {
+            "content": "caging",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Goldie",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0cwtm",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Goldie_Hawn"
+      },
+      "salience": 0.021256963,
+      "mentions": [
+        {
+          "text": {
+            "content": "Goldie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Whiskey",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/082bv",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Whisky"
+      },
+      "salience": 0.021256963,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whiskey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "neutering",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010956277,
+      "mentions": [
+        {
+          "text": {
+            "content": "neutering",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010690923,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.9,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

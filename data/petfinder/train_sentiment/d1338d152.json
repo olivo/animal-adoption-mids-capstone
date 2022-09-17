@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "love to eat so make sure her bowl is not empty price is negotiated free delivery services(depends on area)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "bowl",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.39009848,
+      "mentions": [
+        {
+          "text": {
+            "content": "bowl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "price",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3336294,
+      "mentions": [
+        {
+          "text": {
+            "content": "price",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.16881154,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "delivery services",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10746057,
+      "mentions": [
+        {
+          "text": {
+            "content": "delivery services",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

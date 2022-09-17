@@ -1,0 +1,196 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Sport was bought from a pet shop and is my daughter's pet.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "She has looked after it for the past 8 years as part of the family.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Now she is reluctantly giving it up for adoption as we are going to migrate and we are concerned that Sport will not be able to handle the isolation in quarantine.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "daughter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3172396,
+      "mentions": [
+        {
+          "text": {
+            "content": "daughter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sport",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.23264596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sport",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet shop",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.20707855,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet shop",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11922781,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "part",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027999451,
+      "mentions": [
+        {
+          "text": {
+            "content": "part",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027999451,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025587773,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sport",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/06ntj",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sport"
+      },
+      "salience": 0.016057301,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sport",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "quarantine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0135622835,
+      "mentions": [
+        {
+          "text": {
+            "content": "quarantine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "isolation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012601798,
+      "mentions": [
+        {
+          "text": {
+            "content": "isolation",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

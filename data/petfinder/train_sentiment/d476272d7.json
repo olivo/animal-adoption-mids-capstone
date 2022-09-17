@@ -1,0 +1,181 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "It was bought from a private breeder in Rawang and brought home to be a companion of my existing pet, Rock.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Joey has a very round head.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She had been pregnant but miscarried, we had her neutered after the incident.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "breeder",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19086413,
+      "mentions": [
+        {
+          "text": {
+            "content": "breeder",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.19086413,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "companion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15994948,
+      "mentions": [
+        {
+          "text": {
+            "content": "companion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13228174,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Rawang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/096hhb",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Rawang,_Selangor"
+      },
+      "salience": 0.11498622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rawang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Rock",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07920986,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rock",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.059267916,
+      "mentions": [
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Joey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04127735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "incident",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.03129918,
+      "mentions": [
+        {
+          "text": {
+            "content": "incident",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

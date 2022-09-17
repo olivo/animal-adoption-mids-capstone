@@ -1,0 +1,729 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mayo has been found near my house.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She is a very adorable and cute puppy, she look like Shiba Inu Mix but definitely not a Shiba Mix since in my area, there is no Shiba at all.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "We are trying to look for her a lovely home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Anyone who wish to give Mayo a home and love, please call (able to speak Mandarin) Tell us you name, place, and whether u agree the terms and condition which listed below.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Terms and Condition: The person who want to adopt the dog 1) Have to stay in &quot;pet allowed&quot; property.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "2) Apply license for the dog and renew the license annually.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "3) Have to bring the dog for vaccination.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "4) Have to do heartworm prevention and deworming.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "5) Have to neuter the dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "我們在住家附近發現流浪的五月 牠是一雙可愛及貼心的小狗狗，樣子有點像柴犬，但肯定不是混血柴犬，因為在我們家附近，沒有人養柴犬。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "我們想為五月找個愛牠的家庭，如果你願意給五月一個溫暖的家， 請電 (toonho 會講華語) 告訴我們你的姓名、住處及是否同意以下所列： 1) 你居住的地方允許養寵物 2) 每年為狗狗伸請市政府發出的狗牌 3) 每年定期帶狗狗去獸醫診所施打預防針 4) 定期杜蟲(心絲蟲、跳蚤及內寄生蟲) 5) 同意為狗狗作絕育",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "she",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.120513104,
+      "mentions": [
+        {
+          "text": {
+            "content": "she",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "She",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.120513104,
+      "mentions": [
+        {
+          "text": {
+            "content": "She",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0694724,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "please call",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.053920396,
+      "mentions": [
+        {
+          "text": {
+            "content": "please call",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "able to speak Mandarin",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.053920396,
+      "mentions": [
+        {
+          "text": {
+            "content": "able to speak Mandarin",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Tell",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.053920396,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tell",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "柴犬",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037020363,
+      "mentions": [
+        {
+          "text": {
+            "content": "柴犬",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Have to do heartworm prevention and deworming.",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.030001808,
+      "mentions": [
+        {
+          "text": {
+            "content": "Have to do heartworm prevention and deworming.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Terms and Condition: The person who want to adopt the dog 1",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.026055003,
+      "mentions": [
+        {
+          "text": {
+            "content": "Terms and Condition: The person who want to adopt the dog 1",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "狗狗",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025068149,
+      "mentions": [
+        {
+          "text": {
+            "content": "狗狗",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "狗狗",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025068149,
+      "mentions": [
+        {
+          "text": {
+            "content": "狗狗",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "附近",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0232112,
+      "mentions": [
+        {
+          "text": {
+            "content": "附近",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "狗狗",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020924967,
+      "mentions": [
+        {
+          "text": {
+            "content": "狗狗",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020892043,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pet allowed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01884602,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet allowed",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "柴犬",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017950704,
+      "mentions": [
+        {
+          "text": {
+            "content": "柴犬",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "混血柴犬",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017290821,
+      "mentions": [
+        {
+          "text": {
+            "content": "混血柴犬",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toonho",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01723173,
+      "mentions": [
+        {
+          "text": {
+            "content": "toonho",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016788494,
+      "mentions": [
+        {
+          "text": {
+            "content": "人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Apply",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.016479945,
+      "mentions": [
+        {
+          "text": {
+            "content": "Apply",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "家庭",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016065355,
+      "mentions": [
+        {
+          "text": {
+            "content": "家庭",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination.",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/07__7",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Vaccine"
+      },
+      "salience": 0.015347192,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "狗狗",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0150258895,
+      "mentions": [
+        {
+          "text": {
+            "content": "狗狗",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "住家附近",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014264202,
+      "mentions": [
+        {
+          "text": {
+            "content": "住家附近",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "心絲蟲",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/05r8fv",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Dirofilariasis"
+      },
+      "salience": 0.012930336,
+      "mentions": [
+        {
+          "text": {
+            "content": "心絲蟲",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "狗牌",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012206444,
+      "mentions": [
+        {
+          "text": {
+            "content": "狗牌",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "內寄生蟲",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012054964,
+      "mentions": [
+        {
+          "text": {
+            "content": "內寄生蟲",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "跳蚤",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012054964,
+      "mentions": [
+        {
+          "text": {
+            "content": "跳蚤",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "杜蟲",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012054964,
+      "mentions": [
+        {
+          "text": {
+            "content": "杜蟲",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "獸醫診所",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012054964,
+      "mentions": [
+        {
+          "text": {
+            "content": "獸醫診所",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "樣子",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010316124,
+      "mentions": [
+        {
+          "text": {
+            "content": "樣子",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "流浪",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010316124,
+      "mentions": [
+        {
+          "text": {
+            "content": "流浪",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "伸請市政府",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.008563122,
+      "mentions": [
+        {
+          "text": {
+            "content": "伸請市政府",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "家",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00778636,
+      "mentions": [
+        {
+          "text": {
+            "content": "家",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "華",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0077488837,
+      "mentions": [
+        {
+          "text": {
+            "content": "華",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "養寵物",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0072241854,
+      "mentions": [
+        {
+          "text": {
+            "content": "養寵物",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "地方",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0072241854,
+      "mentions": [
+        {
+          "text": {
+            "content": "地方",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "住處",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0072241854,
+      "mentions": [
+        {
+          "text": {
+            "content": "住處",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "姓名",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0072241854,
+      "mentions": [
+        {
+          "text": {
+            "content": "姓名",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "語",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0072241854,
+      "mentions": [
+        {
+          "text": {
+            "content": "語",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 4,
+    "score": 0.2
+  },
+  "language": "zh-Hant",
+  "categories": []
+}

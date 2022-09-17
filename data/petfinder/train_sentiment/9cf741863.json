@@ -1,0 +1,196 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Price are for the medical costs, negotiable.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Heterochromia cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "1 blue and 1 green eye.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Very obedient, know to use cat litter.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Very friendly, won't bite and scratch at all.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "A bit clingy, will sometimes follow you around in the house.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "costs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.34333214,
+      "mentions": [
+        {
+          "text": {
+            "content": "costs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Price",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.33638346,
+      "mentions": [
+        {
+          "text": {
+            "content": "Price",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08200069,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "blue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0720287,
+      "mentions": [
+        {
+          "text": {
+            "content": "blue",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat litter",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.049563494,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eye",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049141154,
+      "mentions": [
+        {
+          "text": {
+            "content": "eye",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Heterochromia",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/02w_rc",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Heterochromia_iridum"
+      },
+      "salience": 0.043396436,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heterochromia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.024153922,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.3,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

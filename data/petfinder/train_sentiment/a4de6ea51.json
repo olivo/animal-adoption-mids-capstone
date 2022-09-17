@@ -1,0 +1,151 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "4 cute dalmation cross puppies were found at the backlane in Kepong.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "They are 6 - 7 weeks old, and should grow up to 10kg when adult (based on the miniature size of the dam).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "If you are interested to adopt them, please call ( Mon - Sat 9:30am - 7:30pm Sun 9:30am - 2:30pm",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dalmation cross puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.4687662,
+      "mentions": [
+        {
+          "text": {
+            "content": "dalmation cross puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "backlane",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.19635941,
+      "mentions": [
+        {
+          "text": {
+            "content": "backlane",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kepong",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kepong",
+        "mid": "/m/0d0_lw"
+      },
+      "salience": 0.11920531,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kepong",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "adult",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06723,
+      "mentions": [
+        {
+          "text": {
+            "content": "adult",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "size",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06723,
+      "mentions": [
+        {
+          "text": {
+            "content": "size",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dam",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.061791036,
+      "mentions": [
+        {
+          "text": {
+            "content": "dam",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sun 9",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019418018,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sun 9",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

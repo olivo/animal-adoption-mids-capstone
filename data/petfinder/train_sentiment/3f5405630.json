@@ -1,0 +1,158 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "It was found at Cameron Highland and bring back by my cousin last year.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I am not sure about the bread, but i think she should be mix bread.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Her size is no.4 count from smallest size if you refer to dog chart at",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "count",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.28371453,
+      "mentions": [
+        {
+          "text": {
+            "content": "size",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "count",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cameron Highland",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/04hwmq",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cameron_Highlands_District"
+      },
+      "salience": 0.24302396,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cameron Highland",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mix bread",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.18452588,
+      "mentions": [
+        {
+          "text": {
+            "content": "mix bread",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cousin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15936692,
+      "mentions": [
+        {
+          "text": {
+            "content": "cousin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bread",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.061081517,
+      "mentions": [
+        {
+          "text": {
+            "content": "bread",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "size",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04222501,
+      "mentions": [
+        {
+          "text": {
+            "content": "size",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog chart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026062166,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog chart",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

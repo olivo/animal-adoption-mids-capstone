@@ -1,0 +1,194 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Gorgeous dog looking for home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Super friendly and very playful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Location: Ulu Tiram, Johor.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Will provide transport to genuine adopters (Jb til Serdang)...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.50247115,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.21699812,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07429151,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adopters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.051557116,
+      "mentions": [
+        {
+          "text": {
+            "content": "adopters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ulu Tiram",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/08hth9",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ulu_Tiram"
+      },
+      "salience": 0.044336107,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ulu Tiram",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Johor",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Johor",
+        "mid": "/m/01jng9"
+      },
+      "salience": 0.040723305,
+      "mentions": [
+        {
+          "text": {
+            "content": "Johor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Jb",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030671954,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jb",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Serdang",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.021525005,
+      "mentions": [
+        {
+          "text": {
+            "content": "Serdang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "transport",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01742573,
+      "mentions": [
+        {
+          "text": {
+            "content": "transport",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

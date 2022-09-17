@@ -1,0 +1,151 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Happy yappy 4 month old puppies were dumped at the pet clinic mercilessly. 4 months later, these 4 puppies have grown to be the lovable Brady Bunch with those puppy eyes you cannot resist.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "E-mail or text me if you're interested.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "-Save a stray, save a life-",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.47030947,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet clinic",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.16395462,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet clinic",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13158384,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.105260506,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Brady Bunch",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "mid": "/m/09x54",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/The_Brady_Bunch"
+      },
+      "salience": 0.08430092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brady Bunch",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027324283,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "E-mail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01726638,
+      "mentions": [
+        {
+          "text": {
+            "content": "E-mail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

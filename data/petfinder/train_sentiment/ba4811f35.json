@@ -1,0 +1,103 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This puppy has been adopted and will go Adam and his family in Johor Bahru on Friday, 7 September.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "这小狗已经被领养了。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "周五,九月7日他的新主人(Adam)将来取它回新家。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "小狗",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.35798803,
+      "mentions": [
+        {
+          "text": {
+            "content": "小狗",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adam",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.27673605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adam",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "主人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21932964,
+      "mentions": [
+        {
+          "text": {
+            "content": "主人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "家",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.14594628,
+      "mentions": [
+        {
+          "text": {
+            "content": "家",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.1
+  },
+  "language": "zh",
+  "categories": []
+}

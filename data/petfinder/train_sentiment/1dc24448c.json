@@ -1,0 +1,186 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "這是我朋友的貓咪，他離開馬來西亞了，把他的貓咪交給我。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "但是我現在養不了，希望有人可以收養它。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "It is my friend's pet, he left Malaysia,and he gave me the cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "But I can not raise it now, I hope someone can adopt it.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "WeChat: Daxixi3 TEL :(SMS only）",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "貓咪",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2658003,
+      "mentions": [
+        {
+          "text": {
+            "content": "貓咪",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "貓咪",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2331843,
+      "mentions": [
+        {
+          "text": {
+            "content": "貓咪",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "朋友",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19967431,
+      "mentions": [
+        {
+          "text": {
+            "content": "朋友",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "馬來西亞",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/09pmkv",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Malaysia"
+      },
+      "salience": 0.18268433,
+      "mentions": [
+        {
+          "text": {
+            "content": "馬來西亞",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "he left Malaysia",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.035374157,
+      "mentions": [
+        {
+          "text": {
+            "content": "he left Malaysia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033844646,
+      "mentions": [
+        {
+          "text": {
+            "content": "人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "WeChat: Daxixi3 TEL",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.02471898,
+      "mentions": [
+        {
+          "text": {
+            "content": "WeChat: Daxixi3 TEL",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "SMS only",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02471898,
+      "mentions": [
+        {
+          "text": {
+            "content": "SMS only",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.3
+  },
+  "language": "zh-Hant",
+  "categories": []
+}

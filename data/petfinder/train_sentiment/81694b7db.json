@@ -1,0 +1,81 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Today Pistachio found a new Home :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you dear Aina!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Pistachio",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0b3lj",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Pistachio"
+      },
+      "salience": 0.68591994,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pistachio",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Home",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.25883487,
+      "mentions": [
+        {
+          "text": {
+            "content": "Home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Aina",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.055245183,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aina",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,111 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Charlie was adopted last night and went to a loving home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Thanks again to Petfinder for providing such a great service",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Charlie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5414595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charlie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.26272166,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Thanks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12139279,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thanks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "service",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049978293,
+      "mentions": [
+        {
+          "text": {
+            "content": "service",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Petfinder",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0cdyq6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Petfinder"
+      },
+      "salience": 0.024447767,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petfinder",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

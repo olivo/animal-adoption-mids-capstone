@@ -1,0 +1,106 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Could not keep them in industrial area.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Found some foreign worker feed stray cat poison foos and dead.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Cousin rescue them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.6221466,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "worker feed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21892884,
+      "mentions": [
+        {
+          "text": {
+            "content": "worker feed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cousin",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/04v2qy",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cousin"
+      },
+      "salience": 0.09090401,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cousin",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cat poison foos",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06802053,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat poison foos",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": -0.2
+  },
+  "language": "en",
+  "categories": []
+}

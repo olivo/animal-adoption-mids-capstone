@@ -1,0 +1,193 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "stray kitten living by the busy street near school.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "high risk of being hit by car.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "IF INTERESTED PLEASE EMAIL ME, DONT COMMENT ON PHOTO COZ I WONT GET ANY NOTIFICATION &amp; CANT CONTACT U. THANX",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten living",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.409715,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten living",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "street",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.16894183,
+      "mentions": [
+        {
+          "text": {
+            "content": "street",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "school",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.16894183,
+      "mentions": [
+        {
+          "text": {
+            "content": "school",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.057417385,
+      "mentions": [
+        {
+          "text": {
+            "content": "car",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "risk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05672752,
+      "mentions": [
+        {
+          "text": {
+            "content": "risk",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "NOTIFICATION",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039714057,
+      "mentions": [
+        {
+          "text": {
+            "content": "NOTIFICATION",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "THANX",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035595138,
+      "mentions": [
+        {
+          "text": {
+            "content": "THANX",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "CANT",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027893608,
+      "mentions": [
+        {
+          "text": {
+            "content": "CANT",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "DONT COMMENT",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.01752683,
+      "mentions": [
+        {
+          "text": {
+            "content": "DONT COMMENT",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "PHOTO",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.01752683,
+      "mentions": [
+        {
+          "text": {
+            "content": "PHOTO",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": -0.3
+  },
+  "language": "en",
+  "categories": []
+}

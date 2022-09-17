@@ -1,0 +1,123 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Pure White Persian Gender: Male Born: April Status: Neutered Diet: Royal Canin &amp; Nutriedge Price: RM Contact number:",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Pure White Persian Gender: Male Born",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.64038837,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pure White Persian Gender: Male Born",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Status",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Diet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13461383,
+      "mentions": [
+        {
+          "text": {
+            "content": "Diet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Royal Canin",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0bq5x1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Royal_Canin"
+      },
+      "salience": 0.07515608,
+      "mentions": [
+        {
+          "text": {
+            "content": "Royal Canin",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "number",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06731147,
+      "mentions": [
+        {
+          "text": {
+            "content": "number",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "RM Contact",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05711828,
+      "mentions": [
+        {
+          "text": {
+            "content": "RM Contact",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Nutriedge Price",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02541199,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nutriedge Price",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

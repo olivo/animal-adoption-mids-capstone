@@ -1,0 +1,110 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Age:2 and a half months old It's a female kitten Very Active and Healthy COD at Mentari Court, Bandar Sunway Pls SMS me, Affi at",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5201454,
+      "mentions": [
+        {
+          "text": {
+            "content": "Age",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Affi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.34888563,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Affi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "COD",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.078812726,
+      "mentions": [
+        {
+          "text": {
+            "content": "COD",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bandar Sunway Pls",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0g2lsr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bandar_Sunway"
+      },
+      "salience": 0.03611733,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bandar Sunway Pls",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mentari Court",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/g/11b6c9wm6j"
+      },
+      "salience": 0.016038885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mentari Court",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

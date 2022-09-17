@@ -1,0 +1,123 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mugee is cute and relaxed likes to climb and hang out on tall furniture.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Looking for responsible people who will take over mugee's care and please neuter her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mugee",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.30214655,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mugee",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "likes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.19285849,
+      "mentions": [
+        {
+          "text": {
+            "content": "likes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mugee",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18103273,
+      "mentions": [
+        {
+          "text": {
+            "content": "mugee",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17349829,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "furniture",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.108000875,
+      "mentions": [
+        {
+          "text": {
+            "content": "furniture",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04246305,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

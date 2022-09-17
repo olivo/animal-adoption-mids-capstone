@@ -1,0 +1,60 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Teddy is Mr Cool, very steady and independent.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Cool",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6194646,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cool",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mr",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Teddy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3805354,
+      "mentions": [
+        {
+          "text": {
+            "content": "Teddy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,158 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mocha is an adorable little furball who needs a bed,food bowl and a loving family to call her own.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Mocha must not be caged, tied or left alone outside, adopter must agree to daily walks and spay her once she is old enough.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Please call Sarah at to adopt.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mocha",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/06jdrl",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Caffè_mocha"
+      },
+      "salience": 0.58524704,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mocha",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mocha",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "furball",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18487874,
+      "mentions": [
+        {
+          "text": {
+            "content": "furball",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10244603,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food bowl",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.061821617,
+      "mentions": [
+        {
+          "text": {
+            "content": "food bowl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05310886,
+      "mentions": [
+        {
+          "text": {
+            "content": "bed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "walks",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0064455974,
+      "mentions": [
+        {
+          "text": {
+            "content": "walks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sarah",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006052121,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sarah",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,111 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Leo, Benjy and Sky are all males and 2 months old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "They have all had their vaccines Contact",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "males",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.57144505,
+      "mentions": [
+        {
+          "text": {
+            "content": "males",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Benjy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17095175,
+      "mentions": [
+        {
+          "text": {
+            "content": "Benjy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Leo",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/078fxh",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Leo_(astrology)"
+      },
+      "salience": 0.16734399,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Sky",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.07055626,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sky",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "vaccines",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01970293,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccines",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

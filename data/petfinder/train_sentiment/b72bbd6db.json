@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "if intresting pls call or...it free 1 dog bowl and drink..dog chain ..and 1 dog food...price can nego",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog bowl",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3184821,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog bowl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog chain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.29426545,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog chain",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog food",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.22610517,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "price",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.16114725,
+      "mentions": [
+        {
+          "text": {
+            "content": "price",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": -0.2
+  },
+  "language": "en",
+  "categories": []
+}

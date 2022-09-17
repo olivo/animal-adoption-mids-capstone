@@ -1,0 +1,158 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Bella is a playful and active puppy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I'm helping the shelter person in charge help Bella find a home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "If you interest please contact ms Chen",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Bella",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.8461352,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bella",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shelter person",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04147279,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelter person",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "charge help",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038117602,
+      "mentions": [
+        {
+          "text": {
+            "content": "charge help",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bella",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/027b7y9",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bella_Swan"
+      },
+      "salience": 0.022309748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bella",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020187242,
+      "mentions": [
+        {
+          "text": {
+            "content": "ms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.019798828,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011978571,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chen",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

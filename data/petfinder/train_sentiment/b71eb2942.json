@@ -1,0 +1,199 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Shaggy was bought directly from a breeder when he was 2 months old as a birthday to my daughter, Esther.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He was bottled fed, cared for and loved dearly by my younger daughter.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "He has given us many, many fond memories.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Shaggy is in perfect health as he is fed with premium quality dog food &quot;Nutro Choice.&quot;",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Shaggy",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01wgysj",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Shaggy_(musician)"
+      },
+      "salience": 0.7024556,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shaggy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Shaggy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "breeder",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11977924,
+      "mentions": [
+        {
+          "text": {
+            "content": "breeder",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Esther",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08073569,
+      "mentions": [
+        {
+          "text": {
+            "content": "daughter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Esther",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "birthday",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.048025522,
+      "mentions": [
+        {
+          "text": {
+            "content": "birthday",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Nutro Choice",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/g/11ffk1mlb1"
+      },
+      "salience": 0.017354738,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Nutro Choice",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "daughter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0168254,
+      "mentions": [
+        {
+          "text": {
+            "content": "daughter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "health",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011085674,
+      "mentions": [
+        {
+          "text": {
+            "content": "health",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "memories",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037381435,
+      "mentions": [
+        {
+          "text": {
+            "content": "memories",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.5,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

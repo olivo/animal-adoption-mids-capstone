@@ -1,0 +1,154 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This poodle was found in Taman Jasmin 2 in Kajang a week ago.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He was loitering around the guardhouse and no one has come to claim him so far.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Please spread the word and help us find his owner.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "poodle",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.8250857,
+      "mentions": [
+        {
+          "text": {
+            "content": "poodle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Taman Jasmin 2",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1ylhlf1rh",
+        "wikipedia_url": "https://ms.wikipedia.org/wiki/Sekolah_Menengah_Kebangsaan_Taman_Jasmin_2"
+      },
+      "salience": 0.043370336,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taman Jasmin 2",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kajang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/049x3",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kajang"
+      },
+      "salience": 0.043370336,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kajang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "no one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029255105,
+      "mentions": [
+        {
+          "text": {
+            "content": "no one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guardhouse",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02442091,
+      "mentions": [
+        {
+          "text": {
+            "content": "guardhouse",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018398764,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "word",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016098822,
+      "mentions": [
+        {
+          "text": {
+            "content": "word",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

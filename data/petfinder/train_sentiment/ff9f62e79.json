@@ -1,0 +1,406 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This cat is currently being fostered at a vet in Aman Suria, Hands &amp; Paws.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "The fosterer is Dr. Mervin.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "The cat has been spayed and is healthy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "The cat is also very friendly, playful and gentle.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "If you are interested in taking her home, please call the vet for enquiry.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Vet : Hand n Paws Owner : Dr. Mervin (or you can ask for any doc) Tel : Add : C-17G, Jln Pju 1/45, Aman Suria Damansara Petaling Jaya.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "(near the restaurant Kayu)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mervin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.26681486,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mervin",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Dr.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Mervin",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Dr.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.18498917,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.16132727,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Aman Suria",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/1tfz7pm9"
+      },
+      "salience": 0.10343938,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aman Suria",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Hands & Paws",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.040198322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hands &amp; Paws",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035661567,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fosterer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034547314,
+      "mentions": [
+        {
+          "text": {
+            "content": "fosterer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028906265,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.022587966,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022320021,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022270426,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "enquiry",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017910657,
+      "mentions": [
+        {
+          "text": {
+            "content": "enquiry",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hand n Paws Owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01058959,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hand n Paws Owner",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "restaurant",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0094344225,
+      "mentions": [
+        {
+          "text": {
+            "content": "restaurant",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "C-17G",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007985887,
+      "mentions": [
+        {
+          "text": {
+            "content": "C-17G",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Jln Pju",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.007985887,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jln Pju",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "doc",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0059279846,
+      "mentions": [
+        {
+          "text": {
+            "content": "doc",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tel",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0059279846,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tel",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Aman Suria Damansara Petaling Jaya",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0055927993,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aman Suria Damansara Petaling Jaya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kayu",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0055822153,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kayu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

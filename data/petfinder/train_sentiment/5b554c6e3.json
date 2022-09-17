@@ -1,0 +1,141 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Whitey has 4 siblings.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "You can check them out under the names of Elley, Ongey, Stripey and Ashey. =D",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.52781737,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Whitey",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/02s0t_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Whitey_Bulger"
+      },
+      "salience": 0.33830544,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whitey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "names",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.061857983,
+      "mentions": [
+        {
+          "text": {
+            "content": "names",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Stripey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02788062,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stripey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Ashey. =D",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019566614,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ashey. =D",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Elley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012285988,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elley",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Ongey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012285988,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ongey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

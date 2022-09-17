@@ -1,0 +1,255 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I will give to you all her foods (Kitten IAMS, Smartheart 3 tin, Nutram Kitten g) and all her things (toilet tray, Cage, Basket) .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She's toilet train too.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Don't worry.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Contact me as soon as possible since i'll move to Moscow, Russia.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "toilet train",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.6881903,
+      "mentions": [
+        {
+          "text": {
+            "content": "toilet train",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "foods",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08757554,
+      "mentions": [
+        {
+          "text": {
+            "content": "foods",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044866987,
+      "mentions": [
+        {
+          "text": {
+            "content": "tin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03095285,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toilet tray",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.03095285,
+      "mentions": [
+        {
+          "text": {
+            "content": "toilet tray",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kitten IAMS",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.02686936,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kitten IAMS",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Smartheart 3",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.02686936,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smartheart 3",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Cage",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cage",
+        "mid": "/m/06_4_k"
+      },
+      "salience": 0.018457565,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cage",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Basket",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/01z562",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Basket"
+      },
+      "salience": 0.018457565,
+      "mentions": [
+        {
+          "text": {
+            "content": "Basket",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Nutram Kitten g",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018234657,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nutram Kitten g",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Moscow",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Moscow",
+        "mid": "/m/04swd"
+      },
+      "salience": 0.00428649,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moscow",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Russia",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/06bnz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Russia"
+      },
+      "salience": 0.00428649,
+      "mentions": [
+        {
+          "text": {
+            "content": "Russia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

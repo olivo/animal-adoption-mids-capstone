@@ -1,0 +1,161 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Name of Pet: A1 Age: 2 months Breed: Mixed/Mongrel Gender: Male Location: Butterworth, Penang Contact: Tan () Email: mddb.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.30668166,
+      "mentions": [
+        {
+          "text": {
+            "content": "Name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.30668166,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gender",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09066736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gender",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08352748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Email",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06365458,
+      "mentions": [
+        {
+          "text": {
+            "content": "Email",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mongrel",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.05469485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mongrel",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Butterworth",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Butterworth,_Penang",
+        "mid": "/m/03sqpj"
+      },
+      "salience": 0.050303638,
+      "mentions": [
+        {
+          "text": {
+            "content": "Butterworth",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mddb",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02686852,
+      "mentions": [
+        {
+          "text": {
+            "content": "mddb",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Penang Contact: Tan",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.016920235,
+      "mentions": [
+        {
+          "text": {
+            "content": "Penang Contact: Tan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

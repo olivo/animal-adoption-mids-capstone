@@ -1,0 +1,118 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Emmy is one of 3 siblings abandoned at a hawker stall.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She's very intelligent &amp; independent &amp; seems to be the alpha in her group.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Emmy",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/013sb1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Emmy_Award"
+      },
+      "salience": 0.71871763,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emmy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13032323,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hawker stall",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.09024883,
+      "mentions": [
+        {
+          "text": {
+            "content": "hawker stall",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "alpha",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038585942,
+      "mentions": [
+        {
+          "text": {
+            "content": "alpha",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "group",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.022124382,
+      "mentions": [
+        {
+          "text": {
+            "content": "group",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

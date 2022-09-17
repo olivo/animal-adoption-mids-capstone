@@ -1,0 +1,103 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Urgentttttt He is a real Gentleman!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Im Student and Also Im working,So I Dont have enough time to keep him :(",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "You can email me , Or call me",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Urgentttttt He",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.35808867,
+      "mentions": [
+        {
+          "text": {
+            "content": "Urgentttttt He",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Im Student",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.34113702,
+      "mentions": [
+        {
+          "text": {
+            "content": "Im Student",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Gentleman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2540689,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gentleman",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Im",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.046705388,
+      "mentions": [
+        {
+          "text": {
+            "content": "Im",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

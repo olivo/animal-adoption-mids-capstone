@@ -1,0 +1,131 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Frosty is the only one left waiting to go to a good home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "He is very adorable and do have a good temperament.You will never regret adopting him as he is very obediant.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Visit www.everydoghasitsday09.blogspot.com for more puppies",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Frosty",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/04m8kf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Frosty_(frozen_dairy_dessert)"
+      },
+      "salience": 0.82147706,
+      "mentions": [
+        {
+          "text": {
+            "content": "Frosty",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.095027484,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "temperament.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042879578,
+      "mentions": [
+        {
+          "text": {
+            "content": "temperament.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022984833,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "www.everydoghasitsday09.blogspot.com",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/01scs3",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Blogger_(service)"
+      },
+      "salience": 0.017631046,
+      "mentions": [
+        {
+          "text": {
+            "content": "www.everydoghasitsday09.blogspot.com",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

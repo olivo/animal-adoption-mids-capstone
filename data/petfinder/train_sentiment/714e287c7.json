@@ -1,0 +1,88 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Branda is very obedient and loving .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She is very alert and we notice she's good at guarding houses.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Interested in adopting her, kindly contact Sandy @",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Branda",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.96932775,
+      "mentions": [
+        {
+          "text": {
+            "content": "Branda",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "houses",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01581705,
+      "mentions": [
+        {
+          "text": {
+            "content": "houses",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sandy @",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014855202,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sandy @",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.4,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

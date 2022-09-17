@@ -1,0 +1,342 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This is BROWNIE.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Color: Black &amp; Brown.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Breed: I'm unsure Age: Not Sure but still a kitten.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Been rescued for almost a month now.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Rescued: Strays around Tanjung Tokong, Penang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Size: Thin Trained: Toilet Train Nature: Very Calm, Shy, and Healthy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Food: been feeding them with dry food &amp; tuna in a can Vaccinate/Deworming: Not sure if they have but I have never vaccinate them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "This adoptions are % FREE.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "BROWNIE",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/02hlnc",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Chocolate_brownie"
+      },
+      "salience": 0.23483373,
+      "mentions": [
+        {
+          "text": {
+            "content": "BROWNIE",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14697148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Age",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Color",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13476753,
+      "mentions": [
+        {
+          "text": {
+            "content": "Color",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13412149,
+      "mentions": [
+        {
+          "text": {
+            "content": "Breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Black & Brown",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08086559,
+      "mentions": [
+        {
+          "text": {
+            "content": "Black &amp; Brown",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.051905297,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03678432,
+      "mentions": [
+        {
+          "text": {
+            "content": "Food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Size",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035295755,
+      "mentions": [
+        {
+          "text": {
+            "content": "Size",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Deworming",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024420261,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deworming",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tanjung Tokong",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0fydfz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Tanjung_Tokong"
+      },
+      "salience": 0.020981489,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tanjung Tokong",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Penang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0g6xq",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Penang"
+      },
+      "salience": 0.020981489,
+      "mentions": [
+        {
+          "text": {
+            "content": "Penang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Toilet Train Nature: Very Calm",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019214574,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toilet Train Nature: Very Calm",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Healthy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019214574,
+      "mentions": [
+        {
+          "text": {
+            "content": "Healthy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "adoptions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016678208,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoptions",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012224179,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tuna",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010740022,
+      "mentions": [
+        {
+          "text": {
+            "content": "tuna",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

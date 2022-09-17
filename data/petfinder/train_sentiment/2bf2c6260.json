@@ -1,0 +1,220 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "She was found in a car park all alone.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Was rescued by a kind lady and send to us.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Adopters must vaccinate, spay and keep her indoors/fenced.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "call/WhatsApp: Address: ONE PETZ 2-1-20 ONE SQUARE, TINGKAT MAHSURI 1, BAYAN LEPAS, PENANG.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "car park",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.54168963,
+      "mentions": [
+        {
+          "text": {
+            "content": "car park",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kind lady",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.073724,
+      "mentions": [
+        {
+          "text": {
+            "content": "kind lady",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adopters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.073362514,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adopters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "WhatsApp",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06797508,
+      "mentions": [
+        {
+          "text": {
+            "content": "WhatsApp",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "call",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06797508,
+      "mentions": [
+        {
+          "text": {
+            "content": "call",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SQUARE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051390328,
+      "mentions": [
+        {
+          "text": {
+            "content": "SQUARE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ONE PETZ",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/g/11c3k9lxww"
+      },
+      "salience": 0.05063434,
+      "mentions": [
+        {
+          "text": {
+            "content": "Address",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "ONE PETZ",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "TINGKAT MAHSURI 1",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/1q5ccf3lq"
+      },
+      "salience": 0.030494995,
+      "mentions": [
+        {
+          "text": {
+            "content": "TINGKAT MAHSURI 1",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "BAYAN LEPAS",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bayan_Lepas",
+        "mid": "/m/0d_dv9"
+      },
+      "salience": 0.021377016,
+      "mentions": [
+        {
+          "text": {
+            "content": "BAYAN LEPAS",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "PENANG",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0g6xq",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Penang"
+      },
+      "salience": 0.021377016,
+      "mentions": [
+        {
+          "text": {
+            "content": "PENANG",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

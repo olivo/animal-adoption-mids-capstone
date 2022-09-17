@@ -1,0 +1,86 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "The puppies are so cute and playful Please contact : Miss Ranji",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.6724,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Miss",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16343372,
+      "mentions": [
+        {
+          "text": {
+            "content": "Miss",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "contact",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.093565315,
+      "mentions": [
+        {
+          "text": {
+            "content": "contact",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ranji",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/04rnbt",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ranji_Trophy"
+      },
+      "salience": 0.07060101,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ranji",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

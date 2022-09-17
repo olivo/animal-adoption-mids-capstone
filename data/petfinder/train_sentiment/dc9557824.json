@@ -1,0 +1,124 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Bandit is a fantastic friendly family dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I want to keep him forever but have to leave Malaysia to return to New Zealand.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He needs a good home where he won't be chained or caged.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Bandit",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.41214022,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bandit",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "family dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.29131493,
+      "mentions": [
+        {
+          "text": {
+            "content": "family dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.15995507,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Malaysia",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/09pmkv",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Malaysia"
+      },
+      "salience": 0.09311508,
+      "mentions": [
+        {
+          "text": {
+            "content": "Malaysia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "New Zealand",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0ctw_b",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/New_Zealand"
+      },
+      "salience": 0.043474708,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Zealand",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

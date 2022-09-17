@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Really looking for a cat lover to adopt Yoda since i have pregnancy allergies",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cat lover",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.479471,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat lover",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Yoda",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0g_tb",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Yoda"
+      },
+      "salience": 0.27578512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yoda",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pregnancy allergies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2447439,
+      "mentions": [
+        {
+          "text": {
+            "content": "pregnancy allergies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

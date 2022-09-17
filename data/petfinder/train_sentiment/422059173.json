@@ -1,0 +1,504 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Dob is a playful and active boy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "He loves to run, so he's appropriate for someon who has garden and enough room for him to run around.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Looking for adopter commited to neutering him upon adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Spaying can be done at SPECIAL RATE of RM only (Normal spaying fee RM or more) at my vet in Taipan, Subang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Address of clinic is Kinik Veterinar Mayo, 11A, USJ 10/1G, Subang Jaya and name of doctor is Dr. Khor.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "If interested to adopt, please contact Mdm.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Jocelyn at.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Located at USJ 1, Subang Jaya.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6360847,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.082418166,
+      "mentions": [
+        {
+          "text": {
+            "content": "someon",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Dob",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.063167945,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dob",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Khor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022107556,
+      "mentions": [
+        {
+          "text": {
+            "content": "Khor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Dr.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Spaying",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021835268,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spaying",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "garden",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016526952,
+      "mentions": [
+        {
+          "text": {
+            "content": "garden",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "room",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016526952,
+      "mentions": [
+        {
+          "text": {
+            "content": "room",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "RM",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012762594,
+      "mentions": [
+        {
+          "text": {
+            "content": "RM",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.012651868,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Address",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012338061,
+      "mentions": [
+        {
+          "text": {
+            "content": "Address",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spaying fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011217857,
+      "mentions": [
+        {
+          "text": {
+            "content": "spaying fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SPECIAL RATE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011217857,
+      "mentions": [
+        {
+          "text": {
+            "content": "SPECIAL RATE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010296305,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clinic",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0102682,
+      "mentions": [
+        {
+          "text": {
+            "content": "clinic",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doctor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0077455337,
+      "mentions": [
+        {
+          "text": {
+            "content": "doctor",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Subang",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Subang_Jaya",
+        "mid": "/m/054t4_"
+      },
+      "salience": 0.007605082,
+      "mentions": [
+        {
+          "text": {
+            "content": "Subang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Subang Jaya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Subang Jaya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "RM",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.007560457,
+      "mentions": [
+        {
+          "text": {
+            "content": "RM",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Taipan",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006096087,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taipan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mdm",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004572995,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mdm",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "USJ 1",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1tmcjr26"
+      },
+      "salience": 0.003631959,
+      "mentions": [
+        {
+          "text": {
+            "content": "USJ 1",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003401367,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "1G",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003401367,
+      "mentions": [
+        {
+          "text": {
+            "content": "1G",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jocelyn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031956695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jocelyn",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kinik Veterinar Mayo",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024182624,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kinik Veterinar Mayo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "USJ 10",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0020107345,
+      "mentions": [
+        {
+          "text": {
+            "content": "USJ 10",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.1,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,110 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "We believe she is a mix golden retriver, last time was get abused and now she still affraid to stranger.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Now she is safe in pet shop boarding.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She is a very lovely girl and good guard.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "retriver",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.9311044,
+      "mentions": [
+        {
+          "text": {
+            "content": "retriver",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stranger",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.049561426,
+      "mentions": [
+        {
+          "text": {
+            "content": "stranger",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011847604,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet shop boarding",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0074865725,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet shop boarding",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Name of Pet: B3 Age: 1 month (DOB : /) Breed: Mixed/Mongrel Gender: Female Location: Butterworth, Penang Contact: Tan ()",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.46111935,
+      "mentions": [
+        {
+          "text": {
+            "content": "Name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.46111935,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Penang Contact: Tan",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.04759661,
+      "mentions": [
+        {
+          "text": {
+            "content": "Penang Contact: Tan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mongrel Gender: Female Location: Butterworth",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.030164657,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mongrel Gender: Female Location: Butterworth",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

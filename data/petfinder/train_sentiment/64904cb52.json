@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Jasper was found at a hawker centre covered with ticks.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He is now very healthy, dewormed &amp; vaccinated &amp; waiting for a good home",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Jasper",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.43789485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jasper",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "hawker centre",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.29928243,
+      "mentions": [
+        {
+          "text": {
+            "content": "hawker centre",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ticks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21009144,
+      "mentions": [
+        {
+          "text": {
+            "content": "ticks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.052731287,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

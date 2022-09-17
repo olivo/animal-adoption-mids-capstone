@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Andy is a good watch dog.he likes chew thing.Foster have to more patient on him n teach him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Andy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.46331814,
+      "mentions": [
+        {
+          "text": {
+            "content": "Andy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Foster",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.41545516,
+      "mentions": [
+        {
+          "text": {
+            "content": "Foster",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "chew thing.",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.09205322,
+      "mentions": [
+        {
+          "text": {
+            "content": "chew thing.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "patient",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029173475,
+      "mentions": [
+        {
+          "text": {
+            "content": "patient",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

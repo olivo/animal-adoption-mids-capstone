@@ -1,0 +1,247 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Adopters must vaccinate and keep cat indoors at all time.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "* A pet is a life time commitment, please do ur homework before adopting a pet.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "call/WhatsApp: Address: ONE PETZ 2-1-20 ONE SQUARE, TINGKAT MAHSURI 1, BAYAN.LEPAS, PENANG.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "commitment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.331301,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "commitment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adopters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22745132,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adopters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20824978,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ONE PETZ",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/g/11c3k9lxww"
+      },
+      "salience": 0.049472567,
+      "mentions": [
+        {
+          "text": {
+            "content": "Address",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "ONE PETZ",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "homework",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039165523,
+      "mentions": [
+        {
+          "text": {
+            "content": "homework",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035356496,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "WhatsApp",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028439812,
+      "mentions": [
+        {
+          "text": {
+            "content": "WhatsApp",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "call",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028439812,
+      "mentions": [
+        {
+          "text": {
+            "content": "call",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SQUARE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021495925,
+      "mentions": [
+        {
+          "text": {
+            "content": "SQUARE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "TINGKAT MAHSURI 1",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/1q5ccf3lq"
+      },
+      "salience": 0.012751889,
+      "mentions": [
+        {
+          "text": {
+            "content": "TINGKAT MAHSURI 1",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "BAYAN.LEPAS",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0d_dv9",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bayan_Lepas"
+      },
+      "salience": 0.008937928,
+      "mentions": [
+        {
+          "text": {
+            "content": "BAYAN.LEPAS",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "PENANG",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Penang",
+        "mid": "/m/0g6xq"
+      },
+      "salience": 0.008937928,
+      "mentions": [
+        {
+          "text": {
+            "content": "PENANG",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

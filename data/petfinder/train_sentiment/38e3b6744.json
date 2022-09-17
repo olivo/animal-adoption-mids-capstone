@@ -1,0 +1,94 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This is Kim Bum, very active.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "likes to play with 'human legs'.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He is Toilet trained.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kim Bum",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/05c35y2",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kim_Bum"
+      },
+      "salience": 0.72172034,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim Bum",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Toilet",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/09g1w",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Toilet"
+      },
+      "salience": 0.17521262,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toilet",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "human legs",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10306702,
+      "mentions": [
+        {
+          "text": {
+            "content": "human legs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

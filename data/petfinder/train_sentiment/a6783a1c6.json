@@ -1,0 +1,80 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Rescued this kitten near Cheras Perdana.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Call me Kelly if you're interested to adopt.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.77875185,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cheras Perdana",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1th46x6s"
+      },
+      "salience": 0.15169889,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cheras Perdana",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kelly",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06954926,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kelly",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

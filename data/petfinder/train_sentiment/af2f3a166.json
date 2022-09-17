@@ -1,0 +1,334 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Bukit is the Labrador (Male), Juliet is the Mix breed (Female), both are spayed and Juliet is in 3 limbs only.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I saw them in SPCA seberang Perai and they don't belong to shelter, it must be the council which caught them and send them there.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Please please please could anybody adopt them, they are best buddies and couldn't afford to separate.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Ad they are not used to harsh environment in shelter.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Please anybody, please help!!!!!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "breed",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.1716646,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Juliet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17107382,
+      "mentions": [
+        {
+          "text": {
+            "content": "Juliet",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Juliet",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Labrador",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0km3f",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Labrador_Retriever"
+      },
+      "salience": 0.10451757,
+      "mentions": [
+        {
+          "text": {
+            "content": "Labrador",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bukit",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.09853538,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bukit",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Male",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/05zppz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Male"
+      },
+      "salience": 0.08249344,
+      "mentions": [
+        {
+          "text": {
+            "content": "Male",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mix",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08249344,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mix",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "council",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.055079453,
+      "mentions": [
+        {
+          "text": {
+            "content": "council",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "both",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.053447958,
+      "mentions": [
+        {
+          "text": {
+            "content": "both",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "buddies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03864906,
+      "mentions": [
+        {
+          "text": {
+            "content": "buddies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "limbs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03630446,
+      "mentions": [
+        {
+          "text": {
+            "content": "limbs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020221487,
+      "mentions": [
+        {
+          "text": {
+            "content": "anybody",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shelter",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.020200826,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018453415,
+      "mentions": [
+        {
+          "text": {
+            "content": "anybody",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shelter",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013878531,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "environment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0121971425,
+      "mentions": [
+        {
+          "text": {
+            "content": "environment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SPCA",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.010394707,
+      "mentions": [
+        {
+          "text": {
+            "content": "SPCA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Perai",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0d_dwb",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Perai"
+      },
+      "salience": 0.010394707,
+      "mentions": [
+        {
+          "text": {
+            "content": "Perai",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

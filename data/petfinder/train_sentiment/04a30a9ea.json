@@ -1,0 +1,433 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Zara was rescued off the streets on 23 April .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She is a friendly, sociable kitty with a ready purr, so the rescue was very easy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She turned up suddenly one day and was found wandering around the neighbourhood scavenging and begging for food, and so I believe that she was either dumped by a previous owner or perhaps wandered off too far from home and got lost.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "If you would love to have a cat with an out-going sunshine personality who will meow to you her thoughts and desires, and who would love to have your attention, then this is the cat for you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Some basic facts: * Litter box trained.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "* De-wormed - next de-worm on 23 May * Vaccinated - next jab is on 23 May * Her spaying will be scheduled after the 23 May jab to ensure that her size and health are suitable for a safe surgery.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Zara",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.55405766,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zara",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "streets",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.10314839,
+      "mentions": [
+        {
+          "text": {
+            "content": "streets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06434989,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "purr",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.050600793,
+      "mentions": [
+        {
+          "text": {
+            "content": "purr",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spaying",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026261369,
+      "mentions": [
+        {
+          "text": {
+            "content": "spaying",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rescue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021898476,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescue",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015647803,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014782258,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013198571,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbourhood scavenging",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013037884,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbourhood scavenging",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013037884,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013037884,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jab",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0123914,
+      "mentions": [
+        {
+          "text": {
+            "content": "jab",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thoughts",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012071175,
+      "mentions": [
+        {
+          "text": {
+            "content": "thoughts",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "desires",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012071175,
+      "mentions": [
+        {
+          "text": {
+            "content": "desires",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sunshine personality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012071175,
+      "mentions": [
+        {
+          "text": {
+            "content": "sunshine personality",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "de-worm",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010310067,
+      "mentions": [
+        {
+          "text": {
+            "content": "de-worm",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jab",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0072225938,
+      "mentions": [
+        {
+          "text": {
+            "content": "jab",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "health",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006345398,
+      "mentions": [
+        {
+          "text": {
+            "content": "health",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "surgery",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.006345398,
+      "mentions": [
+        {
+          "text": {
+            "content": "surgery",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "size",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0061913882,
+      "mentions": [
+        {
+          "text": {
+            "content": "size",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "facts",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0039864206,
+      "mentions": [
+        {
+          "text": {
+            "content": "facts",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Litter box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0039864206,
+      "mentions": [
+        {
+          "text": {
+            "content": "Litter box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0039485185,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.4,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

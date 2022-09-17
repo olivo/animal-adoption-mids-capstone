@@ -1,0 +1,266 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I found Mama yesterday inside an Ikea bag and she was protecting her babies from a male cat that was roaming around trying to snatch the babies.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "They are now safe and living inside my wardrobe.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Mama is easy to take care of as she only comes out to poopoo and eat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I have to let go because I'm finishing my study and will be return to Kuching on December.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I can send him if you are interested.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Sunway-Shah Alam-Gombak",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mama",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.54527205,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mama",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mama",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "babies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1183566,
+      "mentions": [
+        {
+          "text": {
+            "content": "babies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bag",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.101124436,
+      "mentions": [
+        {
+          "text": {
+            "content": "bag",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.097900756,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ikea",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/03tb1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/IKEA"
+      },
+      "salience": 0.061355174,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ikea",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "babies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030746838,
+      "mentions": [
+        {
+          "text": {
+            "content": "babies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015083299,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wardrobe",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013253503,
+      "mentions": [
+        {
+          "text": {
+            "content": "wardrobe",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kuching",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/013_9z",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuching"
+      },
+      "salience": 0.0053913277,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kuching",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "study",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004002041,
+      "mentions": [
+        {
+          "text": {
+            "content": "study",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Shah Alam-Gombak",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003756991,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shah Alam-Gombak",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Sunway",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.003756991,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunway",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.5,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

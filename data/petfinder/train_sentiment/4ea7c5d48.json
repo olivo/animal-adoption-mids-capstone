@@ -1,0 +1,167 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "A cute cream puppy was left outside my office.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "It should be a 3 to 4 months old female cream/beige puppy weighing at around 2 to 3 kg.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I hope an animal lover can help to adopt her and give her a nice lovely home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "My office is located at Jalan Ah Siang near CIQ.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "office",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.51596147,
+      "mentions": [
+        {
+          "text": {
+            "content": "office",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "office",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cream puppy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.37382475,
+      "mentions": [
+        {
+          "text": {
+            "content": "cream puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animal lover",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.041995835,
+      "mentions": [
+        {
+          "text": {
+            "content": "animal lover",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cream/beige puppy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038119223,
+      "mentions": [
+        {
+          "text": {
+            "content": "cream/beige puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014441217,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jalan Ah Siang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1tgm0ccp"
+      },
+      "salience": 0.00782874,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jalan Ah Siang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "CIQ",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00782874,
+      "mentions": [
+        {
+          "text": {
+            "content": "CIQ",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Chaco will go to his new house before Chinese New Year.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "^^",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Chaco",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1q6jkb73g"
+      },
+      "salience": 0.62368906,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chaco",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.31478924,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chinese New Year",
+      "type": "EVENT",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Chinese_New_Year",
+        "mid": "/m/012m47"
+      },
+      "salience": 0.06152171,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chinese New Year",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

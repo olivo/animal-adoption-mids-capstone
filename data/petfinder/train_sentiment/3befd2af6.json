@@ -1,0 +1,205 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Money is a friendly and loving dog with a cheerful and active characteristic.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "We had been taken him from the street since young and recently, due to health issue, his major and only caretaker were diagnosed with cancer, we are really short of manpower and have to let him go.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "We strongly hope that we can found him a loving family here.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "We will castrate him soon as needed and hope that we can be updated regularly after his adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Money",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.7702311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Money",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "characteristic",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07532787,
+      "mentions": [
+        {
+          "text": {
+            "content": "characteristic",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "street",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.036635585,
+      "mentions": [
+        {
+          "text": {
+            "content": "street",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "caretaker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025114099,
+      "mentions": [
+        {
+          "text": {
+            "content": "caretaker",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cancer",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025114099,
+      "mentions": [
+        {
+          "text": {
+            "content": "cancer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "health issue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024809433,
+      "mentions": [
+        {
+          "text": {
+            "content": "health issue",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "manpower",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02305686,
+      "mentions": [
+        {
+          "text": {
+            "content": "manpower",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.012096627,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007614325,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

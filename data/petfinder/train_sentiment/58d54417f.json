@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Lovely Puppy, Totally Healthy with Big Bones!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Rescued Month Ago and Now Ready to Find Her Home Forever...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Lovely Puppy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.8417128,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lovely Puppy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Big Bones",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09995072,
+      "mentions": [
+        {
+          "text": {
+            "content": "Big Bones",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Home",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05833652,
+      "mentions": [
+        {
+          "text": {
+            "content": "Home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.8,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

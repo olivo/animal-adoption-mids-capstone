@@ -1,0 +1,96 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "A playful and friendly Siamese mix kitten is ready for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "If interested please contact Auntie Yap.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "mix kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3737146,
+      "mentions": [
+        {
+          "text": {
+            "content": "mix kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.29668763,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Siamese",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0g_3r",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Siamese_cat"
+      },
+      "salience": 0.28139848,
+      "mentions": [
+        {
+          "text": {
+            "content": "Siamese",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Auntie Yap",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04819929,
+      "mentions": [
+        {
+          "text": {
+            "content": "Auntie Yap",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

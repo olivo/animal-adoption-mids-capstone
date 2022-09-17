@@ -1,0 +1,155 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This puppy has been rescued from my office compound and i found that he is handsome &amp; adorable but unfortunately he having minor injury right now and I have sent him to vet clinic for proper treatment.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "He is cheerful&amp;playful before the injury.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Therefore, I am willing to cure him before any volunteer interested in adopting this pity puppy who is homeless now!!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "injury",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3090549,
+      "mentions": [
+        {
+          "text": {
+            "content": "injury",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "injury",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.26125056,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "office compound",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.23237564,
+      "mentions": [
+        {
+          "text": {
+            "content": "office compound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet clinic",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.064354554,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet clinic",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "treatment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.059163086,
+      "mentions": [
+        {
+          "text": {
+            "content": "treatment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pity puppy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.052218992,
+      "mentions": [
+        {
+          "text": {
+            "content": "pity puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "volunteer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021582263,
+      "mentions": [
+        {
+          "text": {
+            "content": "volunteer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

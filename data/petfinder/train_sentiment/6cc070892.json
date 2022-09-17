@@ -1,0 +1,540 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Found this poor dog in front of a Restaurant .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact me If this is your dog or you know the dog owner.Thanks !",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "update 9-2-: Good boy Mochi surgery has done to remove his facial growth,the sample is then sent to a laboratory to check whether its benign or malignant.Vet estimate he need at least 2 weeks time to recover if nothing went wrong.(he will stay in vet until stitches removed.)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Beside the growth poor Mochi also diagnosed with heartworms,the treatment will start after his fully recover from the surgery.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I am now looking for a FOSTER HOME for baby Mochi after that.(his up for ADOPTION ) Please contact me @ if you know someone can help TEMPORARY foster or adopt him.(",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "KL AREA) THANK YOU!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "可怜的小毛孩Mochi除了脸部肿瘤外，还确定感染上心絲蟲症(Heartworm disease) ，脸部肉瘤切除手術已经完成，採樣将送化驗等待報告确定是良性或恶性。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "兽医的说法是如无任何状况发生下，两个星期后将可为伤口拆线。（",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "这阶段会一直住在兽医院里）。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "然后再继续进行下一步，治疗心絲蟲症。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "现在正积极寻找可以暂时中途Mochi的地方(吉隆坡区)，有意领养Mochi的朋友，请联络我，好吗？",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "update",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1073817,
+      "mentions": [
+        {
+          "text": {
+            "content": "update",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "least 2",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.09454865,
+      "mentions": [
+        {
+          "text": {
+            "content": "least 2",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "THANK YOU",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.06532297,
+      "mentions": [
+        {
+          "text": {
+            "content": "THANK YOU",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Heartworm disease",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/027x3",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Disease"
+      },
+      "salience": 0.05234501,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heartworm disease",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ADOPTION",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/09lkz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Adoption"
+      },
+      "salience": 0.051138297,
+      "mentions": [
+        {
+          "text": {
+            "content": "ADOPTION",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Please contact me",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.051138297,
+      "mentions": [
+        {
+          "text": {
+            "content": "Please contact me",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "he will stay in vet until stitches removed.",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.04892397,
+      "mentions": [
+        {
+          "text": {
+            "content": "he will stay in vet until stitches removed.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mochi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.045319032,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mochi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "丝虫症",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03988237,
+      "mentions": [
+        {
+          "text": {
+            "content": "絲蟲症",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "KL AREA",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.03657905,
+      "mentions": [
+        {
+          "text": {
+            "content": "KL AREA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mochi",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/012y0l",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Mochi"
+      },
+      "salience": 0.035298835,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mochi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "小毛孩Mochi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033735823,
+      "mentions": [
+        {
+          "text": {
+            "content": "小毛孩Mochi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "说法",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032339852,
+      "mentions": [
+        {
+          "text": {
+            "content": "说法",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "化验等待报告",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031387288,
+      "mentions": [
+        {
+          "text": {
+            "content": "化驗等待報告",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "恶性",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031387288,
+      "mentions": [
+        {
+          "text": {
+            "content": "恶性",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "手术",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031387288,
+      "mentions": [
+        {
+          "text": {
+            "content": "手術",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "脸部肉瘤",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031387288,
+      "mentions": [
+        {
+          "text": {
+            "content": "脸部肉瘤",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "兽医",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029261973,
+      "mentions": [
+        {
+          "text": {
+            "content": "兽医",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "脸部肿瘤",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0283999,
+      "mentions": [
+        {
+          "text": {
+            "content": "脸部肿瘤",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "状况",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028184706,
+      "mentions": [
+        {
+          "text": {
+            "content": "状况",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "心丝虫症",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017477106,
+      "mentions": [
+        {
+          "text": {
+            "content": "心絲蟲症",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "吉隆坡区",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/049d1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur"
+      },
+      "salience": 0.014058068,
+      "mentions": [
+        {
+          "text": {
+            "content": "吉隆坡区",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "伤口",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013642514,
+      "mentions": [
+        {
+          "text": {
+            "content": "伤口",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "阶段",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012984979,
+      "mentions": [
+        {
+          "text": {
+            "content": "阶段",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "兽医院",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012823473,
+      "mentions": [
+        {
+          "text": {
+            "content": "兽医院",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "地方",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01183214,
+      "mentions": [
+        {
+          "text": {
+            "content": "地方",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "朋友",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01183214,
+      "mentions": [
+        {
+          "text": {
+            "content": "朋友",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.5,
+    "score": 0
+  },
+  "language": "zh",
+  "categories": []
+}

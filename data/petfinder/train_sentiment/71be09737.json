@@ -1,0 +1,148 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Rescued by my daughter at our condo parking lot, hungry and weak.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "She has been living with us for about 3 weeks,well fed, has been de-wormed and treated with Frontline flea spray.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Please adopt her as she can bring happiness and warmth to your home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "daughter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.83119065,
+      "mentions": [
+        {
+          "text": {
+            "content": "daughter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "condo parking lot",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0996185,
+      "mentions": [
+        {
+          "text": {
+            "content": "condo parking lot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "happiness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020104984,
+      "mentions": [
+        {
+          "text": {
+            "content": "happiness",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "warmth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01633611,
+      "mentions": [
+        {
+          "text": {
+            "content": "warmth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01633611,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flea spray",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0103107225,
+      "mentions": [
+        {
+          "text": {
+            "content": "flea spray",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Frontline",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0061029256,
+      "mentions": [
+        {
+          "text": {
+            "content": "Frontline",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

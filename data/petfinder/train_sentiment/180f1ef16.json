@@ -1,0 +1,153 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Found in a car showroom in Jln Ipoh.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Fostered for months but home cant keep her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I will pay for spaying / neutral charges before her good rehome.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Finger cross.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She is obedien, playful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "car showroom",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.5987892,
+      "mentions": [
+        {
+          "text": {
+            "content": "car showroom",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jln Ipoh",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.15226962,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jln Ipoh",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08484984,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "charges",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.078545064,
+      "mentions": [
+        {
+          "text": {
+            "content": "charges",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Finger cross",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05926217,
+      "mentions": [
+        {
+          "text": {
+            "content": "Finger cross",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rehome",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02628409,
+      "mentions": [
+        {
+          "text": {
+            "content": "rehome",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

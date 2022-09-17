@@ -1,0 +1,160 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Rembrandt Male spitz, age 4-5, found abandoned in New Green Park, Rawang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Has since been dewormed, vaccinated, groomed, given anti-tick/flea treatment and neutered.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He has a quiet and sweet personality, and is eager to please, though still somewhat fearful after being abandoned in a vacant house for more than one month.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Rembrandt Male",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.48586255,
+      "mentions": [
+        {
+          "text": {
+            "content": "spitz",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Rembrandt Male",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.275693,
+      "mentions": [
+        {
+          "text": {
+            "content": "age",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "New Green Park",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1hc5wqnj_"
+      },
+      "salience": 0.07101994,
+      "mentions": [
+        {
+          "text": {
+            "content": "New Green Park",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Rawang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/096hhb",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Rawang,_Selangor"
+      },
+      "salience": 0.07101994,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rawang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "flea treatment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04013183,
+      "mentions": [
+        {
+          "text": {
+            "content": "flea treatment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "personality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036713015,
+      "mentions": [
+        {
+          "text": {
+            "content": "personality",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.019559693,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,76 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Why i call him Optimus Prime?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He love to jump and play 24 hours..until stormy get tired and dont want to play with him any more.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "His favourite sport is wrestling with stormy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Optimus Prime",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Optimus_Prime",
+        "mid": "/m/0409cr_"
+      },
+      "salience": 0.71707374,
+      "mentions": [
+        {
+          "text": {
+            "content": "Optimus Prime",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "sport",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.28292626,
+      "mentions": [
+        {
+          "text": {
+            "content": "sport",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,166 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "ALL SIX PUPPIES HAVE FOUND GOOD HOMES.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "These six puppies are were rescued from Subang jaya where they were being taken care off by a kind lady.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "They are very alert and would make good family pets and guard dogs.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "PUPPIES",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.37139496,
+      "mentions": [
+        {
+          "text": {
+            "content": "PUPPIES",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.19427945,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Subang jaya",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/054t4_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Subang_Jaya"
+      },
+      "salience": 0.1850841,
+      "mentions": [
+        {
+          "text": {
+            "content": "Subang jaya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "HOMES",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.14091283,
+      "mentions": [
+        {
+          "text": {
+            "content": "HOMES",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05101558,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guard dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023637675,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family pets",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018744174,
+      "mentions": [
+        {
+          "text": {
+            "content": "family pets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kind lady",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0149312345,
+      "mentions": [
+        {
+          "text": {
+            "content": "kind lady",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

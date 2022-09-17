@@ -1,0 +1,138 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This dog was found by Kuantan Animal Rescue &amp; Education (KARE) volunteer and now is staying at Klinik Haiwan Kuantan.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Interested?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact Dr Lean ()",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5128418,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "volunteer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16030118,
+      "mentions": [
+        {
+          "text": {
+            "content": "volunteer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kuantan Animal Rescue & Education",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.1401114,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kuantan Animal Rescue &amp; Education",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "KARE",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/02636v",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/KARE"
+      },
+      "salience": 0.09649026,
+      "mentions": [
+        {
+          "text": {
+            "content": "KARE",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Dr",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.055579815,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dr",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Klinik Haiwan Kuantan",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1hcb3v3jw"
+      },
+      "salience": 0.034675512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Klinik Haiwan Kuantan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,108 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Jacky is the youngest of 3 siblings but the cutest !",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He's active and loves to play catch !",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Jacky",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.58359003,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jacky",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "youngest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18943034,
+      "mentions": [
+        {
+          "text": {
+            "content": "youngest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cutest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10757309,
+      "mentions": [
+        {
+          "text": {
+            "content": "cutest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10635197,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "catch",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013054568,
+      "mentions": [
+        {
+          "text": {
+            "content": "catch",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.8,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

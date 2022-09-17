@@ -1,0 +1,139 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "She is very active and loves to play...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "A very good companion dog for active people.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "One Petz 2-1-20 one square, Tingkat mahsuri 1, Bayan lepas, Penang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2832112,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "companion dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.27985296,
+      "mentions": [
+        {
+          "text": {
+            "content": "companion dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Petz",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1549806,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petz",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Tingkat",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1172475,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tingkat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bayan lepas",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0d_dv9",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bayan_Lepas"
+      },
+      "salience": 0.082353875,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bayan lepas",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Penang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0g6xq",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Penang"
+      },
+      "salience": 0.082353875,
+      "mentions": [
+        {
+          "text": {
+            "content": "Penang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

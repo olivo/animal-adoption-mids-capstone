@@ -1,0 +1,144 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Female. 4 months old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Medium hair.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Vaccinated once.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Dewormed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Fee : RM 50 Location: Sunway/Subang",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3273457,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.30166495,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "RM 50 Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.13723065,
+      "mentions": [
+        {
+          "text": {
+            "content": "RM 50 Location",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Sunway",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0g2lsr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bandar_Sunway"
+      },
+      "salience": 0.13723065,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunway",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Subang",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Subang_Jaya",
+        "mid": "/m/054t4_"
+      },
+      "salience": 0.09652807,
+      "mentions": [
+        {
+          "text": {
+            "content": "Subang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

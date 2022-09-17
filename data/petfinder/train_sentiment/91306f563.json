@@ -1,0 +1,222 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Found this puppy in front of my house.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Name it lucky as it almost ran over by my neighbour car in the morning but by an inch it did not get over.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Anyone out there who is looking for puppy kindly adopt this puppy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "You can contact me at My Address is: No. 8, Jalan TPT 16, Taman Puchong Tekali Puchong Selangor.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.30181938,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "front",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2467516,
+      "mentions": [
+        {
+          "text": {
+            "content": "front",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.2467516,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07660511,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037461564,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbour car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.032521978,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbour car",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "My Address",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013413159,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Address",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Jalan TPT 16",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/g/1hc7_0lg6"
+      },
+      "salience": 0.013413159,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jalan TPT 16",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012468671,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Puchong Selangor",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.009396867,
+      "mentions": [
+        {
+          "text": {
+            "content": "Puchong Selangor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Taman Puchong Tekali",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/g/1hc5yqfmf"
+      },
+      "salience": 0.009396867,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taman Puchong Tekali",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

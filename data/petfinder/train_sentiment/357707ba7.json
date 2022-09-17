@@ -1,0 +1,90 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This puppy was rescue from the bush before the grass cutter was cleaning the land.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "rescue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.7390396,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "rescue",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bush",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.09838596,
+      "mentions": [
+        {
+          "text": {
+            "content": "bush",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grass cutter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.091934554,
+      "mentions": [
+        {
+          "text": {
+            "content": "grass cutter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "land",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07063988,
+      "mentions": [
+        {
+          "text": {
+            "content": "land",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

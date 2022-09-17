@@ -1,0 +1,80 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Adopted her at a drive at Citta Mall when she was about 2 months old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She is an active and playful dog, and very obedient.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.8176317,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drive",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.112778984,
+      "mentions": [
+        {
+          "text": {
+            "content": "drive",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Citta Mall",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1hc578nvb"
+      },
+      "salience": 0.06958927,
+      "mentions": [
+        {
+          "text": {
+            "content": "Citta Mall",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

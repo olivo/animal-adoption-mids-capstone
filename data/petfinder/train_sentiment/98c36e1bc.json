@@ -1,0 +1,230 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "i found this dog at my school.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "somebody who is interested pls e-mail to me. he is still a puppy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "becuz my house alrdy had two dogs,therefore i unable to adopt any dog anymore.he is still at my school now.becuz i m studying in smk,therefore he won't be able to stay long at my school,or else he will be caught by bandar raya.if interested ,pls e-mail to me,i will tell u the location of my school.i live in semenyih,selangor.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "school now.becuz im",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.30919307,
+      "mentions": [
+        {
+          "text": {
+            "content": "school now.becuz i m",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "school",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.25587097,
+      "mentions": [
+        {
+          "text": {
+            "content": "school",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "school",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "somebody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19531992,
+      "mentions": [
+        {
+          "text": {
+            "content": "somebody",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12999213,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027909452,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house alrdy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016049575,
+      "mentions": [
+        {
+          "text": {
+            "content": "house alrdy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog anymore.",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014914718,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog anymore.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014733477,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "smk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013691034,
+      "mentions": [
+        {
+          "text": {
+            "content": "smk",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "school.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009695682,
+      "mentions": [
+        {
+          "text": {
+            "content": "school.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "semenyih",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00723883,
+      "mentions": [
+        {
+          "text": {
+            "content": "semenyih",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0053911395,
+      "mentions": [
+        {
+          "text": {
+            "content": "location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

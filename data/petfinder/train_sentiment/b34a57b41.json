@@ -1,0 +1,217 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Faith (White); Joy (Brown); Munchkin (Black) They are all sisters (siblings).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "They are very good listeners, definitely playful and smart.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Great at having as indoor pets even as they are obedient and very independent.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Please call to give these little darlings a home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "listeners",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.61173034,
+      "mentions": [
+        {
+          "text": {
+            "content": "sisters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "listeners",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09996588,
+      "mentions": [
+        {
+          "text": {
+            "content": "Faith",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "White",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09996588,
+      "mentions": [
+        {
+          "text": {
+            "content": "White",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Brown",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06182609,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brown",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Joy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06182609,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Black",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024393441,
+      "mentions": [
+        {
+          "text": {
+            "content": "Black",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Munchkin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024393441,
+      "mentions": [
+        {
+          "text": {
+            "content": "Munchkin",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "darlings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0066883047,
+      "mentions": [
+        {
+          "text": {
+            "content": "darlings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0050473157,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pets",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0041632075,
+      "mentions": [
+        {
+          "text": {
+            "content": "pets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

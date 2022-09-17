@@ -1,0 +1,206 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Aarrr!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I'm a pirate!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I like to hang out in da basin of my toilet.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Love to sleep in bowls.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Love to cuddle up to my owner.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Now what's missing is my pet parrot.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Aaar!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "pirate",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.64686054,
+      "mentions": [
+        {
+          "text": {
+            "content": "pirate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Aarrr",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/g/1n36g5f3x",
+        "wikipedia_url": "https://pt.wikipedia.org/wiki/AARRR"
+      },
+      "salience": 0.18505317,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aarrr",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "toilet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04089079,
+      "mentions": [
+        {
+          "text": {
+            "content": "toilet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "basin",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.04039811,
+      "mentions": [
+        {
+          "text": {
+            "content": "basin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bowls",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03743144,
+      "mentions": [
+        {
+          "text": {
+            "content": "bowls",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet parrot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025233593,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet parrot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012441306,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Aaar",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01169106,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aaar",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

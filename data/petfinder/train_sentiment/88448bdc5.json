@@ -1,0 +1,219 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Goldie is a very shy dog, and need time to warm up but she loves playing with her furry friends.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Her siblings are Blondie, Whisky and Tootsie.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Vaccination and neutering are compulsory.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "No tying up or caging unless necessary for short periods.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Please call if interested.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Goldie",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/09qds",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Goldie"
+      },
+      "salience": 0.66253036,
+      "mentions": [
+        {
+          "text": {
+            "content": "Goldie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18472297,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friends",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0424859,
+      "mentions": [
+        {
+          "text": {
+            "content": "friends",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020253547,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neutering",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018969584,
+      "mentions": [
+        {
+          "text": {
+            "content": "neutering",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018515104,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Blondie",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.015557795,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blondie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "caging",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0142954625,
+      "mentions": [
+        {
+          "text": {
+            "content": "caging",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Whisky",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/082bv",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Whisky"
+      },
+      "salience": 0.011334649,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whisky",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Tootsie",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.011334649,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tootsie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

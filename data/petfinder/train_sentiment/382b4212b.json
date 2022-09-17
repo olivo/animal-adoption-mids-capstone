@@ -1,0 +1,114 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "They have been caught by the university management.pls adopt them before they are sent to dbkl.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Location: UIA Gombak Contact no",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "university",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.9006005,
+      "mentions": [
+        {
+          "text": {
+            "content": "university",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "UIA",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/International_Islamic_University_Malaysia",
+        "mid": "/m/046khf"
+      },
+      "salience": 0.029576184,
+      "mentions": [
+        {
+          "text": {
+            "content": "UIA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dbkl",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur_City_Hall",
+        "mid": "/m/0cnp39"
+      },
+      "salience": 0.02705751,
+      "mentions": [
+        {
+          "text": {
+            "content": "dbkl",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.022001322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gombak Contact",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0207645,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gombak Contact",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": -0.3
+  },
+  "language": "en",
+  "categories": []
+}

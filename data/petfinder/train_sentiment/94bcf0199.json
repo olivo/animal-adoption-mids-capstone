@@ -1,0 +1,211 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "She is a very good companion dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Small enough to be kept in an apartment.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Adopters must vaccinate, spay and keep her indoors/fenced.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Call/whatsapp: Address ONE PETZ 2-1-20 ONE SQUARE, TINGKAT MAHSURI 1, BAYAN LEPAS, PENANG.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "companion dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.7810292,
+      "mentions": [
+        {
+          "text": {
+            "content": "companion dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "apartment",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03831628,
+      "mentions": [
+        {
+          "text": {
+            "content": "apartment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adopters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038128916,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adopters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "whatsapp",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035335932,
+      "mentions": [
+        {
+          "text": {
+            "content": "whatsapp",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Call",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035335932,
+      "mentions": [
+        {
+          "text": {
+            "content": "Call",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SQUARE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026730975,
+      "mentions": [
+        {
+          "text": {
+            "content": "SQUARE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "TINGKAT MAHSURI 1",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/1q5ccf3lq"
+      },
+      "salience": 0.015874427,
+      "mentions": [
+        {
+          "text": {
+            "content": "TINGKAT MAHSURI 1",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "BAYAN LEPAS",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bayan_Lepas",
+        "mid": "/m/0d_dv9"
+      },
+      "salience": 0.011131746,
+      "mentions": [
+        {
+          "text": {
+            "content": "BAYAN LEPAS",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "PENANG",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Penang",
+        "mid": "/m/0g6xq"
+      },
+      "salience": 0.011131746,
+      "mentions": [
+        {
+          "text": {
+            "content": "PENANG",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Address ONE PETZ",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006984787,
+      "mentions": [
+        {
+          "text": {
+            "content": "Address ONE PETZ",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

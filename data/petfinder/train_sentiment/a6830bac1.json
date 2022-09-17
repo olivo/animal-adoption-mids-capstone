@@ -1,0 +1,139 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Cappuccino was rescued by Ms Leela &amp; currently fostered by Ms Grace Bong.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "If you can give her a good home without caging or chaining, please whatsapp or msg Ms Grace Bong tel no:",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Leela",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.45948178,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leela",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Ms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Grace Bong",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3774227,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grace Bong",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Ms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Grace Bong",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Ms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cappuccino",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cappuccino",
+        "mid": "/m/09702"
+      },
+      "salience": 0.13280751,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cappuccino",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02108736,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chaining",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009200649,
+      "mentions": [
+        {
+          "text": {
+            "content": "chaining",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

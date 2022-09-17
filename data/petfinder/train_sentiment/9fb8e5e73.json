@@ -1,0 +1,288 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "They are victims of the flood in Alor Star.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "FOund them in a box outside the AIA building at Jalan Telok Wanjah. 2 of their siblings were taken away by some good Samaritans.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I am not allowed to have any pet, the deadline given by my parents is until the flood is over.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Pls give me an sms if you are interested in them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Thanks.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "victims",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.37028173,
+      "mentions": [
+        {
+          "text": {
+            "content": "victims",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flood",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.30170944,
+      "mentions": [
+        {
+          "text": {
+            "content": "flood",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "flood",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "AIA",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/02hvqs",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/American_Institute_of_Architects"
+      },
+      "salience": 0.1089056,
+      "mentions": [
+        {
+          "text": {
+            "content": "AIA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Alor Star",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/04p9tf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Alor_Setar"
+      },
+      "salience": 0.08274875,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alor Star",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026181508,
+      "mentions": [
+        {
+          "text": {
+            "content": "box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Samaritans",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01795122,
+      "mentions": [
+        {
+          "text": {
+            "content": "Samaritans",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "building",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01773354,
+      "mentions": [
+        {
+          "text": {
+            "content": "building",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01773354,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016200885,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jalan Telok Wanjah.",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/g/1vxq94f_"
+      },
+      "salience": 0.010516245,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jalan Telok Wanjah.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "sms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009423299,
+      "mentions": [
+        {
+          "text": {
+            "content": "sms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Thanks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008624786,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thanks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "deadline",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006545226,
+      "mentions": [
+        {
+          "text": {
+            "content": "deadline",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parents",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0054442324,
+      "mentions": [
+        {
+          "text": {
+            "content": "parents",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

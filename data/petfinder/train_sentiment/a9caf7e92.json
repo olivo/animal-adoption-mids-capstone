@@ -1,0 +1,126 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Iris is very cute and active cat. he is very lovesome. he is kinda humanized cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "very friendly and funny.and he loves dragon fruits and watermelon",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.7256294,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Iris",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0lxkm",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Iris_(anatomy)"
+      },
+      "salience": 0.1395457,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iris",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cat.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09900962,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dragon fruits",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014139677,
+      "mentions": [
+        {
+          "text": {
+            "content": "dragon fruits",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "watermelon",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01330543,
+      "mentions": [
+        {
+          "text": {
+            "content": "watermelon",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "funny.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008370169,
+      "mentions": [
+        {
+          "text": {
+            "content": "funny.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

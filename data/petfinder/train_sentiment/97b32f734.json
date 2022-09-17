@@ -1,0 +1,128 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Benji is a spitz cross breed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "He is a friendly, lively and alert dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Please call Dr Gowry at Ara Damansara Animal Health Center at / .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Benji",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/023t3d",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Benji"
+      },
+      "salience": 0.7528313,
+      "mentions": [
+        {
+          "text": {
+            "content": "Benji",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "spitz cross breed",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.14878367,
+      "mentions": [
+        {
+          "text": {
+            "content": "spitz cross breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.052720085,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gowry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028453529,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gowry",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Dr",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ara Damansara Animal Health Center",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.017211447,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ara Damansara Animal Health Center",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

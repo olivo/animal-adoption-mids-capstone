@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This is a female dog.i found it infront my house.very healthy puppy.i am finding home for this puppy.please kindly help me.Thank you very much.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.88876843,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.080191225,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031040363,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,558 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Big Punch is a 3-4 months old German Shephard mix male.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Active, playful, well behaved, very intelligent, toilet trained and knows how to whine when asking to go to his toilet spot.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "He has had his 1st vaccination.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Looking for loving adopter commited to spaying him upon adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Spaying can be done at SPECIAL RATE of RM only (Normal spaying fee RM or more) at my vet in Taipan, Subang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Address of clinic is Kinik Veterinar Mayo, 11A, USJ 10/1G, Subang Jaya and name of doctor is Dr. Khor (NOTE that this rate is for RESCUED DOGS only, and not applicable to you own existing dogs) If interested, please contact me or Jocelyn at to give this lovely active boy a good life.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "male",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21497336,
+      "mentions": [
+        {
+          "text": {
+            "content": "male",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Big Punch",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12226063,
+      "mentions": [
+        {
+          "text": {
+            "content": "Big Punch",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Shephard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1021502,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shephard",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "German",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.1021502,
+      "mentions": [
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Spaying",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04253482,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spaying",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toilet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036259715,
+      "mentions": [
+        {
+          "text": {
+            "content": "toilet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.024610683,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SPECIAL RATE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024543533,
+      "mentions": [
+        {
+          "text": {
+            "content": "SPECIAL RATE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "RM",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024543533,
+      "mentions": [
+        {
+          "text": {
+            "content": "RM",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Address",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023738237,
+      "mentions": [
+        {
+          "text": {
+            "content": "Address",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spaying fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021570394,
+      "mentions": [
+        {
+          "text": {
+            "content": "spaying fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toilet spot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02154828,
+      "mentions": [
+        {
+          "text": {
+            "content": "toilet spot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021441488,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020378008,
+      "mentions": [
+        {
+          "text": {
+            "content": "rate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019797018,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clinic",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.019752821,
+      "mentions": [
+        {
+          "text": {
+            "content": "clinic",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Khor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017642057,
+      "mentions": [
+        {
+          "text": {
+            "content": "Khor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Dr.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016954388,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kinik Veterinar Mayo",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.014945405,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kinik Veterinar Mayo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "RM",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014533759,
+      "mentions": [
+        {
+          "text": {
+            "content": "RM",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Subang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/054t4_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Subang_Jaya"
+      },
+      "salience": 0.01333699,
+      "mentions": [
+        {
+          "text": {
+            "content": "Subang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Subang Jaya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Taipan",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011717466,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taipan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010562724,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "RESCUED DOGS",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/02p3y1b",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Rescue_dog"
+      },
+      "salience": 0.010032106,
+      "mentions": [
+        {
+          "text": {
+            "content": "RESCUED DOGS",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0079617845,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0065398375,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doctor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0065398375,
+      "mentions": [
+        {
+          "text": {
+            "content": "doctor",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "NOTE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0065398375,
+      "mentions": [
+        {
+          "text": {
+            "content": "NOTE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "1G",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0065398375,
+      "mentions": [
+        {
+          "text": {
+            "content": "1G",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jocelyn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0061697275,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jocelyn",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "USJ 10",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0038656576,
+      "mentions": [
+        {
+          "text": {
+            "content": "USJ 10",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.5,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,106 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I am so cute cause my marking like Panda.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "So Would you want to keep a sweet Pandan like me at home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Sms you detail to",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "marking",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.54908675,
+      "mentions": [
+        {
+          "text": {
+            "content": "marking",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Panda",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/03bj1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Giant_panda"
+      },
+      "salience": 0.2593135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Panda",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.13155805,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pandan",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06004172,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pandan",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

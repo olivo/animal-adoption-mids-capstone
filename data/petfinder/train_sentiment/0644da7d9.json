@@ -1,0 +1,81 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Named him Snape temporary for identification purpose (because he looks like Severus Snape in Harry Potter &gt;_",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Snape",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0c2l5",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Severus_Snape"
+      },
+      "salience": 0.760799,
+      "mentions": [
+        {
+          "text": {
+            "content": "Snape",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Severus Snape",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "identification purpose",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14727059,
+      "mentions": [
+        {
+          "text": {
+            "content": "identification purpose",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Harry Potter",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "mid": "/m/078ffw",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Harry_Potter"
+      },
+      "salience": 0.06357692,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harry Potter",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

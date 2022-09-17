@@ -1,0 +1,285 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I am helping a friend post this.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She has health problems and isn't able to take care of T-Rex in the long term.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "T-Rex is a brindle, weighs about 34 kgs, smaller than the normal mastiff.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Looks like a giant but gentle, sometimes he is bullied by his friend, the maltese.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "He doesn't really bark but with his size, it scares people away.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Please help to find him a good home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "brindle",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.39135605,
+      "mentions": [
+        {
+          "text": {
+            "content": "brindle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend post",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21101642,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend post",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "health problems",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10497102,
+      "mentions": [
+        {
+          "text": {
+            "content": "health problems",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04633821,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "maltese",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032265443,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "maltese",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mastiff",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027656885,
+      "mentions": [
+        {
+          "text": {
+            "content": "mastiff",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "term",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.027456913,
+      "mentions": [
+        {
+          "text": {
+            "content": "term",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "T-Rex",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/07hjh",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Tyrannosaurus"
+      },
+      "salience": 0.027391735,
+      "mentions": [
+        {
+          "text": {
+            "content": "T-Rex",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "T-Rex",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Looks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025302188,
+      "mentions": [
+        {
+          "text": {
+            "content": "Looks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "giant",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.025302188,
+      "mentions": [
+        {
+          "text": {
+            "content": "giant",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02070429,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "size",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019047055,
+      "mentions": [
+        {
+          "text": {
+            "content": "size",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019047055,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.3,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

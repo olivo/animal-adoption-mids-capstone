@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Has adopted by a friend with new pet name Kimie",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.49159506,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.35378954,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kimie",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0skrtwd",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kimie"
+      },
+      "salience": 0.15461539,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kimie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

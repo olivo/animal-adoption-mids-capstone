@@ -1,0 +1,138 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "She was found at the Heritage Mall in Kota Tinggi.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She was alone and receptive to me picking her up and taking her home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She loves to play with toys and when I greet/talk with her she immediately falls on her back for a belly rub.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Heritage Mall",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1hf2z9nqj"
+      },
+      "salience": 0.48459825,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heritage Mall",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kota Tinggi",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/06gslz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kota_Tinggi"
+      },
+      "salience": 0.19068655,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kota Tinggi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.12356021,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toys",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.097626604,
+      "mentions": [
+        {
+          "text": {
+            "content": "toys",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "back",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05176419,
+      "mentions": [
+        {
+          "text": {
+            "content": "back",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "belly rub",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05176419,
+      "mentions": [
+        {
+          "text": {
+            "content": "belly rub",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,250 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Arnie is a special needs kitten.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He is adorable and alert but he has issues with his ability to balance during quick movement due to a mental disability.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "He must be kept indoors and inside a home with no staircase as this would be to dangerous for him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Only very serious individual with qualifications should offer to adopt him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Reference will be required and verified for his adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Arnie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7843935,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arnie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "needs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09635525,
+      "mentions": [
+        {
+          "text": {
+            "content": "needs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "issues",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018672643,
+      "mentions": [
+        {
+          "text": {
+            "content": "issues",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ability",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018672643,
+      "mentions": [
+        {
+          "text": {
+            "content": "ability",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "disability",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012808519,
+      "mentions": [
+        {
+          "text": {
+            "content": "disability",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "movement",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.012653352,
+      "mentions": [
+        {
+          "text": {
+            "content": "movement",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011702622,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "staircase",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011702622,
+      "mentions": [
+        {
+          "text": {
+            "content": "staircase",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Reference",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011349562,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reference",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "qualifications",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008805432,
+      "mentions": [
+        {
+          "text": {
+            "content": "qualifications",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "individual",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0067268056,
+      "mentions": [
+        {
+          "text": {
+            "content": "individual",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006157055,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,176 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Kopi is a very cute, playful, lovely puppy looking for a nice family to love &amp; take care of him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Please do not hesitate to pass by to visit him (KOPI CINE cafe) 55 Stewart Lane, George Town, Penang - (Not Spayed yet as he's too young)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.35185173,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kopi",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.22242582,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kopi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1391488,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Stewart Lane",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13718721,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stewart Lane",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.086362116,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "KOPI CINE",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1hc3wbpnj"
+      },
+      "salience": 0.020518297,
+      "mentions": [
+        {
+          "text": {
+            "content": "KOPI CINE",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "George Town",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/015806",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/George_Town,_Penang"
+      },
+      "salience": 0.015495377,
+      "mentions": [
+        {
+          "text": {
+            "content": "George Town",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Penang",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Penang",
+        "mid": "/m/0g6xq"
+      },
+      "salience": 0.015495377,
+      "mentions": [
+        {
+          "text": {
+            "content": "Penang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cafe",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011515272,
+      "mentions": [
+        {
+          "text": {
+            "content": "cafe",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

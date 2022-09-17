@@ -1,0 +1,121 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Neelu is a female mixed breed dog and is about 5 months old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He has been vaccinated and dewormed.I found him in Bukit Beruntong as a stray about 2 months ago.He is healthy and responds to basic commands.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Looking for a nice home for her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Neelu",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7115634,
+      "mentions": [
+        {
+          "text": {
+            "content": "Neelu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mixed breed dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.23873702,
+      "mentions": [
+        {
+          "text": {
+            "content": "mixed breed dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "commands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019442644,
+      "mentions": [
+        {
+          "text": {
+            "content": "commands",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bukit Beruntong",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0cwcng",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bukit_Beruntung"
+      },
+      "salience": 0.016657453,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bukit Beruntong",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013599475,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

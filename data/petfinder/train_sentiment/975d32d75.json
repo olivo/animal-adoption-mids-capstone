@@ -1,0 +1,95 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Shin Wa is a shy cat, she likes to hide so that i cannot find her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "After u build up a relationship with her, she'll attach to u.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Pls call to arrange a visit.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Shin Wa",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.89967525,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shin Wa",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "relationship",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07603579,
+      "mentions": [
+        {
+          "text": {
+            "content": "relationship",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "visit",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.024288932,
+      "mentions": [
+        {
+          "text": {
+            "content": "visit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "kittens almost got hit by car.PLEASE EMAIL ME FOR MORE INFO.DONT COMMENT, I WIL NOT GET THE NOTIFICATION.THANX =D",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6486282,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "INFO.DONT COMMENT",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.18713306,
+      "mentions": [
+        {
+          "text": {
+            "content": "INFO.DONT COMMENT",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "NOTIFICATION.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.086531535,
+      "mentions": [
+        {
+          "text": {
+            "content": "NOTIFICATION.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "THANX =D",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.077707246,
+      "mentions": [
+        {
+          "text": {
+            "content": "THANX =D",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

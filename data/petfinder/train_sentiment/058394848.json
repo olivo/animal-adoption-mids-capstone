@@ -1,0 +1,211 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Found this baby cat in a food court, kind of like American Short Hair with 3 strips running across his back.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "probably mom is an by product of american shorthair dumped by breeders?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "The kitten is friendly, which I why I was able to catch him, he did not ran away when I approach him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.30332458,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20142516,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food court",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.20142516,
+      "mentions": [
+        {
+          "text": {
+            "content": "food court",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "strips",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.054912604,
+      "mentions": [
+        {
+          "text": {
+            "content": "strips",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "back",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.054912604,
+      "mentions": [
+        {
+          "text": {
+            "content": "back",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "American Short Hair",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/02zfvv",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/American_Shorthair"
+      },
+      "salience": 0.04825282,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Short Hair",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "product",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.034405928,
+      "mentions": [
+        {
+          "text": {
+            "content": "product",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032379784,
+      "mentions": [
+        {
+          "text": {
+            "content": "mom",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shorthair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028169882,
+      "mentions": [
+        {
+          "text": {
+            "content": "shorthair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breeders",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024776377,
+      "mentions": [
+        {
+          "text": {
+            "content": "breeders",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "american",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016015112,
+      "mentions": [
+        {
+          "text": {
+            "content": "american",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

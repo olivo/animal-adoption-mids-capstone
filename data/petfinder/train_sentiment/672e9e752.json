@@ -1,0 +1,103 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Ginny is sister to Katniss.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Loves to snuggle and taking warm baths.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Ginny",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.8202186,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ginny",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "sister",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Katniss",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/069jpj",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sagittaria"
+      },
+      "salience": 0.07192991,
+      "mentions": [
+        {
+          "text": {
+            "content": "Katniss",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Loves",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0596496,
+      "mentions": [
+        {
+          "text": {
+            "content": "Loves",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baths",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.048201837,
+      "mentions": [
+        {
+          "text": {
+            "content": "baths",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

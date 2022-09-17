@@ -1,0 +1,131 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I found Loki wandering outside an LRT station.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "He was bone thin and dehydrated.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "So after eating all my food and daily exercise, he is now strong but still thin.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Extremely loyal and loving, although looks terrifying.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Loki",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7533547,
+      "mentions": [
+        {
+          "text": {
+            "content": "Loki",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "station",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.10885069,
+      "mentions": [
+        {
+          "text": {
+            "content": "station",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "LRT",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0dft2",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Light_rail"
+      },
+      "salience": 0.066270575,
+      "mentions": [
+        {
+          "text": {
+            "content": "LRT",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03726614,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exercise",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03425788,
+      "mentions": [
+        {
+          "text": {
+            "content": "exercise",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

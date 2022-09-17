@@ -1,0 +1,312 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Junior is a very unique colored cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She is very playful and adventurous.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "You can cuddle this gentle one.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Her sibilings are Snow, Guinness and Smurf, all adopted.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Mama is a tuxedo cat named Oreo, looking for a good home too.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "It would be great if both can be adopted together.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Vaccination and neutering are compulsory.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Please call if interested.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Junior",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5320298,
+      "mentions": [
+        {
+          "text": {
+            "content": "Junior",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2511848,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tuxedo cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031823173,
+      "mentions": [
+        {
+          "text": {
+            "content": "tuxedo cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023975782,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sibilings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023116287,
+      "mentions": [
+        {
+          "text": {
+            "content": "sibilings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Oreo",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0x1bbzb",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Oreo"
+      },
+      "salience": 0.018124484,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oreo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Snow",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.017735673,
+      "mentions": [
+        {
+          "text": {
+            "content": "Snow",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mama",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017051363,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mama",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "both",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016549671,
+      "mentions": [
+        {
+          "text": {
+            "content": "both",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neutering",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016518543,
+      "mentions": [
+        {
+          "text": {
+            "content": "neutering",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016119894,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Guinness",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0f2nzn",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Guinness"
+      },
+      "salience": 0.01423449,
+      "mentions": [
+        {
+          "text": {
+            "content": "Guinness",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Smurf",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01nw2sm",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/The_Smurfs"
+      },
+      "salience": 0.01423449,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smurf",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0073015415,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 4.7,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

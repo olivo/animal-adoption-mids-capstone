@@ -1,0 +1,197 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Brandon was rescued and is currently fostered by Jack.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Jack has too many rescued dogs &amp; cannot keep them all.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Brandon has night blindness but otherwise he is normal.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Those interested in giving him a loving home without chain or caging, please whatsapp Ms Grace Bong tel no:",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Brandon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.71662027,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brandon",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Brandon",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Jack",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/08gysz",
+        "wikipedia_url": "https://nl.wikipedia.org/wiki/Jack-Jack_Parr"
+      },
+      "salience": 0.08699896,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jack",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jack",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07350841,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Grace Bong",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035259053,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grace Bong",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Ms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "night blindness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03258817,
+      "mentions": [
+        {
+          "text": {
+            "content": "night blindness",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022545226,
+      "mentions": [
+        {
+          "text": {
+            "content": "chain",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "caging",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022545226,
+      "mentions": [
+        {
+          "text": {
+            "content": "caging",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009934689,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

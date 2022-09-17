@@ -1,0 +1,125 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Location: Serdang, near UPM.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Urgently seeking a new loving home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact me or Tang Sook Wah () if interested to adopt.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.4736376,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Serdang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/05ztfx",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Seri_Kembangan"
+      },
+      "salience": 0.30962592,
+      "mentions": [
+        {
+          "text": {
+            "content": "Serdang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "UPM",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/g/11c3wv6bs9"
+      },
+      "salience": 0.12940058,
+      "mentions": [
+        {
+          "text": {
+            "content": "UPM",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07379592,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tang Sook Wah",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/11ggn8gzdq"
+      },
+      "salience": 0.013539978,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tang Sook Wah",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

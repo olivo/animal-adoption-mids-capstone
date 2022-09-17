@@ -1,0 +1,103 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "He is really really super active.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Email me your details if interested to adopt : - RESTRICTED TO SERIOUS ADOPTER ONLY.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "(Questionnaire and discussion)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "details",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.4195194,
+      "mentions": [
+        {
+          "text": {
+            "content": "details",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Questionnaire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2948558,
+      "mentions": [
+        {
+          "text": {
+            "content": "Questionnaire",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "discussion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20766352,
+      "mentions": [
+        {
+          "text": {
+            "content": "discussion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SERIOUS ADOPTER",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.077961266,
+      "mentions": [
+        {
+          "text": {
+            "content": "SERIOUS ADOPTER",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

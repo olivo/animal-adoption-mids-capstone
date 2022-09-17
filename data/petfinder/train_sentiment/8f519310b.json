@@ -1,0 +1,414 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Note that fee is deposit.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Once spay,money will be refund to you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "A basic pet agreement is require to sign to make sure owner promise for the safety of fur kid.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Description - Meow for love , she is a loving cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "- Love cheek rubs - When we first met, she greet me , play with me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "- When I brought her home for bath, she behaved well even she is little afraid.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "- She is not a noisy cat, she can enjoy sleep at strange environment even when I vacuum floor.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "- She hugs my hand when I cheek rub her",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "deposit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.44233698,
+      "mentions": [
+        {
+          "text": {
+            "content": "fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "deposit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "refund",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.23206496,
+      "mentions": [
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "refund",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Meow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08519935,
+      "mentions": [
+        {
+          "text": {
+            "content": "Meow",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spay",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.048695657,
+      "mentions": [
+        {
+          "text": {
+            "content": "spay",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet agreement",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034526423,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet agreement",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.015120971,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner promise",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014699948,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner promise",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cheek",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014349862,
+      "mentions": [
+        {
+          "text": {
+            "content": "cheek",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014214011,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012643372,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur kid",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0125361895,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur kid",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "safety",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0125361895,
+      "mentions": [
+        {
+          "text": {
+            "content": "safety",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012492076,
+      "mentions": [
+        {
+          "text": {
+            "content": "Description",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "environment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008693483,
+      "mentions": [
+        {
+          "text": {
+            "content": "environment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Love",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00849745,
+      "mentions": [
+        {
+          "text": {
+            "content": "Love",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "sleep",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008482676,
+      "mentions": [
+        {
+          "text": {
+            "content": "sleep",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cheek",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006919252,
+      "mentions": [
+        {
+          "text": {
+            "content": "cheek",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vacuum floor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006088749,
+      "mentions": [
+        {
+          "text": {
+            "content": "vacuum floor",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0060787676,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bath",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038236452,
+      "mentions": [
+        {
+          "text": {
+            "content": "bath",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.6,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

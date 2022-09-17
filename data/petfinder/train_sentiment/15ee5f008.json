@@ -1,0 +1,80 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Found it at Cheras Perdana.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Please call Kelly for more info.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Cheras Perdana",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1th46x6s"
+      },
+      "salience": 0.4889961,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cheras Perdana",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "info",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.28540394,
+      "mentions": [
+        {
+          "text": {
+            "content": "info",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kelly",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22559997,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kelly",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

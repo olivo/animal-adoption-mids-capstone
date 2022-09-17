@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Her given name is Tiega..has adopted by my friend Nick -now is she called Ciara...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.53216326,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Nick",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.26815388,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Nick",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Tiega",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15167414,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tiega",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Ciara",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/03h_0_z",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ciara"
+      },
+      "salience": 0.04800872,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ciara",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

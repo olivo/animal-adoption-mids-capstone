@@ -1,0 +1,219 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "紧急，谁能帮忙领养，6只死剩2只，4只被人淋热水死了，可可色～母，黑白色～公，请求帮助感激不尽。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Emergency, who can help adoption, 6 left, two dead, four were dead coz people poured hot water on them,cocoa color - female, black and white - the public, asking for help grateful...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20920429,
+      "mentions": [
+        {
+          "text": {
+            "content": "人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "可可色",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1098136,
+      "mentions": [
+        {
+          "text": {
+            "content": "可可色",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "黑白色",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1098136,
+      "mentions": [
+        {
+          "text": {
+            "content": "黑白色",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "公",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.10692716,
+      "mentions": [
+        {
+          "text": {
+            "content": "公",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "母",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07856025,
+      "mentions": [
+        {
+          "text": {
+            "content": "母",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "who can help adoption",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.077270076,
+      "mentions": [
+        {
+          "text": {
+            "content": "who can help adoption",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "two dead",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.077270076,
+      "mentions": [
+        {
+          "text": {
+            "content": "two dead",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Emergency",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/025rvy6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Emergency"
+      },
+      "salience": 0.069989376,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emergency",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "the public",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041044362,
+      "mentions": [
+        {
+          "text": {
+            "content": "the public",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cocoa color",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04003574,
+      "mentions": [
+        {
+          "text": {
+            "content": "cocoa color",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "female",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/02zsn",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Female"
+      },
+      "salience": 0.04003574,
+      "mentions": [
+        {
+          "text": {
+            "content": "female",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "black and white",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04003574,
+      "mentions": [
+        {
+          "text": {
+            "content": "black and white",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": -0.3
+  },
+  "language": "zh",
+  "categories": []
+}

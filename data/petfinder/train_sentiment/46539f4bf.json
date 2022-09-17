@@ -1,0 +1,151 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This beautiful yet adorable baby girl was send to me yesterday.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She is 3 months old and very cheeky.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "If ur interested please call/whatsapp me:/",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Address: One Petz 2-1-20 One Square, Tingkat Mahsuri 1, Bayan Lepas, Penang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "baby girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.8847301,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Address",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04552944,
+      "mentions": [
+        {
+          "text": {
+            "content": "Address",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "One Petz 2-1-20 One Square",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.020493023,
+      "mentions": [
+        {
+          "text": {
+            "content": "One Petz 2-1-20 One Square",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Tingkat Mahsuri 1",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/1q5ccf3lq"
+      },
+      "salience": 0.020493023,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tingkat Mahsuri 1",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bayan Lepas",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bayan_Lepas",
+        "mid": "/m/0d_dv9"
+      },
+      "salience": 0.014377199,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bayan Lepas",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Penang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0g6xq",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Penang"
+      },
+      "salience": 0.014377199,
+      "mentions": [
+        {
+          "text": {
+            "content": "Penang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

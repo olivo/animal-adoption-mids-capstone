@@ -1,0 +1,156 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Kittens age approx 2 weeks.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Found them nearby the post box of Block E, Arena Green Apartment, Bukit Jalil, Kuala Lumpur.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Mother cat is not seen nearby.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.8111928,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "post box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.054966796,
+      "mentions": [
+        {
+          "text": {
+            "content": "post box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mother cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049695633,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mother cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Block E",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03324165,
+      "mentions": [
+        {
+          "text": {
+            "content": "Block E",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Arena Green Apartment",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/g/1tgh0h98"
+      },
+      "salience": 0.030537674,
+      "mentions": [
+        {
+          "text": {
+            "content": "Arena Green Apartment",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bukit Jalil",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bukit_Jalil",
+        "mid": "/m/0d_d26"
+      },
+      "salience": 0.010182722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bukit Jalil",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kuala Lumpur",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/049d1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur"
+      },
+      "salience": 0.010182722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kuala Lumpur",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,133 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Very kind and attached to the owner, totally indoor and has been with me since he was born.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Never visited a hospital for a medical reason.Vaccinated, castrated, dewormed and microchiped.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Toilet trained.He sleeps on pillow only!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4400687,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Never",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.39768696,
+      "mentions": [
+        {
+          "text": {
+            "content": "Never",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "hospital",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0584577,
+      "mentions": [
+        {
+          "text": {
+            "content": "hospital",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reason.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045439772,
+      "mentions": [
+        {
+          "text": {
+            "content": "reason.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Toilet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034255672,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toilet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pillow",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.024091218,
+      "mentions": [
+        {
+          "text": {
+            "content": "pillow",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

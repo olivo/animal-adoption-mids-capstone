@@ -1,0 +1,665 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hello.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "My name is Pippa.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I am a 4-month-old girl kitten.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "My foster mommy found me in a drain after a heavy rain, covered in mud last week.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I am otherwise healthy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I love boxes of all shapes and sizes, soft blankets, a good cuddle and watching The Godfather or Turkish soap opera on tv.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I have been vaccinated, dewormed and Frontlined.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I'm a pro at using the litter box since day one.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I am ready to continue my adventure in my furever home and a loving responsible mommy or daddy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I am going to teach her or him how to properly hide in a box!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Please call or email my foster Mommy if you are interested in adopting me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Hugs and kisses, Phillipa (Pippa) Important note: I will only let her go to a responsible person who will neuter her when she comes of age dan continues her vaccination as per vet's advice.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "girl kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6766374,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pro",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pippa",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12531455,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pippa",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Pippa",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mommy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03656896,
+      "mentions": [
+        {
+          "text": {
+            "content": "mommy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025046408,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boxes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008344269,
+      "mentions": [
+        {
+          "text": {
+            "content": "boxes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drain",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.007887426,
+      "mentions": [
+        {
+          "text": {
+            "content": "drain",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007887426,
+      "mentions": [
+        {
+          "text": {
+            "content": "rain",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mud",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007887426,
+      "mentions": [
+        {
+          "text": {
+            "content": "mud",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "person",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006563345,
+      "mentions": [
+        {
+          "text": {
+            "content": "person",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0061604236,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mommy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0061123823,
+      "mentions": [
+        {
+          "text": {
+            "content": "mommy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hugs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005380612,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hugs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "soap opera",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0053001824,
+      "mentions": [
+        {
+          "text": {
+            "content": "soap opera",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cuddle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0053001824,
+      "mentions": [
+        {
+          "text": {
+            "content": "cuddle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tv",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0053001824,
+      "mentions": [
+        {
+          "text": {
+            "content": "tv",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "blankets",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0053001824,
+      "mentions": [
+        {
+          "text": {
+            "content": "blankets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sizes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0053001824,
+      "mentions": [
+        {
+          "text": {
+            "content": "sizes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shapes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0053001824,
+      "mentions": [
+        {
+          "text": {
+            "content": "shapes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adventure",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004899302,
+      "mentions": [
+        {
+          "text": {
+            "content": "adventure",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004899302,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "daddy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004899302,
+      "mentions": [
+        {
+          "text": {
+            "content": "daddy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "The Godfather",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "mid": "/m/065xzzx",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/The_Godfather_(film_series)"
+      },
+      "salience": 0.0037238556,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Godfather",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "note",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036767279,
+      "mentions": [
+        {
+          "text": {
+            "content": "note",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kisses",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036767279,
+      "mentions": [
+        {
+          "text": {
+            "content": "kisses",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Frontlined",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0031679298,
+      "mentions": [
+        {
+          "text": {
+            "content": "Frontlined",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Turkish",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.003135159,
+      "mentions": [
+        {
+          "text": {
+            "content": "Turkish",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002574095,
+      "mentions": [
+        {
+          "text": {
+            "content": "age",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002574095,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "advice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002574095,
+      "mentions": [
+        {
+          "text": {
+            "content": "advice",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002574095,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Phillipa",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021739388,
+      "mentions": [
+        {
+          "text": {
+            "content": "Phillipa",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "foster Mommy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020174128,
+      "mentions": [
+        {
+          "text": {
+            "content": "foster Mommy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018422082,
+      "mentions": [
+        {
+          "text": {
+            "content": "box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.9,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,422 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Cross-breed between DLH (Father) and DSH (Mother).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Both litterbox-trained and already stopped mother's milk.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Choco's stripes are more obvious, Latto is more friendly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Diet: Royal Canin Indoor and SmartHeart Hairball Control Previously, Royal Canin Kitten and IAMS Chicken Litter: Cat's Best Organic Cat Litter Up for adoption to support parent's expenditure.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Instead of cash, willing to accept Royal Canin Kitten 4KG or Cat's Best Organic Cat Litter 13KG 30L.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21811785,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Father",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19341125,
+      "mentions": [
+        {
+          "text": {
+            "content": "Father",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "DSH",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.117612585,
+      "mentions": [
+        {
+          "text": {
+            "content": "DSH",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "DLH",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.117612585,
+      "mentions": [
+        {
+          "text": {
+            "content": "DLH",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04223695,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "milk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037162375,
+      "mentions": [
+        {
+          "text": {
+            "content": "milk",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031012218,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chicken Litter",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.02889556,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chicken Litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Diet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025260607,
+      "mentions": [
+        {
+          "text": {
+            "content": "Diet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stripes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024437906,
+      "mentions": [
+        {
+          "text": {
+            "content": "stripes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Latto",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017841168,
+      "mentions": [
+        {
+          "text": {
+            "content": "Latto",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cash",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017457953,
+      "mentions": [
+        {
+          "text": {
+            "content": "cash",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Royal Canin Kitten",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/g/11cjkk2qsv"
+      },
+      "salience": 0.015641738,
+      "mentions": [
+        {
+          "text": {
+            "content": "Royal Canin Kitten",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Royal Canin Kitten 4KG",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Royal Canin Indoor",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/g/11ggshgq6z"
+      },
+      "salience": 0.014977547,
+      "mentions": [
+        {
+          "text": {
+            "content": "Royal Canin Indoor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "SmartHeart Hairball Control",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014977547,
+      "mentions": [
+        {
+          "text": {
+            "content": "SmartHeart Hairball Control",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Choco",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014847405,
+      "mentions": [
+        {
+          "text": {
+            "content": "Choco",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "IAMS",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/02pkvr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Iams"
+      },
+      "salience": 0.013746342,
+      "mentions": [
+        {
+          "text": {
+            "content": "IAMS",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Cat",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009702766,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Best Organic Cat Litter 13KG 30L",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009035728,
+      "mentions": [
+        {
+          "text": {
+            "content": "Best Organic Cat Litter 13KG 30L",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007696566,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "expenditure",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007696566,
+      "mentions": [
+        {
+          "text": {
+            "content": "expenditure",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parent",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007696566,
+      "mentions": [
+        {
+          "text": {
+            "content": "parent",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Best Organic Cat Litter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005680635,
+      "mentions": [
+        {
+          "text": {
+            "content": "Best Organic Cat Litter",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.3,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

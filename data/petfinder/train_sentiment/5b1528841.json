@@ -1,0 +1,164 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Adopters must vaccinate,spay at 6 months old and keep her indoors /fenced.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Call/WhatsApp:/",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Address: One Petz 2-1-20 One Square, Tingkat mahsuri 1, Bayan Lepas, Penang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Adopters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.612378,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adopters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "WhatsApp",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0gwzvs1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/WhatsApp"
+      },
+      "salience": 0.19437887,
+      "mentions": [
+        {
+          "text": {
+            "content": "WhatsApp",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Call",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Address",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08870903,
+      "mentions": [
+        {
+          "text": {
+            "content": "Address",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tingkat",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03675304,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tingkat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bayan Lepas",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0d_dv9",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bayan_Lepas"
+      },
+      "salience": 0.025792878,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bayan Lepas",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Penang",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Penang",
+        "mid": "/m/0g6xq"
+      },
+      "salience": 0.025792878,
+      "mentions": [
+        {
+          "text": {
+            "content": "Penang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "One Petz 2-1-20 One Square",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.016195275,
+      "mentions": [
+        {
+          "text": {
+            "content": "One Petz 2-1-20 One Square",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

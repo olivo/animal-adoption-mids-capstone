@@ -1,0 +1,238 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "His fur is longer than your usual domestic short hair.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "He knows how to use litterbox.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "SMS/Whatsapp me at.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Delivery area: Metro Kajang, Metropoint Kajang, KTM Kajang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Pick up from home is even better ;D",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "fur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.50283533,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17330498,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litterbox",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05775089,
+      "mentions": [
+        {
+          "text": {
+            "content": "litterbox",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Delivery area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.05324297,
+      "mentions": [
+        {
+          "text": {
+            "content": "Delivery area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.04013332,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Metro Kajang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/11cs5sdpzr"
+      },
+      "salience": 0.03940994,
+      "mentions": [
+        {
+          "text": {
+            "content": "Metro Kajang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "SMS",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/06_j_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/SMS"
+      },
+      "salience": 0.03457212,
+      "mentions": [
+        {
+          "text": {
+            "content": "SMS",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Whatsapp",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/0gwzvs1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/WhatsApp"
+      },
+      "salience": 0.03457212,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whatsapp",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "KTM Kajang",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.029761063,
+      "mentions": [
+        {
+          "text": {
+            "content": "KTM Kajang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "D",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021322764,
+      "mentions": [
+        {
+          "text": {
+            "content": "D",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Metropoint Kajang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/11b6v494cb"
+      },
+      "salience": 0.013094479,
+      "mentions": [
+        {
+          "text": {
+            "content": "Metropoint Kajang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,99 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Got Salina from Anne.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She is now safe and happy in her new home in Johor.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Anne",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.8153198,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anne",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Salina",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0tbhb",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Salina,_Kansas"
+      },
+      "salience": 0.136202,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salina",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.034149673,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Johor",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01jng9",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Johor"
+      },
+      "salience": 0.014328568,
+      "mentions": [
+        {
+          "text": {
+            "content": "Johor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

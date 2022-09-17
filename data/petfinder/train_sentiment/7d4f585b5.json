@@ -1,0 +1,351 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "3 weeks ago, a stray dog near my workplace gave birth to 5 puppies.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Due to the recent thunderstorm (/16), 2 puppies was washed away.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I couldn't bare to see the others ended in the same fate, hence I rescued them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Since it was already late in the evening around 10pm, the only veterinarian that was opened is AMC, Jalan Tun Razak.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "After 2days of admission, they were discharged alive.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I already adopted 3 rescued dogs in my premise.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Sadly I'll not be able to care for more.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I hope kind souls will adopt them the soonest.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "others",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19316906,
+      "mentions": [
+        {
+          "text": {
+            "content": "others",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17116411,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "workplace",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.15152493,
+      "mentions": [
+        {
+          "text": {
+            "content": "workplace",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "birth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15152493,
+      "mentions": [
+        {
+          "text": {
+            "content": "birth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15152493,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032758232,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thunderstorm",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.028812787,
+      "mentions": [
+        {
+          "text": {
+            "content": "thunderstorm",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "veterinarian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021579674,
+      "mentions": [
+        {
+          "text": {
+            "content": "veterinarian",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019638607,
+      "mentions": [
+        {
+          "text": {
+            "content": "fate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "AMC",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/02qffj",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/AMC_Theatres"
+      },
+      "salience": 0.013598679,
+      "mentions": [
+        {
+          "text": {
+            "content": "AMC",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013487704,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "premise",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013487704,
+      "mentions": [
+        {
+          "text": {
+            "content": "premise",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "more",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009432952,
+      "mentions": [
+        {
+          "text": {
+            "content": "more",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "souls",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009417505,
+      "mentions": [
+        {
+          "text": {
+            "content": "souls",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "soonest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009417505,
+      "mentions": [
+        {
+          "text": {
+            "content": "soonest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "admission",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0059393723,
+      "mentions": [
+        {
+          "text": {
+            "content": "admission",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jalan Tun Razak",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003521337,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jalan Tun Razak",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

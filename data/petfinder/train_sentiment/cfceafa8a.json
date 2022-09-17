@@ -1,0 +1,316 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Pepsi and Cola were found behind my fren's house in Kota Damansara just before Merdeka.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "They were crying the whole night and believed to have been abandoned.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "No mother cat in sight.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Pepsi should be renamed Dora as she is adventurous and feisty, always looking for an adventure.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Cola has a short tail and is more quiet and gentle.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Both are healthy, active and playful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Neutering and vaccination compulsory.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.22063789,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fren",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22063789,
+      "mentions": [
+        {
+          "text": {
+            "content": "fren",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pepsi",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/064d7",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Pepsi"
+      },
+      "salience": 0.115339465,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pepsi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Pepsi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Cola",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/023ls",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cola"
+      },
+      "salience": 0.10874799,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cola",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Cola",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Dora",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10418994,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dora",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kota Damansara",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0cw79v",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kota_Damansara"
+      },
+      "salience": 0.052855365,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kota Damansara",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Merdeka",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.052855365,
+      "mentions": [
+        {
+          "text": {
+            "content": "Merdeka",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mother cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029409409,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029409409,
+      "mentions": [
+        {
+          "text": {
+            "content": "sight",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Both",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019736756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Both",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Neutering",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01415729,
+      "mentions": [
+        {
+          "text": {
+            "content": "Neutering",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01415729,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adventure",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00894521,
+      "mentions": [
+        {
+          "text": {
+            "content": "adventure",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008920743,
+      "mentions": [
+        {
+          "text": {
+            "content": "tail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.3,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

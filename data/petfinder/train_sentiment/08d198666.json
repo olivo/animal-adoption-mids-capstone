@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "5 females puppies abandoned at ara damansara available for adoption urgently.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "females puppies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5911043,
+      "mentions": [
+        {
+          "text": {
+            "content": "females puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ara damansara",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0g1wqy",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ara_Damansara"
+      },
+      "salience": 0.26666063,
+      "mentions": [
+        {
+          "text": {
+            "content": "ara damansara",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14223504,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": -0.5
+  },
+  "language": "en",
+  "categories": []
+}

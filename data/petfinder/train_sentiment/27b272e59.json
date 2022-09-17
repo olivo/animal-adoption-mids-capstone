@@ -1,0 +1,111 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Very active and enjoyable..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "now can eat kibbles power cat please adopt and i only can foster until next month because i will transfer to Sabah Her mumy is stray cat in my area",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kibbles power cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3359009,
+      "mentions": [
+        {
+          "text": {
+            "content": "kibbles power cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mumy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.25009653,
+      "mentions": [
+        {
+          "text": {
+            "content": "mumy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2125688,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.14673452,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sabah",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/07348",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sabah"
+      },
+      "salience": 0.05469925,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sabah",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

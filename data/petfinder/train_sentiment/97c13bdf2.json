@@ -1,0 +1,133 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Meow 1 is very clingy and love to be pampered.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "An attention seeker and very energetic cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "For viewing appointment and more information, please contact Boon Sin Kee )",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Meow 1",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.6335949,
+      "mentions": [
+        {
+          "text": {
+            "content": "Meow 1",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "attention seeker",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12945622,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention seeker",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.119122475,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "viewing appointment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04002354,
+      "mentions": [
+        {
+          "text": {
+            "content": "viewing appointment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "information",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04002354,
+      "mentions": [
+        {
+          "text": {
+            "content": "information",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Boon Sin Kee",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.03777935,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boon Sin Kee",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

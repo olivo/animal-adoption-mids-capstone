@@ -1,0 +1,133 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "3 month old Layla was rescued off the streets when she faced the danger of being knocked down by vehicles!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Izzy is so cute that you wont want to miss this golden opportunity to call her your own.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "If you wish to adopt, please call",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Layla",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6877627,
+      "mentions": [
+        {
+          "text": {
+            "content": "Layla",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Izzy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11514059,
+      "mentions": [
+        {
+          "text": {
+            "content": "Izzy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "streets",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.079208,
+      "mentions": [
+        {
+          "text": {
+            "content": "streets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vehicles",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.05511966,
+      "mentions": [
+        {
+          "text": {
+            "content": "vehicles",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "danger",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05447279,
+      "mentions": [
+        {
+          "text": {
+            "content": "danger",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "opportunity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008296304,
+      "mentions": [
+        {
+          "text": {
+            "content": "opportunity",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

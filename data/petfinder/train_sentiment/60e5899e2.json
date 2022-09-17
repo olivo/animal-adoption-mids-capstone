@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Jesse is a very active girl great at sniffing foreign objects.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "She enjoys a belly rub.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.47763282,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jesse",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.35120624,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jesse",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "objects",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13560471,
+      "mentions": [
+        {
+          "text": {
+            "content": "objects",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "belly rub",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03555624,
+      "mentions": [
+        {
+          "text": {
+            "content": "belly rub",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,415 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "2 mixed breed very cute female puppies found next to my old house.They are now still together with dog mother and 3 of them are partly taking care by my neighbour.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "We are looking for those really love dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "时间：21 October 地点/LOCATION：阿里玛，大山脚(ALMA, BM, PENANG) 狗种/breed：母：菜狗， 父：名狗不过不懂种类（mixed :normal+branded dog but not sure what breed） Gender:both female 颜色/Color：全黑，惨色灰 (black, mixed grey、brown) Status: not yet go for vet Thank You all.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "mother and 3",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.18419227,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother and 3",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mixed :normal+branded dog but not sure what breed",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.09020944,
+      "mentions": [
+        {
+          "text": {
+            "content": "mixed :normal+branded dog but not sure what breed",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Gender",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/09hcb",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Gender"
+      },
+      "salience": 0.05060948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gender",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "PENANG",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Penang",
+        "mid": "/m/0g6xq"
+      },
+      "salience": 0.045804426,
+      "mentions": [
+        {
+          "text": {
+            "content": "PENANG",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "种类",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042622015,
+      "mentions": [
+        {
+          "text": {
+            "content": "种类",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "/LOCATION",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041453797,
+      "mentions": [
+        {
+          "text": {
+            "content": "/LOCATION",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "阿里玛",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/155ptghs",
+        "wikipedia_url": "https://zh.wikipedia.org/wiki/阿里瑪"
+      },
+      "salience": 0.041453797,
+      "mentions": [
+        {
+          "text": {
+            "content": "阿里玛",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ALMA",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041453797,
+      "mentions": [
+        {
+          "text": {
+            "content": "ALMA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "狗种/breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03857256,
+      "mentions": [
+        {
+          "text": {
+            "content": "狗种/breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "母",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03857256,
+      "mentions": [
+        {
+          "text": {
+            "content": "母",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "菜狗",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03857256,
+      "mentions": [
+        {
+          "text": {
+            "content": "菜狗",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "父",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03857256,
+      "mentions": [
+        {
+          "text": {
+            "content": "父",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "名狗",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03857256,
+      "mentions": [
+        {
+          "text": {
+            "content": "名狗",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "地点",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.034906574,
+      "mentions": [
+        {
+          "text": {
+            "content": "地点",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "山脚",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.034906574,
+      "mentions": [
+        {
+          "text": {
+            "content": "山脚",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mixed grey",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.024229366,
+      "mentions": [
+        {
+          "text": {
+            "content": "mixed grey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "brown",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/09q2t",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Brown"
+      },
+      "salience": 0.024229366,
+      "mentions": [
+        {
+          "text": {
+            "content": "brown",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Status:",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024229366,
+      "mentions": [
+        {
+          "text": {
+            "content": "Status:",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "both female",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023631223,
+      "mentions": [
+        {
+          "text": {
+            "content": "both female",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "惨色灰",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023631223,
+      "mentions": [
+        {
+          "text": {
+            "content": "惨色灰",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "颜色",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019893622,
+      "mentions": [
+        {
+          "text": {
+            "content": "颜色",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Color",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019893622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Color",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "全黑",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019893622,
+      "mentions": [
+        {
+          "text": {
+            "content": "全黑",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "black",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019893622,
+      "mentions": [
+        {
+          "text": {
+            "content": "black",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": 0.6
+  },
+  "language": "zh",
+  "categories": []
+}

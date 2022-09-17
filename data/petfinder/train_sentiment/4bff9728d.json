@@ -1,0 +1,133 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Lovely, sweet, pamper, big eyes and very adorable.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Schnauzer mix with poodle Nice fur colour silver Force to let go, coz neighbour complaint.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Highly intelligent",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.4438459,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Schnauzer mix",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15618613,
+      "mentions": [
+        {
+          "text": {
+            "content": "Schnauzer mix",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "poodle",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15618613,
+      "mentions": [
+        {
+          "text": {
+            "content": "poodle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbour complaint",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.109170064,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbour complaint",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Nice",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.08608523,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nice",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "fur colour silver Force",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.048526555,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur colour silver Force",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

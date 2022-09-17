@@ -1,0 +1,138 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Dogs found around Metro View, Wangsa Maju.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Suspected being abandoned by the former owner.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Both of them are very friendly and full of curiosity.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5977556,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Metro View",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/g/1td22yml"
+      },
+      "salience": 0.12159167,
+      "mentions": [
+        {
+          "text": {
+            "content": "Metro View",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Wangsa Maju",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0d0_c7",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Wangsa_Maju"
+      },
+      "salience": 0.12159167,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wangsa Maju",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.063537635,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Both",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.061735313,
+      "mentions": [
+        {
+          "text": {
+            "content": "Both",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "curiosity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0337881,
+      "mentions": [
+        {
+          "text": {
+            "content": "curiosity",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

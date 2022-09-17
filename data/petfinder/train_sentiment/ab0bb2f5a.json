@@ -1,0 +1,245 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hi!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "My name is Grace, and I am extremely protective of the Jalan which I'm staying at.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "As a result, I accidentally chased after a Very Important Neighbor, who called the Bandaraya to take me away.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I've escaped the dog catcher once, but I don't think I can get lucky all the time.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "My rescuer Mama Gan feeds me twice a day with nutritious food and had me neutered and vaccinated, all I need is a home where I can sleep without fear.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Help me please!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22356091,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jalan",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.21432117,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jalan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Grace",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14225574,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grace",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Neighbor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12236842,
+      "mentions": [
+        {
+          "text": {
+            "content": "Neighbor",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.076688215,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "result",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.071562,
+      "mentions": [
+        {
+          "text": {
+            "content": "result",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog catcher",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04884563,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog catcher",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mama Gan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03324117,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescuer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Mama Gan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bandaraya",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028690169,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bandaraya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "fear",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02364197,
+      "mentions": [
+        {
+          "text": {
+            "content": "fear",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014824603,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.5,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

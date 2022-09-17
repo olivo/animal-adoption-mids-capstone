@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "DAISY IS SMART AND LOYAL HER OWNER IS TERMINALLY ILL AND UNABLE TO CARE FOR HER",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "DAISY",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.8592988,
+      "mentions": [
+        {
+          "text": {
+            "content": "DAISY",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "OWNER",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1407012,
+      "mentions": [
+        {
+          "text": {
+            "content": "OWNER",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": -0.8
+  },
+  "language": "en",
+  "categories": []
+}

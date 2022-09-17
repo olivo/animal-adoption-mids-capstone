@@ -1,0 +1,126 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Tootsie and Twinkie are 2 healthy sisters.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "They are really good watchdogs in housing/industrial areas.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "sisters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4211118,
+      "mentions": [
+        {
+          "text": {
+            "content": "sisters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Twinkie",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0svwd",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Twinkie"
+      },
+      "salience": 0.2563438,
+      "mentions": [
+        {
+          "text": {
+            "content": "Twinkie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Tootsie",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.25093395,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tootsie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "areas",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.029544735,
+      "mentions": [
+        {
+          "text": {
+            "content": "areas",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "watchdogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023456074,
+      "mentions": [
+        {
+          "text": {
+            "content": "watchdogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "housing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018609628,
+      "mentions": [
+        {
+          "text": {
+            "content": "housing",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

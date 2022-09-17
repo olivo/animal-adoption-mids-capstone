@@ -1,0 +1,106 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Kelabu was found at Perlis with Comel.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "He's quite large due to its breed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "If you're interested with him please contact me as soon as possible..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kelabu",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7594993,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kelabu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Perlis",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01ttqk",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Perlis"
+      },
+      "salience": 0.0937596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Perlis",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Comel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0937596,
+      "mentions": [
+        {
+          "text": {
+            "content": "Comel",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05298152,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,85 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Rejected by a his own breeder who wanted him euthanised because he seems to have slight neurological problems, ie. he falls easily.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Vet fostering him now, and after having put him on Neurobion (half tablet a day), he seems to be ok.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "breeder",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.8608227,
+      "mentions": [
+        {
+          "text": {
+            "content": "breeder",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Neurobion",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.07127399,
+      "mentions": [
+        {
+          "text": {
+            "content": "Neurobion",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "tablet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "problems",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.067903355,
+      "mentions": [
+        {
+          "text": {
+            "content": "problems",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": -0.3
+  },
+  "language": "en",
+  "categories": []
+}

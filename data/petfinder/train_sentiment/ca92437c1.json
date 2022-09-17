@@ -1,0 +1,158 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Round, cute, playful and friendly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Come view Miff at our adoption booth at Hartamas Shopping Centre @ Plaza Damas every Saturday 1.30pm-6pm!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "2nd Floor Outdoor opposite BT computers www.rescue2rehome.blogspot.com",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Round",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.5873615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Round",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "view Miff",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.123819,
+      "mentions": [
+        {
+          "text": {
+            "content": "view Miff",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "www.rescue2rehome.blogspot.com",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/01scs3",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Blogger_(service)"
+      },
+      "salience": 0.09230013,
+      "mentions": [
+        {
+          "text": {
+            "content": "computers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "www.rescue2rehome.blogspot.com",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "adoption booth",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08550051,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption booth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hartamas Shopping Centre @ Plaza Damas",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.05102804,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hartamas Shopping Centre @ Plaza Damas",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "2nd Floor Outdoor",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.035251625,
+      "mentions": [
+        {
+          "text": {
+            "content": "2nd Floor Outdoor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "BT",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.024739202,
+      "mentions": [
+        {
+          "text": {
+            "content": "BT",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,86 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Kennedy was found walking alone along the Old Klang Road River.He seems to have strayed off from home.He likes to have company and is very friendly and lovable",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kennedy",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0d3k14",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/John_F._Kennedy"
+      },
+      "salience": 0.7557403,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kennedy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.101378895,
+      "mentions": [
+        {
+          "text": {
+            "content": "home.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "company",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0767669,
+      "mentions": [
+        {
+          "text": {
+            "content": "company",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Old Klang Road River.",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.06611392,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old Klang Road River.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

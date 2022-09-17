@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Female kitten rescued near Menara Binjai Jalan Ampang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Very lovely and friendly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6952354,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jalan Ampang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0gyv4w",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jalan_Ampang"
+      },
+      "salience": 0.15324593,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jalan Ampang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Menara Binjai",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1td7f71v"
+      },
+      "salience": 0.15151873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Menara Binjai",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

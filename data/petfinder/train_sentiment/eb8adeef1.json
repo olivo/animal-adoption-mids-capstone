@@ -1,0 +1,121 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "The second largest puppy among his 3 siblings, the most introverted puppy among them, but very intelligent.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "DOB: 23th Dec , 7.23PM ONLY AVAILABLE IN KOTA KINABALU, SABAH.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.6492264,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.29916018,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "DOB",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.025033915,
+      "mentions": [
+        {
+          "text": {
+            "content": "DOB",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "KOTA KINABALU",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01_g7f",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kota_Kinabalu"
+      },
+      "salience": 0.01328975,
+      "mentions": [
+        {
+          "text": {
+            "content": "KOTA KINABALU",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "SABAH",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sabah",
+        "mid": "/m/07348"
+      },
+      "salience": 0.01328975,
+      "mentions": [
+        {
+          "text": {
+            "content": "SABAH",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

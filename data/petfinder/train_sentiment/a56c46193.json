@@ -1,0 +1,182 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "An obedient dog always hanging around an Indian Temple at Batu Ferringhi.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He is always being bullied by the senior dogs especially during meal time.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Hoping someone is willing to give him a loving home so that he won't be bullied again.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Interested and genuine adopter may contact me at (Ellen).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.34502816,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.338962,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Indian Temple",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/06y_bg",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Hindu_temple"
+      },
+      "salience": 0.085987605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Indian Temple",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Batu Ferringhi",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/060rwq",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Batu_Ferringhi"
+      },
+      "salience": 0.085987605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Batu Ferringhi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "adopter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.048531838,
+      "mentions": [
+        {
+          "text": {
+            "content": "adopter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047771238,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.033852953,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ellen",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01gbbz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ellen_DeGeneres"
+      },
+      "salience": 0.013878625,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ellen",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

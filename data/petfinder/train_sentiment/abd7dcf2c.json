@@ -1,0 +1,211 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "The only survival among 6 kittens.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Litter of 6 in a box abandoned outside a customer's doorsteps, For more information, pls contact, office hour Mon-Thur 9am-6.30pm, Sat-Sun 10am-4.30pm.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Thx",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "survival",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.33068824,
+      "mentions": [
+        {
+          "text": {
+            "content": "survival",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.33068824,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Litter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.067969576,
+      "mentions": [
+        {
+          "text": {
+            "content": "Litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doorsteps",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04683819,
+      "mentions": [
+        {
+          "text": {
+            "content": "doorsteps",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "information",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04683819,
+      "mentions": [
+        {
+          "text": {
+            "content": "information",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0462764,
+      "mentions": [
+        {
+          "text": {
+            "content": "box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "customer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0462764,
+      "mentions": [
+        {
+          "text": {
+            "content": "customer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pls contact",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.043041702,
+      "mentions": [
+        {
+          "text": {
+            "content": "pls contact",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sat-Sun",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.01935483,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sat-Sun",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Thx",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/016yvd",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/THX"
+      },
+      "salience": 0.01350829,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thx",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mon-Thur",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008519923,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mon-Thur",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,76 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Cute and very active Kitten.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Rescued in Bukit Jalil.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Interested to adopt please call",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.74890864,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kitten",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bukit Jalil",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0d_d26",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bukit_Jalil"
+      },
+      "salience": 0.25109136,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bukit Jalil",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "levi's is a manja cat,so clever,likes to sleep and play ball.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "levi's",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/02j46m",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Levi_Strauss_&_Co."
+      },
+      "salience": 0.6021575,
+      "mentions": [
+        {
+          "text": {
+            "content": "levi's",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "manja cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.32751787,
+      "mentions": [
+        {
+          "text": {
+            "content": "manja cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ball",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07032468,
+      "mentions": [
+        {
+          "text": {
+            "content": "ball",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

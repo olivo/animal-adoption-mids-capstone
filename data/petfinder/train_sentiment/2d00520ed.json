@@ -1,0 +1,229 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "These three siblings are playful and active as can be!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Lil Pound Cake (Female) is the shy one, Major Tom (Male) the vocal one and Jujubee (Male) is the sweet and docile one.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Can be adopted as a group or individually.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "All have been dewormed and vaccinated.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Hoping to find a forever home for these cuties.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5332115,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09581793,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lil Pound Cake",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.08023014,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lil Pound Cake",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Male",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/05zppz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Male"
+      },
+      "salience": 0.07778648,
+      "mentions": [
+        {
+          "text": {
+            "content": "Male",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Male",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Jujubee",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0c01lc9",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jujubee_(drag_queen)"
+      },
+      "salience": 0.045949608,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jujubee",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Major Tom",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/051qqn",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Major_Tom"
+      },
+      "salience": 0.04539386,
+      "mentions": [
+        {
+          "text": {
+            "content": "Major Tom",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.037272718,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cuties",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037272718,
+      "mentions": [
+        {
+          "text": {
+            "content": "cuties",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "group",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.023573937,
+      "mentions": [
+        {
+          "text": {
+            "content": "group",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "All",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023491068,
+      "mentions": [
+        {
+          "text": {
+            "content": "All",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.3,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

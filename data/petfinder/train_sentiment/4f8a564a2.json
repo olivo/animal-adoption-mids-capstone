@@ -1,0 +1,110 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Teddy is a cheeky and active monster.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She is currently taking shelter at SPCA Seberang Perai and waiting for some good Samaritan to adopt her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Teddy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.46701878,
+      "mentions": [
+        {
+          "text": {
+            "content": "Teddy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "monster",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.33474046,
+      "mentions": [
+        {
+          "text": {
+            "content": "monster",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shelter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10788933,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SPCA Seberang Perai",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/g/1pzvjjyth"
+      },
+      "salience": 0.051436964,
+      "mentions": [
+        {
+          "text": {
+            "content": "SPCA Seberang Perai",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Samaritan",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.038914442,
+      "mentions": [
+        {
+          "text": {
+            "content": "Samaritan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

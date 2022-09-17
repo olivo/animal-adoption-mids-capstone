@@ -1,0 +1,123 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Blue Eyes, golden Fur and white belly!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "cute n fluffy little kittie will bring you and your family love and happiness!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Blue Eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.42143992,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blue Eyes",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "belly",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.19521965,
+      "mentions": [
+        {
+          "text": {
+            "content": "belly",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Fur",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.17223145,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fur",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kittie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.09524657,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06800458,
+      "mentions": [
+        {
+          "text": {
+            "content": "family love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "happiness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047857843,
+      "mentions": [
+        {
+          "text": {
+            "content": "happiness",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

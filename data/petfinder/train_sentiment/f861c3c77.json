@@ -1,0 +1,136 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Cat details:- Name :- Opie Age :- 1 1/2 year Gender :- Male Neuter :- Yes Very active and friendly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Adorable indoor cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Location :- Pandan Indah",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Cat details",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.50235426,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cat details",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Name :- Opie Age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.32839856,
+      "mentions": [
+        {
+          "text": {
+            "content": "Name :- Opie Age",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.062074374,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.054443214,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gender :- Male Neuter :- Yes Very",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029887922,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gender :- Male Neuter :- Yes Very",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Pandan Indah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Pandan_Indah",
+        "mid": "/m/03cmt55"
+      },
+      "salience": 0.022841668,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pandan Indah",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.1,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

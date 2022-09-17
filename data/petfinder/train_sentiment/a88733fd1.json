@@ -1,0 +1,86 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Found a group of 4 abandoned fur babies crying for food in Hulu Langat",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "group",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.46093962,
+      "mentions": [
+        {
+          "text": {
+            "content": "group",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur babies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.32976845,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur babies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10759794,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hulu Langat",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/043kvy",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Hulu_Langat_District"
+      },
+      "salience": 0.10169399,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hulu Langat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": -0.6
+  },
+  "language": "en",
+  "categories": []
+}

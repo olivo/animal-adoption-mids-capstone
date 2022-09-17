@@ -1,0 +1,442 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Euka was spotted alone and living under a seemingly abandoned van.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "He was brought to the vet for checkup and had been dewormed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Amigard Spot-On had also been applied for tick and flea prevention.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Euka had been fed Heartgard for heartworm prevention.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He is scheduled to be vaccinated later this week.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He is loving and friendly, and gets along well with cats and other dogs.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The adoption fee of RM50 is for castration.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "The fee will be refunded once Euka is neutered.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Only for serious adopter.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "[UPDATE / 1 JULY ] Euka received another vet check and his first vaccination.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Euka",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7983957,
+      "mentions": [
+        {
+          "text": {
+            "content": "Euka",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Euka",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Euka",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "van",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0685973,
+      "mentions": [
+        {
+          "text": {
+            "content": "van",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014883449,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "checkup",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014883449,
+      "mentions": [
+        {
+          "text": {
+            "content": "checkup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heartworm prevention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010117002,
+      "mentions": [
+        {
+          "text": {
+            "content": "heartworm prevention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "prevention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010029422,
+      "mentions": [
+        {
+          "text": {
+            "content": "prevention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tick",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008817791,
+      "mentions": [
+        {
+          "text": {
+            "content": "tick",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flea",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008817791,
+      "mentions": [
+        {
+          "text": {
+            "content": "flea",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Spot-On",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.008220656,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spot-On",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008125091,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Amigard",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.007733058,
+      "mentions": [
+        {
+          "text": {
+            "content": "Amigard",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "UPDATE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0060933656,
+      "mentions": [
+        {
+          "text": {
+            "content": "UPDATE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Heartgard",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.005998678,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heartgard",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "vet check",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0053604417,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet check",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Euka",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004845788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Euka",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004270091,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036807142,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030564612,
+      "mentions": [
+        {
+          "text": {
+            "content": "fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026946587,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "RM50",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026895592,
+      "mentions": [
+        {
+          "text": {
+            "content": "RM50",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "castration",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026895592,
+      "mentions": [
+        {
+          "text": {
+            "content": "castration",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,144 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "-1 Male Shih Tzu available-RM -healthy -Without MKA Cert Located in Batu Pahat, Johor Delivery to JB between KL can be arranged.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact me for more details.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Male Shih Tzu",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.42561197,
+      "mentions": [
+        {
+          "text": {
+            "content": "Male Shih Tzu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "MKA Cert Located",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.120621316,
+      "mentions": [
+        {
+          "text": {
+            "content": "MKA Cert Located",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Batu Pahat",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/03xlzf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Batu_Pahat_District"
+      },
+      "salience": 0.120621316,
+      "mentions": [
+        {
+          "text": {
+            "content": "Batu Pahat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Johor Delivery",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01jng9",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Johor"
+      },
+      "salience": 0.11097085,
+      "mentions": [
+        {
+          "text": {
+            "content": "Johor Delivery",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "JB",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11097085,
+      "mentions": [
+        {
+          "text": {
+            "content": "JB",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "KL",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.062872075,
+      "mentions": [
+        {
+          "text": {
+            "content": "KL",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "details",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.048331615,
+      "mentions": [
+        {
+          "text": {
+            "content": "details",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

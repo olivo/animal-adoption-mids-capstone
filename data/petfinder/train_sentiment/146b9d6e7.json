@@ -1,0 +1,196 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "My Name:Daisy Lim Contact Number: Please don't send me E-Mail, because I don't know how to use a computer.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Sorry for any inconvenience.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Story：这是以前我在工厂工作时， 喂养过的狗，我帮他取名叫‘大只’（福建话的大只），现在我已经没有在那里工作了，可是心里还是会经常想起大只，担心大只没有人照顾好他，怕没有人给他东西吃……所以很希望可以有人领养他回家。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "My Name:Daisy Lim Contact Number: Please don't send me E-Mail",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.43063208,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Name:Daisy Lim Contact Number: Please don't send me E-Mail",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.107911766,
+      "mentions": [
+        {
+          "text": {
+            "content": "人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "福建话",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/04j9zqq",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Hokkien"
+      },
+      "salience": 0.08039355,
+      "mentions": [
+        {
+          "text": {
+            "content": "福建话",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "心里",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07481728,
+      "mentions": [
+        {
+          "text": {
+            "content": "心里",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06397887,
+      "mentions": [
+        {
+          "text": {
+            "content": "人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06240341,
+      "mentions": [
+        {
+          "text": {
+            "content": "人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "狗",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.061292384,
+      "mentions": [
+        {
+          "text": {
+            "content": "狗",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Story",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05328343,
+      "mentions": [
+        {
+          "text": {
+            "content": "Story",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "工厂工作",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04486885,
+      "mentions": [
+        {
+          "text": {
+            "content": "工厂工作",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "东西",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020418374,
+      "mentions": [
+        {
+          "text": {
+            "content": "东西",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.1
+  },
+  "language": "zh",
+  "categories": []
+}

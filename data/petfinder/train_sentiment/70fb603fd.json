@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "new strayer~~ She is now @ new home with A-tan :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "strayer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7969674,
+      "mentions": [
+        {
+          "text": {
+            "content": "strayer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "A-tan",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/02n6m5",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sun_tanning"
+      },
+      "salience": 0.115994,
+      "mentions": [
+        {
+          "text": {
+            "content": "A-tan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0870386,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

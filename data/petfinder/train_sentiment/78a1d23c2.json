@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "kakak had 2 orange kittens and adeq had 3 spot kittens",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kakak",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.4457538,
+      "mentions": [
+        {
+          "text": {
+            "content": "kakak",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.228977,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adeq",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20621139,
+      "mentions": [
+        {
+          "text": {
+            "content": "adeq",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spot kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.119057804,
+      "mentions": [
+        {
+          "text": {
+            "content": "spot kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

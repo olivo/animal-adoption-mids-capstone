@@ -1,0 +1,180 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hi, Meet Junior &amp; Jane.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Junior is a male 5 month kitten and Jane is her sister female also 5 month kitten.White in colour with s small black marking for junior.Active and playful,always looking for fun.Available for adoption.please contact me : Hafiz Area Semenyih, Kajang and Bangi",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Junior",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.46229964,
+      "mentions": [
+        {
+          "text": {
+            "content": "Junior",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Meet Junior & Jane",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.44313964,
+      "mentions": [
+        {
+          "text": {
+            "content": "Meet Junior &amp; Jane",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jane",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "sister female",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "colour",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024981715,
+      "mentions": [
+        {
+          "text": {
+            "content": "colour",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "marking",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022950793,
+      "mentions": [
+        {
+          "text": {
+            "content": "marking",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "black",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022950793,
+      "mentions": [
+        {
+          "text": {
+            "content": "black",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hafiz Area Semenyih",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009229267,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hafiz Area Semenyih",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kajang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/049x3",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kajang"
+      },
+      "salience": 0.0072240736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kajang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bangi",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/08mcfv",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bangi,_Malaysia"
+      },
+      "salience": 0.0072240736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bangi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

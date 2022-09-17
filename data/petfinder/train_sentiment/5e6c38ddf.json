@@ -1,0 +1,81 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Today, Coffee went to live in her new home :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you dear Sonia :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Coffee",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/02vqfm",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Coffee"
+      },
+      "salience": 0.6971136,
+      "mentions": [
+        {
+          "text": {
+            "content": "Coffee",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.24674085,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sonia",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.056145616,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sonia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

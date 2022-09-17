@@ -1,0 +1,471 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "The cat, temporarily named as &quot;Cool Cat&quot;, was found on 30 November in Taman Tun Dr Ismail (TTDI) in a neighbourhood road where no one has seen him before.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "A microchip check found none in him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "His medical chronology and total medical bill (up to 7 January ): RM1, 30 November : sporo test, mange test - RM 10 December : Deworming, full blood test, FIV/FeLV test, ringworm check, probiotics - RM 12 December : Antibiotics, medicated shampoo - RM 14 December : Urinalysis - RM 16 December : i/d food - RM 2 January : blood test - RM 7 January : surgery to remove enlarged lymph node - RM 23 January : skin problem - RM The owner can contact me and reimburse the medical bill.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17206544,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbourhood road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.1472149,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbourhood road",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "RM",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10983639,
+      "mentions": [
+        {
+          "text": {
+            "content": "RM",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "RM",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cool Cat",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.10400814,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cool Cat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "no one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05930892,
+      "mentions": [
+        {
+          "text": {
+            "content": "no one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Taman Tun Dr Ismail",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0cm72d",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Taman_Tun_Dr_Ismail"
+      },
+      "salience": 0.039828625,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taman Tun Dr Ismail",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "TTDI",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "microchip check",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031484254,
+      "mentions": [
+        {
+          "text": {
+            "content": "microchip check",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sporo test",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02773801,
+      "mentions": [
+        {
+          "text": {
+            "content": "sporo test",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mange test",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02773801,
+      "mentions": [
+        {
+          "text": {
+            "content": "mange test",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "blood test",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.025465336,
+      "mentions": [
+        {
+          "text": {
+            "content": "blood test",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "test",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025465336,
+      "mentions": [
+        {
+          "text": {
+            "content": "test",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bill",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.021985123,
+      "mentions": [
+        {
+          "text": {
+            "content": "bill",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ringworm check",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020429172,
+      "mentions": [
+        {
+          "text": {
+            "content": "ringworm check",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "probiotics",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020429172,
+      "mentions": [
+        {
+          "text": {
+            "content": "probiotics",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "none",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019420646,
+      "mentions": [
+        {
+          "text": {
+            "content": "none",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chronology",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019324495,
+      "mentions": [
+        {
+          "text": {
+            "content": "chronology",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "blood test",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019221611,
+      "mentions": [
+        {
+          "text": {
+            "content": "blood test",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Antibiotics",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.017955745,
+      "mentions": [
+        {
+          "text": {
+            "content": "Antibiotics",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lymph node",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013545131,
+      "mentions": [
+        {
+          "text": {
+            "content": "lymph node",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "surgery",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013545131,
+      "mentions": [
+        {
+          "text": {
+            "content": "surgery",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bill",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.010800063,
+      "mentions": [
+        {
+          "text": {
+            "content": "bill",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "skin problem",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010800063,
+      "mentions": [
+        {
+          "text": {
+            "content": "skin problem",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "FIV",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/031jd6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Feline_immunodeficiency_virus"
+      },
+      "salience": 0.010631837,
+      "mentions": [
+        {
+          "text": {
+            "content": "FIV",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "FeLV",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/03mt7g",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Feline_leukemia_virus"
+      },
+      "salience": 0.010631837,
+      "mentions": [
+        {
+          "text": {
+            "content": "FeLV",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009488863,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0059487354,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Urinalysis - RM",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.005689022,
+      "mentions": [
+        {
+          "text": {
+            "content": "Urinalysis - RM",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

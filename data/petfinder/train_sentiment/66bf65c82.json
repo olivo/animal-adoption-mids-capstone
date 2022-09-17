@@ -1,0 +1,81 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Very cute puppy, clean and smart, friendly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Mixed Dalmation with PitBull. 4 months.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.8812089,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "PitBull.",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0h5xg",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Pit_bull"
+      },
+      "salience": 0.06799428,
+      "mentions": [
+        {
+          "text": {
+            "content": "PitBull.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Dalmation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05079685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dalmation",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,124 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Dalmation mix, Female, spayed, 1yr + looking for a good home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She's playful, understands command sit &amp; stay.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Interested pls call .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Female",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/02zsn",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Female"
+      },
+      "salience": 0.42864603,
+      "mentions": [
+        {
+          "text": {
+            "content": "Female",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mix",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.28359228,
+      "mentions": [
+        {
+          "text": {
+            "content": "mix",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Dalmation",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/02rjc05",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Dalmatian_dog"
+      },
+      "salience": 0.18538968,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dalmation",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08864366,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "command",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013728327,
+      "mentions": [
+        {
+          "text": {
+            "content": "command",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.4,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

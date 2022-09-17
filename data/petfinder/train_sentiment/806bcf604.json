@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "TWO KITTENS OPEN FOR ADOPTION.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "CONTACT ME AT meowpinkly(at).com",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "KITTENS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.82056606,
+      "mentions": [
+        {
+          "text": {
+            "content": "KITTENS",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ADOPTION",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15575975,
+      "mentions": [
+        {
+          "text": {
+            "content": "ADOPTION",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": ").com",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023674218,
+      "mentions": [
+        {
+          "text": {
+            "content": ").com",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

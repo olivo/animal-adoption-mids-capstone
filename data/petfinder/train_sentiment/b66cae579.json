@@ -1,0 +1,196 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "lilo is about 3 months. he is healthy, active and playful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "if u want to adopt him, u will get these items for free!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "1) cat's feeder (drinker) 2) 1 bag of frieskies 3) pet carrier 4) half bag of sand please contact me at(nur)-kuantan",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "lilo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7507099,
+      "mentions": [
+        {
+          "text": {
+            "content": "lilo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "feeder",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047876123,
+      "mentions": [
+        {
+          "text": {
+            "content": "feeder",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "items",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04584216,
+      "mentions": [
+        {
+          "text": {
+            "content": "items",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035805646,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drinker",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03288818,
+      "mentions": [
+        {
+          "text": {
+            "content": "drinker",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bag",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.02826456,
+      "mentions": [
+        {
+          "text": {
+            "content": "bag",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024858175,
+      "mentions": [
+        {
+          "text": {
+            "content": "sand",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bag",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.012465211,
+      "mentions": [
+        {
+          "text": {
+            "content": "bag",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet carrier",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010954129,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet carrier",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kuantan",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/03721b",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuantan"
+      },
+      "salience": 0.010335939,
+      "mentions": [
+        {
+          "text": {
+            "content": "kuantan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

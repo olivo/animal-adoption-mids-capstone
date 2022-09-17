@@ -1,0 +1,277 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "ADOPTION FEE IS FOR DESEXING AND FINAL VACCINATION.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Lola is the only survivor of a litter of six pups rescued from a temple.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Her siblings died from coronavirus, which attacks the intestines.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Frail but kept under intense supervision, Lola was spared the same fate and is now a healthy, bouncy ball of energy!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Lola",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.34499112,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lola",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "survivor",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Lola",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ADOPTION FEE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21701846,
+      "mentions": [
+        {
+          "text": {
+            "content": "ADOPTION FEE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "VACCINATION",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18378979,
+      "mentions": [
+        {
+          "text": {
+            "content": "VACCINATION",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coronavirus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05883314,
+      "mentions": [
+        {
+          "text": {
+            "content": "coronavirus",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "intestines",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032142397,
+      "mentions": [
+        {
+          "text": {
+            "content": "intestines",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "temple",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024728455,
+      "mentions": [
+        {
+          "text": {
+            "content": "temple",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02460678,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.024429433,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pups",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024429433,
+      "mentions": [
+        {
+          "text": {
+            "content": "pups",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017009908,
+      "mentions": [
+        {
+          "text": {
+            "content": "fate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ball",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0152385915,
+      "mentions": [
+        {
+          "text": {
+            "content": "ball",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Frail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013363458,
+      "mentions": [
+        {
+          "text": {
+            "content": "Frail",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "energy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011931046,
+      "mentions": [
+        {
+          "text": {
+            "content": "energy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "supervision",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0074879993,
+      "mentions": [
+        {
+          "text": {
+            "content": "supervision",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

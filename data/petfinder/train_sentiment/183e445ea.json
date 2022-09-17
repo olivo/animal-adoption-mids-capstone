@@ -1,0 +1,86 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "keiko is a female kitten.active and cute.rm50 for an adoption fees.please call affi at.COD at bandar sunway.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "keiko",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.53551644,
+      "mentions": [
+        {
+          "text": {
+            "content": "keiko",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22968693,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "COD",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.16396576,
+      "mentions": [
+        {
+          "text": {
+            "content": "COD",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bandar sunway",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0g2lsr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bandar_Sunway"
+      },
+      "salience": 0.070830844,
+      "mentions": [
+        {
+          "text": {
+            "content": "bandar sunway",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

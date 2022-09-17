@@ -1,0 +1,99 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "John is a healthy male pup that is very active...he loves to play.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "He is now in kulim kedah.....tnc apply",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6988821,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pup",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2753785,
+      "mentions": [
+        {
+          "text": {
+            "content": "pup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kedah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kedah",
+        "mid": "/m/01xl46"
+      },
+      "salience": 0.012869704,
+      "mentions": [
+        {
+          "text": {
+            "content": "kedah",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kulim",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://ru.wikipedia.org/wiki/Кулим",
+        "mid": "/g/120w8dt6"
+      },
+      "salience": 0.012869704,
+      "mentions": [
+        {
+          "text": {
+            "content": "kulim",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

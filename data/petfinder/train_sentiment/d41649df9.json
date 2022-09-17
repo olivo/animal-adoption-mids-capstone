@@ -1,0 +1,207 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Baby is a very cute &amp; active kitten.It have brown spot like Bengal breed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She is litter train Diet:Blackwood Kitten Adoption fees is RM COD at Bandar Sunway Please call Affi at",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.58143336,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baby",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08066896,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brown spot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07971847,
+      "mentions": [
+        {
+          "text": {
+            "content": "brown spot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten.It",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0hjzp",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kitten"
+      },
+      "salience": 0.07767001,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten.It",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bengal",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0gzxy",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bengal_cat"
+      },
+      "salience": 0.048404794,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bengal",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "litter train Diet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.046711873,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter train Diet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "RM COD",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03537933,
+      "mentions": [
+        {
+          "text": {
+            "content": "RM COD",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bandar Sunway",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0g2lsr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bandar_Sunway"
+      },
+      "salience": 0.01648325,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bandar Sunway",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "fees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014718096,
+      "mentions": [
+        {
+          "text": {
+            "content": "fees",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Affi",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.011558903,
+      "mentions": [
+        {
+          "text": {
+            "content": "Affi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Blackwood Kitten Adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0072529386,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blackwood Kitten Adoption",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}
