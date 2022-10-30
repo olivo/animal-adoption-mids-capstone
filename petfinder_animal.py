@@ -43,6 +43,7 @@ class petfinder_animal:
         self.Gender = self.harmonized_Gender(self.Gender)
         self.Color1 = self.harmonized_Color(self.Color1)
         self.Color2 = self.harmonized_Color(self.Color2)
+        self.Description = self.harmonized_Description(self.Description)
         self.MaturitySize = self.harmonized_MaturitySize(self.MaturitySize)
         self.FurLength = self.harmonized_FurLength(self.FurLength)
         self.Vaccinated = self.harmonized_Vaccinated(self.Vaccinated)
@@ -76,7 +77,7 @@ class petfinder_animal:
             'Australian Shepherd' : 16
         }
         
-        return breed_dictionary.get(breed, None)
+        return breed_dictionary.get(breed, 0)
 
     def harmonized_Color(self, color):
         color_dictionary = {
@@ -89,7 +90,13 @@ class petfinder_animal:
             'White' : 7
         }
 
-        return color_dictionary.get(color, None)
+        return color_dictionary.get(color, 0)
+
+    def harmonized_Description(self, description):
+        if description is None:
+            return ""
+        else:
+            return description
 
     def harmonized_Dewormed(self, Dewormed):
         return 3 # 3: Not sure
@@ -184,6 +191,36 @@ class petfinder_animal:
             'Health' : self.Health,
             'State' : self.State,
             'Description' : self.Description,
+            'HasDescription' : self.HasDescription,
+            'Age' : self.Age,
+            'Quantity' : self.Quantity,
+            'Fee' : self.Fee,
+            'VideoAmt' : self.VideoAmt,
+            'PhotoAmt' : self.PhotoAmt,
+            'DescriptionLength' : self.DescriptionLength,
+            'nltk_negative_prob' : self.nltk_negative_prob,
+            'nltk_neutral_prob' : self.nltk_neutral_prob,
+            'nltk_positive_prob' : self.nltk_positive_prob,
+            'nltk_compound_score' : self.nltk_compound_score
+        }
+
+        return property_dictionary
+
+    def as_kaggle_dictionary(self):
+        property_dictionary = {
+            'Type' : self.Type,
+            'Breed1' : self.Breed1,
+            'Breed2' : self.Breed2,
+            'Gender' : self.Gender,
+            'Color1' : self.Color1,
+            'Color2' : self.Color2,
+            'MaturitySize' : self.MaturitySize,
+            'FurLength' : self.FurLength,
+            'Vaccinated' : self.Vaccinated,
+            'Dewormed' : self.Dewormed,
+            'Sterilized' : self.Sterilized,
+            'Health' : self.Health,
+            'State' : self.State,
             'HasDescription' : self.HasDescription,
             'Age' : self.Age,
             'Quantity' : self.Quantity,
