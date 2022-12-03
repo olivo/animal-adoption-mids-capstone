@@ -1,5 +1,9 @@
+import cv2
 from nltk.sentiment import SentimentIntensityAnalyzer
 import nltk
+import numpy as np
+import requests
+import shutil
 
 class petfinder_animal:
     def __init__(self, petfinder_attribute_dictionary):
@@ -9,6 +13,7 @@ class petfinder_animal:
         self.Gender = petfinder_attribute_dictionary['gender']
         self.Color1 = petfinder_attribute_dictionary['colors']['primary']
         self.Color2 = petfinder_attribute_dictionary['colors']['secondary']
+        self.Color3 = petfinder_attribute_dictionary['colors']['tertiary']
         self.MaturitySize = petfinder_attribute_dictionary['size']
         #self.FurLength = 0 # Not specified.
         self.FurLength = None
@@ -34,6 +39,7 @@ class petfinder_animal:
         animal = petfinder_animal(petfinder_attribute_dictionary)
         animal.harmonize_fields()
         animal.add_sentiment_fields()
+        animal.add_image_fields()
 
         return animal
 
@@ -44,6 +50,7 @@ class petfinder_animal:
         self.Gender = self.harmonized_Gender(self.Gender)
         self.Color1 = self.harmonized_Color(self.Color1)
         self.Color2 = self.harmonized_Color(self.Color2)
+        self.Color3 = self.harmonized_Color(self.Color3)
         self.Description = self.harmonized_Description(self.Description)
         self.MaturitySize = self.harmonized_MaturitySize(self.MaturitySize)
         self.FurLength = self.harmonized_FurLength(self.FurLength)
@@ -176,6 +183,27 @@ class petfinder_animal:
             self.nltk_positive_prob = 0
             self.nltk_compound_score = 0
 
+    def add_image_fields(self):
+        photo_blurriness = []
+        for photo in self.Photos:
+            full_photo_url = photo['full']
+
+            # Download the photo locally.
+            res = requests.get(full_photo_url, stream = True)
+            with open("temp.jpg",'wb') as f:
+                shutil.copyfileobj(res.raw, f)
+
+            # Compute the LaPlacian for the photo.
+            imagePath = "temp.jpg"
+            image = cv2.imread(imagePath)
+            gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+            fm = cv2.Laplacian(gray, cv2.CV_64F).var()
+
+            # Store the result.
+            photo_blurriness.append(fm)
+
+        self.AvgLaPlacianVariance = np.mean(photo_blurriness)      
+
     def as_dictionary(self):
         property_dictionary = {
             'Type' : self.Type,
@@ -184,6 +212,7 @@ class petfinder_animal:
             'Gender' : self.Gender,
             'Color1' : self.Color1,
             'Color2' : self.Color2,
+            'Color3' : self.Color3,
             'MaturitySize' : self.MaturitySize,
             'FurLength' : self.FurLength,
             'Vaccinated' : self.Vaccinated,
@@ -202,7 +231,8 @@ class petfinder_animal:
             'nltk_negative_prob' : self.nltk_negative_prob,
             'nltk_neutral_prob' : self.nltk_neutral_prob,
             'nltk_positive_prob' : self.nltk_positive_prob,
-            'nltk_compound_score' : self.nltk_compound_score
+            'nltk_compound_score' : self.nltk_compound_score,
+            'AvgLaPlacianVariance' : self.AvgLaPlacianVariance
         }
 
         return property_dictionary
@@ -215,6 +245,7 @@ class petfinder_animal:
             'Gender' : self.Gender,
             'Color1' : self.Color1,
             'Color2' : self.Color2,
+            'Color3' : self.Color3,
             'MaturitySize' : self.MaturitySize,
             'FurLength' : self.FurLength,
             'Vaccinated' : self.Vaccinated,
@@ -232,7 +263,8 @@ class petfinder_animal:
             'nltk_negative_prob' : self.nltk_negative_prob,
             'nltk_neutral_prob' : self.nltk_neutral_prob,
             'nltk_positive_prob' : self.nltk_positive_prob,
-            'nltk_compound_score' : self.nltk_compound_score
+            'nltk_compound_score' : self.nltk_compound_score,
+            'AvgLaPlacianVariance' : self.AvgLaPlacianVariance
         }
 
         return property_dictionary
