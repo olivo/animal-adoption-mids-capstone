@@ -27,7 +27,8 @@ class petfinder_animal:
         self.Fee = None
         self.VideoAmt = len(petfinder_attribute_dictionary['videos'])
         self.PhotoAmt = len(petfinder_attribute_dictionary['photos'])
-        self.DescriptionLength = len(self.description) if self.HasDescription else 0
+        self.DescriptionLength = len(self.Description) if self.HasDescription else 0
+        self.Photos = petfinder_attribute_dictionary['photos']
 
     def create_harmonized_petfinder_animal(petfinder_attribute_dictionary):
         animal = petfinder_animal(petfinder_attribute_dictionary)
