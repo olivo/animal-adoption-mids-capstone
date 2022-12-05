@@ -8,7 +8,7 @@ import shutil
 class petfinder_feedback:
     def __init__(self, animal):
         self.sentence_sentiments = self.get_sentence_sentiments(animal.Description)
-        # TODO: Need to add Photos field to petfinder_animal. 
+        self.sorted_negative_sentences = self.get_sorted_negative_sentences()
         self.photo_blurriness = self.get_photo_blurriness(animal.Photos)
 
     def get_sentence_sentiments(self, description):
@@ -21,6 +21,9 @@ class petfinder_feedback:
             sentence_to_negative_prob[sentence] = polarity_scores['neg']
 
         return sentence_to_negative_prob
+
+    def get_sorted_negative_sentences(self):
+        return sorted(self.sentence_sentiments.items(),key=lambda x: x[1], reverse=True)
 
     def get_photo_blurriness(self, photos):
         photo_blurriness = dict()

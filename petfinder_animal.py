@@ -34,6 +34,7 @@ class petfinder_animal:
         self.PhotoAmt = len(petfinder_attribute_dictionary['photos'])
         self.DescriptionLength = len(self.Description) if self.HasDescription else 0
         self.Photos = petfinder_attribute_dictionary['photos']
+        self.Url = petfinder_attribute_dictionary['url']
 
     def create_harmonized_petfinder_animal(petfinder_attribute_dictionary):
         animal = petfinder_animal(petfinder_attribute_dictionary)
@@ -184,6 +185,10 @@ class petfinder_animal:
             self.nltk_compound_score = 0
 
     def add_image_fields(self):
+        if self.Photos == []:
+            self.AvgLaPlacianVariance = 0
+            return 0
+
         photo_blurriness = []
         for photo in self.Photos:
             full_photo_url = photo['full']
